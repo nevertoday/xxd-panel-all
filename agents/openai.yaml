@@ -1,0 +1,4 @@
+interface:
+  display_name: "/xxd-panel-all"
+  short_description: "智能选择 Panel，并逐张处理目录中的批量图片。"
+  default_prompt: "Use $xxd-panel-all to inspect this image folder, detect my available Panel skills, ask for one batch strategy, and route every image through an individual Panel job."
