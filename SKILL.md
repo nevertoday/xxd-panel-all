@@ -77,7 +77,7 @@ Ask which recommendation to use. “All of them” transitions to `compare`. If 
 
 If the user has not supplied a filter, ask how they want to browse: all, by subject, by visual feeling/medium, by use, or keyword search. Use the catalog's title and keywords as discovery metadata only.
 
-Keep results scannable. Show a relevant group rather than dumping 54 long descriptions; offer the next group when needed. Format each result as number, short title, key traits, and `(已安装)` or `(未安装)`. When asked to show all, group by a useful dimension and keep each entry to one line.
+Keep results scannable. Show a relevant group rather than dumping the full catalog; offer the next group when needed. Format each result as number, short title, key traits, and `(已安装)` or `(未安装)`. When asked to show all, group by a useful dimension and keep each entry to one line.
 
 Selecting an available number transitions to `direct`. Selecting a missing number explains that it cannot run and offers: install it separately, choose the closest available Panel, or return to browsing.
 
@@ -158,7 +158,7 @@ After assignment, process the queue one source at a time. Each source is a fresh
 
 This Skill owns discovery, questioning, selection, and routing only. Each `xxd-panel-NNN` owns actual production. Never:
 
-- act as a 55th visual style;
+- act as another visual style;
 - synthesize a missing Panel from catalog metadata;
 - combine multiple Panel aesthetics into one prompt;
 - copy, summarize, or override a child's original source brief for generation;

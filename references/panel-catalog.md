@@ -58,18 +58,19 @@ Use this index only to search, compare, and route. These summaries are not gener
 | 052 | 悬浮在风景线上的手工微缩世界 | 素雅剪纸、微缩世界、横向风景线、悬浮、手工 |
 | 053 | 在恰当位置停下的观察式手绘线条 | 即兴手绘、观察线条、自然衔接、克制、现场感 |
 | 054 | 主视觉与六枚不等大记忆碎片 | 旧贴纸、视觉线索、选择性记忆、碎片布局、叙事 |
+| 055 | 一束光、一个动作与一个空间关系的治愈绘画叙事 | 主体叙事、治愈粉彩、浅油画笔触、空气蓝、编辑留白 |
+| 056 | 巨大留白中的稚拙手绘视觉记忆 | 核心意象、近白背景、暖冷跳色、停顿笔触、视觉隐喻 |
 
 ## Matching guidance
 
 Use several dimensions together rather than one keyword:
 
 - **Recognisability first:** favour 019, 026, 042, 048 when structural recognition or explanation matters.
-- **Quiet/minimal:** consider 006, 009, 011, 016, 018, 027, 036.
-- **Warm/handmade:** consider 001, 002, 017, 029, 034, 038, 039, 049, 052, 053.
+- **Quiet/minimal:** consider 006, 009, 011, 016, 018, 027, 036, 056.
+- **Warm/handmade:** consider 001, 002, 017, 029, 034, 038, 039, 049, 052, 053, 055, 056.
 - **Dimensional/object-like:** consider 008, 014, 027, 028, 035, 037, 045, 046, 047, 051.
 - **Travel/place:** consider 004, 013, 028, 037, 050, 052.
-- **Editorial/typographic:** consider 007, 015, 018, 020, 032, 033, 048.
-- **Conceptual/metaphorical:** consider 003, 011, 016, 025, 031, 040, 041, 054.
+- **Editorial/typographic:** consider 007, 015, 018, 020, 032, 033, 048, 055.
+- **Conceptual/metaphorical:** consider 003, 011, 016, 025, 031, 040, 041, 054, 056.
 
 These are candidate sets, not hard rules. The actual image/theme and the user's desired feeling decide the ranking. Never expose this routing guidance as if it were a guarantee of the child's generated result.
-
