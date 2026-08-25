@@ -52,6 +52,14 @@ If no child Panel is available, say so without treating it as a failure. `browse
 
 Use a real question tool only when its schema matches the choice. The five top-level modes are mutually exclusive and may use a single-choice tool. Do not draw fake checkboxes. Ask only unresolved questions and accept natural language or inline numbers.
 
+## Remembered delivery preferences
+
+Routing intent is always current-task intent: never inherit recommend/browse/direct/compare/batch, selected Soldier numbers, comparison sets, or batch assignment strategy. Delivery preferences are different because modes, sizes, text/language, wallpaper settings, and output root are shared across the family.
+
+Accept `--prefs last|edit|new|off|clear` and natural-language equivalents. When this General is about to collect unresolved shared delivery settings for several child jobs, read [references/runtime-preferences.md](references/runtime-preferences.md) completely and run its three-way preference gate: reuse, reuse and edit, or fresh configuration. Current explicit requirements always win. A fully specified invocation skips the preference question.
+
+For one direct child invocation, let that Soldier own the gate so the user is never asked twice. For comparison or batch work, the General resolves the shared preference once, passes the resulting settings explicitly to every child, and saves only the safe family-wide delivery fields through `scripts/panel_preferences.py`. Never remember exact copy, sources, prompts, results, providers, credentials, or secrets.
+
 ## 1. Intelligent recommendation
 
 Obtain the image or theme first. Use information already supplied; do not require the user to restate it. Ask only useful missing preferences, normally grouped into one compact prompt:
@@ -140,6 +148,8 @@ Ask whether the collection should remain visually unified only when that choice 
 ### Collect shared settings once
 
 Batch efficiency comes from avoiding the same questions for every file. Before dispatch, collect any delivery settings intended to apply across the batch—such as output mode, size route, text mode/language, wallpaper relationship, and output root—once, but only to the extent required by the selected child Skill or Skills. Reuse explicit settings already present in the invocation.
+
+Apply the remembered-preference gate above before asking the ordinary shared-setting questions. If the user selects reuse and the saved text mode is `exact`, request new exact copy or a filename-to-copy mapping; exact copy is intentionally never stored.
 
 - Pass the shared answers unchanged to every child job.
 - If exact text differs per image, ask for a filename-to-text mapping or let the user choose prompt-generated/no text; never reuse one image's exact copy accidentally across the whole folder.

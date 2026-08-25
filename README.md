@@ -65,6 +65,22 @@ Skill 会直接进入批量模式，扫描目录和子目录中的图片，然�
 
 公共交付设置只收集一次；随后每张图片仍作为独立任务进入对应的 `xxd-panel-NNN`，不会合并成拼图或让不同图片互相污染。
 
+## 继承上次偏好，或全新配置
+
+当本次交付设置还不完整、且检测到上一次 XXD Panel 偏好时，将军或士兵会先展示上次的模式、尺寸、文字与语言、壁纸关系和输出位置，再询问：
+
+1. **直接沿用**：沿用上次设置，本次已经明确说出的要求优先。
+2. **沿用并修改**：先带入上次设置，只修改你选中的项目。
+3. **全新配置**：忽略历史设置，从头选择。
+
+完整参数仍然直接执行，不增加多余问询。也可以显式使用 `--prefs last|edit|new|off|clear`。偏好记录只保存交付设置，不保存原图、准确文案、Panel 选择、生成结果、模型通道、API 凭据或其他敏感信息。
+
+```text
+$xxd-panel-all /path/to/images --prefs last
+$xxd-panel-all /path/to/images --prefs edit
+$xxd-panel-all /path/to/images --prefs new
+```
+
 ## 安装状态
 
 Panel 在运行时分为三种状态：
@@ -82,10 +98,15 @@ xxd-panel-all/
 ├── SKILL.md
 ├── agents/
 │   └── openai.yaml
-└── references/
-    └── panel-catalog.md
+├── references/
+│   ├── panel-catalog.md
+│   └── runtime-preferences.md
+└── scripts/
+    └── panel_preferences.py
 ```
 
 - `SKILL.md`：交互、推荐、浏览和批量路由规则
 - `panel-catalog.md`：Panel 001–060 的检索目录，不是生图提示词
+- `runtime-preferences.md`：沿用、修改、全新配置与隐私边界
+- `panel_preferences.py`：只读写安全交付偏好的本地辅助脚本
 - `openai.yaml`：Skill 的界面元数据
