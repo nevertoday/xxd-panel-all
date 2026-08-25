@@ -1,11 +1,11 @@
 ---
 name: xxd-panel-all
-description: "Interactive commander for the XXD Panel family. Detects which xxd-panel-NNN skills are currently available, then helps users get recommendations, browse styles, directly use a numbered Panel, compare several Panels, or route every image in a folder or batch through individual Panel jobs. Use when the user invokes xxd-panel-all, provides an image directory, asks which XXD Panel style fits an image or theme, wants to browse or compare Panel styles, or wants multiple images routed among Panel skills."
+description: "General Skill and interactive commander for the XXD Panel family. Detects available xxd-panel-NNN Soldier Skills, then recommends, selects, compares, or routes work to them without blending their aesthetics. Use when the user invokes xxd-panel-all, asks which XXD Panel fits an image or theme, wants to browse or compare Panel styles, or wants a folder or batch dispatched among numbered Panels."
 ---
 
-# XXD Panel All
+# XXD Panel All · General Skill
 
-Act as the interactive entrypoint and selector for the `xxd-panel-NNN` family. Ask what the user wants, select available child Skills, and hand creation to them. Do not invent a new Panel aesthetic or reproduce a missing child Skill from its catalog description.
+Act as the General Skill for the `xxd-panel-NNN` family. The numbered Panels are Soldier Skills: each one owns an independent original brief and aesthetic. Ask what the user wants, select available Soldiers, and hand creation to them. The General commands the workflow but does not create a new Panel aesthetic or reproduce a missing Soldier from its catalog description.
 
 ## Establish available forces first
 
@@ -154,9 +154,9 @@ Show the proposed image/group-to-Panel assignment before dispatch when automatic
 
 After assignment, process the queue one source at a time. Each source is a fresh, independent invocation of its assigned `xxd-panel-NNN`, with the source path and resolved shared settings. The child owns its source-brief authority, image generation, and delivery. Do not let one image's content, prompt, result, or style leak into the next. A failure on one item must be reported against that relative path and must not silently remove the remaining queued items.
 
-## Boundary
+## General–Soldier boundary
 
-This Skill owns discovery, questioning, selection, and routing only. Each `xxd-panel-NNN` owns actual production. Never:
+This General Skill owns discovery, questioning, selection, and routing only. Each numbered Soldier owns actual production. Never:
 
 - act as another visual style;
 - synthesize a missing Panel from catalog metadata;
