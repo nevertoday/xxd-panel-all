@@ -75,17 +75,18 @@ Use this index only to search, compare, and route. These summaries are not gener
 | 069 | 粗笔绘画视窗中的鲜活编辑重构 | 大号刷痕、不规则视窗、鲜活取色、纤细描边、自然越界、暖白留白、自由图文混排 |
 | 070 | 暖白留白中的明亮手绘编辑重构 | 手绘描边、明亮厚涂／半透明色块、微缩主体、鲜活取色、暖白留白、打字机式编辑字体 |
 | 071 | 近白纸面上的诗性粉彩记忆 | 柔和粉彩、粉蜡笔、水溶性色铅笔、漂浮记忆片段、诗性手写、大量留白 |
+| 072 | 区域化柔焦的雾面玻璃抽象系统 | 半透明磨砂视窗、区域差异化模糊、极简几何、清晰轮廓、明艳治愈色、现代排版 |
 
 ## Matching guidance
 
 Use several dimensions together rather than one keyword:
 
-- **Recognisability first:** favour 019, 026, 042, 048, 057, 058, 059, 060, 062, 063, 065, 066, 067, 068, 069, 070, 071 when structural recognition or explanation matters.
-- **Quiet/minimal:** consider 006, 009, 011, 016, 018, 027, 036, 056, 057, 058, 060, 062, 064, 065, 067, 068, 070, 071.
+- **Recognisability first:** favour 019, 026, 042, 048, 057, 058, 059, 060, 062, 063, 065, 066, 067, 068, 069, 070, 071, 072 when structural recognition or explanation matters.
+- **Quiet/minimal:** consider 006, 009, 011, 016, 018, 027, 036, 056, 057, 058, 060, 062, 064, 065, 067, 068, 070, 071, 072.
 - **Warm/handmade:** consider 001, 002, 017, 029, 034, 038, 039, 049, 052, 053, 055, 056, 059, 061, 062, 064, 065, 066, 067, 068, 069, 070, 071.
 - **Dimensional/object-like:** consider 008, 014, 027, 028, 035, 037, 045, 046, 047, 051.
 - **Travel/place:** consider 004, 013, 028, 037, 050, 052.
-- **Editorial/typographic:** consider 007, 015, 018, 020, 032, 033, 048, 055, 057, 058, 059, 060, 061, 062, 063, 064, 065, 066, 067, 068, 069, 070, 071.
-- **Conceptual/metaphorical:** consider 003, 011, 016, 025, 031, 040, 041, 054, 056, 057, 058, 059, 060, 061, 062, 063, 064, 065, 066, 067, 068, 069, 070, 071.
+- **Editorial/typographic:** consider 007, 015, 018, 020, 032, 033, 048, 055, 057, 058, 059, 060, 061, 062, 063, 064, 065, 066, 067, 068, 069, 070, 071, 072.
+- **Conceptual/metaphorical:** consider 003, 011, 016, 025, 031, 040, 041, 054, 056, 057, 058, 059, 060, 061, 062, 063, 064, 065, 066, 067, 068, 069, 070, 071, 072.
 
 These are candidate sets, not hard rules. The actual image/theme and the user's desired feeling decide the ranking. Never expose this routing guidance as if it were a guarantee of the child's generated result.
