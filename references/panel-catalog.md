@@ -64,17 +64,26 @@ Use this index only to search, compare, and route. These summaries are not gener
 | 058 | 从照片潜台词生长出的诗意观念景观 | 潜台词、几何极简、象征形体、理性结构、柔和手工质感、淡色留白 |
 | 059 | 温暖童真的手绘寓言绘本 | 手绘叙事、童真隐喻、轻微诙谐、纸面材料感、诗性旁白、大留白 |
 | 060 | 黑色极简形体中的禅意视觉哲思 | 黑色主形、1–3 个核心形、巨大留白、网点消散、正负形、哲思碎片 |
+| 061 | 散落而彼此呼应的视觉记忆片段 | 选择性记忆、3–6 个片段、剪纸色块、Risograph、即兴编辑排版、治愈色盘 |
+| 062 | 黑色稚拙线稿中的一枚记忆色 | 极简黑线、单一强调色、聪明笨拙、浅色纸底、专业留白 |
+| 063 | 像素 Mask 中的柔和色块隐喻 | 核心 Mask、像素形体、负形嵌套、轻微 glitch、有限色盘、大留白 |
+| 064 | 安静残缺的旧纸拼贴档案 | 手撕纸边、旧纸拼贴、铅笔墨线、打字机小字、档案感、诗性留白 |
+| 065 | 黑色结构线与双色手绘套印 | 黑色骨架、两种源图彩线、错位叠压、旧印刷节奏、微型排版 |
+| 066 | 松弛黑线与柔和平涂的童真叙事 | 童真叙事、笨拙黑线、3–6 色平涂、治愈色彩、手写观察、大留白 |
+| 067 | 红蓝双墨的私人日常观察 | 固定红蓝、手绘双墨、童真幽默、生活观察、极浅纸底、手写短句 |
+| 068 | 东方写意留白中的现代照片重构 | 经营位置、计白当黑、墨线淡彩、东方题跋、现代编辑、清雅留白 |
+| 069 | 粗笔绘画视窗中的鲜活编辑重构 | 大号刷痕、不规则视窗、鲜活取色、纤细描边、自然越界、暖白留白、自由图文混排 |
 
 ## Matching guidance
 
 Use several dimensions together rather than one keyword:
 
-- **Recognisability first:** favour 019, 026, 042, 048, 057, 058, 059, 060 when structural recognition or explanation matters.
-- **Quiet/minimal:** consider 006, 009, 011, 016, 018, 027, 036, 056, 057, 058, 060.
-- **Warm/handmade:** consider 001, 002, 017, 029, 034, 038, 039, 049, 052, 053, 055, 056, 059.
+- **Recognisability first:** favour 019, 026, 042, 048, 057, 058, 059, 060, 062, 063, 065, 066, 067, 068, 069 when structural recognition or explanation matters.
+- **Quiet/minimal:** consider 006, 009, 011, 016, 018, 027, 036, 056, 057, 058, 060, 062, 064, 065, 067, 068.
+- **Warm/handmade:** consider 001, 002, 017, 029, 034, 038, 039, 049, 052, 053, 055, 056, 059, 061, 062, 064, 065, 066, 067, 068, 069.
 - **Dimensional/object-like:** consider 008, 014, 027, 028, 035, 037, 045, 046, 047, 051.
 - **Travel/place:** consider 004, 013, 028, 037, 050, 052.
-- **Editorial/typographic:** consider 007, 015, 018, 020, 032, 033, 048, 055, 057, 058, 059, 060.
-- **Conceptual/metaphorical:** consider 003, 011, 016, 025, 031, 040, 041, 054, 056, 057, 058, 059, 060.
+- **Editorial/typographic:** consider 007, 015, 018, 020, 032, 033, 048, 055, 057, 058, 059, 060, 061, 062, 063, 064, 065, 066, 067, 068, 069.
+- **Conceptual/metaphorical:** consider 003, 011, 016, 025, 031, 040, 041, 054, 056, 057, 058, 059, 060, 061, 062, 063, 064, 065, 066, 067, 068, 069.
 
 These are candidate sets, not hard rules. The actual image/theme and the user's desired feeling decide the ranking. Never expose this routing guidance as if it were a guarantee of the child's generated result.
