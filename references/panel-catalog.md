@@ -78,17 +78,18 @@ Use this index only to search, compare, and route. These summaries are not gener
 | 072 | 区域化柔焦的雾面玻璃抽象系统 | 半透明磨砂视窗、区域差异化模糊、极简几何、清晰轮廓、明艳治愈色、现代排版 |
 | 073 | 理性脚手架介入的剖切微缩建筑 | 等距微缩建筑、剖切立方体、大陆架空间、脚手架节点、手绘建筑图解、白色纹理纸 |
 | 074 | 从照片灵魂生长出的正面伪3D图标 | 标准圆角方形、正面2.5D、核心关系、连续遮挡、源图配色、哑光雕塑、品牌图标 |
+| 075 | 柔和色域上的深色蜡笔私人速写 | 深色蜡笔、米白手工纸、不规则低饱和色块、Risograph颗粒、大量留白、打字机注记 |
 
 ## Matching guidance
 
 Use several dimensions together rather than one keyword:
 
-- **Recognisability first:** favour 019, 026, 042, 048, 057, 058, 059, 060, 062, 063, 065, 066, 067, 068, 069, 070, 071, 072, 073, 074 when structural recognition or explanation matters.
-- **Quiet/minimal:** consider 006, 009, 011, 016, 018, 027, 036, 056, 057, 058, 060, 062, 064, 065, 067, 068, 070, 071, 072, 073.
-- **Warm/handmade:** consider 001, 002, 017, 029, 034, 038, 039, 049, 052, 053, 055, 056, 059, 061, 062, 064, 065, 066, 067, 068, 069, 070, 071.
+- **Recognisability first:** favour 019, 026, 042, 048, 057, 058, 059, 060, 062, 063, 065, 066, 067, 068, 069, 070, 071, 072, 073, 074, 075 when structural recognition or explanation matters.
+- **Quiet/minimal:** consider 006, 009, 011, 016, 018, 027, 036, 056, 057, 058, 060, 062, 064, 065, 067, 068, 070, 071, 072, 073, 075.
+- **Warm/handmade:** consider 001, 002, 017, 029, 034, 038, 039, 049, 052, 053, 055, 056, 059, 061, 062, 064, 065, 066, 067, 068, 069, 070, 071, 075.
 - **Dimensional/object-like:** consider 008, 014, 027, 028, 035, 037, 045, 046, 047, 051, 073, 074.
 - **Travel/place:** consider 004, 013, 028, 037, 050, 052.
-- **Editorial/typographic:** consider 007, 015, 018, 020, 032, 033, 048, 055, 057, 058, 059, 060, 061, 062, 063, 064, 065, 066, 067, 068, 069, 070, 071, 072, 073, 074.
-- **Conceptual/metaphorical:** consider 003, 011, 016, 025, 031, 040, 041, 054, 056, 057, 058, 059, 060, 061, 062, 063, 064, 065, 066, 067, 068, 069, 070, 071, 072, 073, 074.
+- **Editorial/typographic:** consider 007, 015, 018, 020, 032, 033, 048, 055, 057, 058, 059, 060, 061, 062, 063, 064, 065, 066, 067, 068, 069, 070, 071, 072, 073, 074, 075.
+- **Conceptual/metaphorical:** consider 003, 011, 016, 025, 031, 040, 041, 054, 056, 057, 058, 059, 060, 061, 062, 063, 064, 065, 066, 067, 068, 069, 070, 071, 072, 073, 074, 075.
 
 These are candidate sets, not hard rules. The actual image/theme and the user's desired feeling decide the ranking. Never expose this routing guidance as if it were a guarantee of the child's generated result.
