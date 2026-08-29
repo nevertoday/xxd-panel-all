@@ -88,6 +88,7 @@ Use this index only to search, compare, and route. These summaries are not gener
 | 082 | 不规则水彩轴测小世界 | Naïve + Wonky、Isometric/2.5D、层叠平面、鲜活治愈配色、稚拙主角、大面积留白 |
 | 083 | 丑萌涂鸦私人喜剧角色 | Ugly-cute、Wonky手绘、故意失准、单一主体、粗糙蜡笔、少怪笨准 |
 | 084 | 几何线描与点描城市随笔 | 极简城市线描、透视引导线、density stippling、低刺激综合色、spot color、诗意留白 |
+| 085 | 手工微缩舞台收藏封面 | 黏土、毛毡、手剪纸、线绳、哑光材料、20–30%主体、艺术留白 |
 
 ## Matching guidance
 
