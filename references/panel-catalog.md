@@ -103,6 +103,7 @@ Use this index only to search, compare, and route. These summaries are not gener
 | 097 | 中世纪民间商业技术图解 | economy of line、功能轮廓、示意透视、可变第二专色、手绘商业字、轻微幽默、旧说明卡质感 |
 | 098 | 拟朴素水彩绘本插画 | 松散墨线、平面水彩／类水粉、符号化造型、天真透视、明快照片取色、稚拙手绘字、成熟叙事构图 |
 | 099 | 品牌吉祥物平面矢量插画 | 3–5个身份特征、粗黑轮廓、圆润几何、夸张比例、2–4色品牌化取色、超大文字背景、角色主导构图 |
+| 100 | 稚拙民艺感平面叙事插画 | primitive forms、简化剪影、flattened perspective、蜡笔／油画棒颗粒、暖白纸面、照片来源的鲜活限制性色彩、民艺编辑文字 |
 
 ## Matching guidance
 
