@@ -89,6 +89,8 @@ Use this index only to search, compare, and route. These summaries are not gener
 | 083 | 丑萌涂鸦私人喜剧角色 | Ugly-cute、Wonky手绘、故意失准、单一主体、粗糙蜡笔、少怪笨准 |
 | 084 | 几何线描与点描城市随笔 | 极简城市线描、透视引导线、density stippling、低刺激综合色、spot color、诗意留白 |
 | 085 | 手工微缩舞台收藏封面 | 黏土、毛毡、手剪纸、线绳、哑光材料、20–30%主体、艺术留白 |
+| 086 | 中世纪现代主义限色丝网版画 | 3–5个关键视觉信息、剪影几何、2–4色专印、干刷拖墨、断墨飞白、一个焦点、大面积留白 |
+| 087 | 实体线绳关系系统地图 | 图钉节点、朱红线绳、关系映射、涌现几何、手写注释、中心密外围疏、研究墙式留白 |
 
 ## Matching guidance
 
