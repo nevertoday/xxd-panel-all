@@ -101,6 +101,7 @@ Use this index only to search, compare, and route. These summaries are not gener
 | 095 | 黑红双色模块化编辑图解 | visual shorthand、技术细线、主图解锚点、红色专色标记、大面积留白、旧式印刷肌理 |
 | 096 | QSL 通信卡民间印刷 | 钢笔线描、老式打字机字、彩色纸张加单一墨色、复印颗粒、DIY 偶然感、私人通信记录 |
 | 097 | 中世纪民间商业技术图解 | economy of line、功能轮廓、示意透视、可变第二专色、手绘商业字、轻微幽默、旧说明卡质感 |
+| 098 | 拟朴素水彩绘本插画 | 松散墨线、平面水彩／类水粉、符号化造型、天真透视、明快照片取色、稚拙手绘字、成熟叙事构图 |
 
 ## Matching guidance
 
