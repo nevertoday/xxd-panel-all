@@ -85,6 +85,7 @@ Use this index only to search, compare, and route. These summaries are not gener
 | 079 | 几何直线与自由曲线的现场淡彩 | 强几何骨架、自由有机曲线、钢笔淡彩、未完成感、大面积纸白、编辑式图文 |
 | 080 | 植物色数字水粉情绪重构 | 柔性有机几何、数字水粉与蜡笔、颗粒肌理、低饱和植物色、自然隐喻、情绪留白 |
 | 081 | 等粗彩色单线私人纪念海报 | 开放轮廓、线密度层级、2–4色专印、Risograph颗粒、暖白留白、记忆符号化 |
+| 082 | 不规则水彩轴测小世界 | Naïve + Wonky、Isometric/2.5D、层叠平面、鲜活治愈配色、稚拙主角、大面积留白 |
 
 ## Matching guidance
 
