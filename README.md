@@ -54,6 +54,14 @@ mkdir -p ~/.claude/skills
 ln -s "$(pwd)/xxd-panel-all" ~/.claude/skills/xxd-panel-all
 ```
 
+也可以直接使用 `npx skills` 安装：
+
+```bash
+npx skills add https://github.com/xiaoxiaodong-ai/xxd-panel-all --skill xxd-panel-all
+```
+
+该命令会从 GitHub 获取将军仓库，并把 `xxd-panel-all` 安装到当前 Agent。若要安装到用户级 Codex Skills 目录，可在命令末尾加上 `--global --agent codex --yes`。将军只负责调度；要实际制作，还需要另外安装所需的 `xxd-panel-NNN` 士兵 Skills。
+
 如果 `~/.codex/skills` 没有与 `~/.claude/skills` 共用，可以另外建立链接：
 
 ```bash
