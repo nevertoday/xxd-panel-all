@@ -2,3 +2,6 @@ interface:
   display_name: "/xxd-panel-all"
   short_description: "将军 Skill：推荐、点将并调度编号 Panel 士兵。"
   default_prompt: "Use $xxd-panel-all as the General Skill: detect my available numbered Panel Soldiers, help me choose or assign them for this request, and preserve each selected Soldier's independent original aesthetic."
+
+policy:
+  allow_implicit_invocation: true

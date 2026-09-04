@@ -1,5 +1,7 @@
 # XXD Panel All · 将军 Skill
 
+<a href="README.md"><strong>简体中文</strong></a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
+
 `xxd-panel-all` 是 XXD Panel 系列的将军级 Skill。它先识别当前环境中已安装的 `xxd-panel-NNN` 士兵级 Skills，再承接以下任务：
 
 如果你也有过这种时刻：手里一堆照片，不知道该用哪种风格；一个个试太慢，凭感觉乱选又容易后悔——这个 Skill 就是替你做第一轮判断的。你只要把图片或文件夹交过来，它会先看懂需求，再从已经安装的 Panel 里挑人、派活、收结果。你不用先背下 112 个编号。
