@@ -151,6 +151,13 @@ Use this index only to search, compare, and route. These summaries are not gener
 | 146 | 博物学丝巾印花志 | 装饰性博物学与丝巾印花、精细雕刻线、3–5源图平涂色、邮票式小主体、巨大留白 |
 | 147 | 便当食材包装志 | Bento-fication、食材语义映射、单个透明熟食盒、俯拍食品摄影、新鲜食材色、克制商品标签 |
 | 148 | 视觉日记拼贴志 | Visual Journal、摄影碎片与纸张胶带、私人叙事、自由非对称编辑、2–4源图色、大量主动留白 |
+| 149 | 手绘肌理扁平志 | 手绘肌理扁平插画、粗粝粉蜡笔与纸纹、源图取色、删减重构与留白 |
+| 150 | 复古现代剪纸志 | 复古现代剪纸、几何纸片与有机边缘、简化形体、微小视觉核心与留白 |
+| 151 | 稚拙扁平手绘志 | 稚拙扁平手绘、自然不规则线条、简洁色块、源图关系与巨大留白 |
+| 152 | 色场基座纸艺志 | 纸艺插画、贯穿底部的稳定色场基座、纸片叠层与轻投影、源图取色 |
+| 153 | 单色手帐涂鸦志 | 单色手帐涂鸦、少量稚拙线条、小邮票式主体、方格纸感与巨大留白 |
+| 154 | 复古像素留白志 | 复古像素艺术、清晰方形像素与阶梯轮廓、限色像素簇、小主体大留白 |
+| 155 | 一点透视淡彩志 | 一点透视室内设计手绘、建筑结构线与极淡水彩、小型核心、巨大编辑留白 |
 
 ## Latest repositories
 
@@ -191,8 +198,17 @@ Use this index only to search, compare, and route. These summaries are not gener
 - [Panel 144 · 几何反白破框志](https://github.com/nevertoday/xxd-panel-144)
 - [Panel 145 · 复古限色版画志](https://github.com/nevertoday/xxd-panel-145)
 - [Panel 146 · 博物学丝巾印花志](https://github.com/nevertoday/xxd-panel-146)
+- [Panel 147 · 便当食材包装志](https://github.com/nevertoday/xxd-panel-147)
+- [Panel 148 · 视觉日记拼贴志](https://github.com/nevertoday/xxd-panel-148)
+- [Panel 149 · 手绘肌理扁平志](https://github.com/nevertoday/xxd-panel-149)
+- [Panel 150 · 复古现代剪纸志](https://github.com/nevertoday/xxd-panel-150)
+- [Panel 151 · 稚拙扁平手绘志](https://github.com/nevertoday/xxd-panel-151)
+- [Panel 152 · 色场基座纸艺志](https://github.com/nevertoday/xxd-panel-152)
+- [Panel 153 · 单色手帐涂鸦志](https://github.com/nevertoday/xxd-panel-153)
+- [Panel 154 · 复古像素留白志](https://github.com/nevertoday/xxd-panel-154)
+- [Panel 155 · 一点透视淡彩志](https://github.com/nevertoday/xxd-panel-155)
 
-This catalog contains 145 entries through number 146. Number 113 is not catalogued; do not assume sequential availability.
+This catalog contains 154 entries through number 155. Number 113 is not catalogued; do not assume sequential availability.
 
 ## Matching guidance
 
@@ -219,3 +235,5 @@ These are candidate sets, not hard rules. The actual image/theme and the user's 
 For Panels 147–148, choose 147 for semantic food substitution: reinterpret the source’s defining relationships as fresh ingredients inside one transparent konbini deli container, photographed mainly from above with restrained retail labels. Choose 148 for a personal visual-journal collage of selected photo fragments, paper, tape, notes and small narrative keepsakes, edited into a free-form asymmetric composition with abundant whitespace. Distinguish 147’s edible material and container-based product reconstruction from 148’s selective photographic mixed-media storytelling. Neither calls for literal object-by-object copying; 147 does not prescribe a fixed palette count or miniature subject, while 148 explicitly uses 2–4 source-derived colours.
 
 For Panels 139–146, choose 139 for text-encoded abstract line fields and plotter grids; 140 for a tiny dry-media visual island; 141 for sparse searching hand-drawn outlines; 142 for extended glyphs masking and interacting with photographic fragments; 143 for words constructing the subject as a calligram; 144 for delicate linework crossing one geometric colour anchor through white knockout; 145 for vintage spot-colour engraving and print grain; and 146 for decorative natural-history scarf illustration. Distinguish 139’s encoded abstraction from 141’s recognisable outlines, 142’s photographic glyph masks from 143’s word-built image, and 145’s vintage print texture from 146’s ornamental natural-history language. Core letters are indispensable in 142 and 143: clarify a text-free request instead of silently changing style. Panel 144 defaults to left–right 7:6 under its final source amendment; explicit runtime modes and ratios override that layout.
+
+For Panels 149–155, choose 149 for textured hand-drawn flat shapes; 150 for retro-modern cut-paper geometry; 151 for naive flat hand drawing; 152 for paper forms anchored by a stable bottom colour field; 153 for a few monochrome journal-doodle marks and a stamp-sized subject; 154 for hard-edged retro pixel clusters; and 155 for one-point-perspective architectural interior linework with pale wash. Distinguish 149’s drawn texture from 150’s cut-paper edges and 152’s structural base, and 151’s flat colour from 153’s sparse monochrome doodles. Never blur 154 into smooth illustration. For 155, pale architectural exteriors alone do not meet the source brief’s interior-perspective requirement. Documentation samples are not a substitute for the original prompt or its acceptance checks.

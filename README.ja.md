@@ -4,7 +4,7 @@
 
 `xxd-panel-all` は XXD Panel シリーズの将軍レベル Skill です。まず現在の環境にインストール済みの `xxd-panel-NNN` 兵士 Skills を確認し、次の仕事を引き受けます。
 
-写真がたくさんあるのに、どのスタイルを使えばよいか分からない。一つずつ試すには時間がかかり、勘だけで選ぶと後悔しやすい——そんなとき、この Skill が最初の判断を代行します。画像やフォルダーを渡すだけで、要望を理解し、インストール済みの Panel から適任を選び、仕事を割り振って結果をまとめます。147 個の番号を先に暗記する必要はありません。
+写真がたくさんあるのに、どのスタイルを使えばよいか分からない。一つずつ試すには時間がかかり、勘だけで選ぶと後悔しやすい——そんなとき、この Skill が最初の判断を代行します。画像やフォルダーを渡すだけで、要望を理解し、インストール済みの Panel から適任を選び、仕事を割り振って結果をまとめます。154 個の番号を先に暗記する必要はありません。
 
 ### 30 秒で分かること
 
@@ -31,7 +31,7 @@
 | 階層 | Skill | 担当 |
 |---|---|---|
 | **将軍レベル** | [`xxd-panel-all`](https://github.com/nevertoday/xxd-panel-all) | 利用可能な兵士を検出。画像・テーマ・用途から推薦。番号指定で指揮。同一画像の複数スタイル試作を編成。画像フォルダーを項目ごとに割り当てて派遣。 |
-| **兵士レベル** | `xxd-panel-NNN`（カタログは 148 まで更新） | 各番号は独立した自分の原始プロンプトと美学だけを実行し、将軍から渡された個別タスクを完成品にする。 |
+| **兵士レベル** | `xxd-panel-NNN`（カタログは 155 まで更新） | 各番号は独立した自分の原始プロンプトと美学だけを実行し、将軍から渡された個別タスクを完成品にする。 |
 
 将軍は部隊を組織し、兵士の代わりに描きません。兵士の原始美学を書き換えたり、混ぜたり、上書きしたりせず、すべての完成画像は選ばれた番号の Skill が独立して制作します。
 
@@ -72,6 +72,13 @@
 - [XXD Panel 146 · 博物学スカーフ印花](https://github.com/nevertoday/xxd-panel-146)
 - [XXD Panel 147 · 弁当食材パッケージ](https://github.com/nevertoday/xxd-panel-147)
 - [XXD Panel 148 · ビジュアル日記コラージュ](https://github.com/nevertoday/xxd-panel-148)
+- [XXD Panel 149 · 手描き質感フラットアート](https://github.com/nevertoday/xxd-panel-149)
+- [XXD Panel 150 · レトロモダン切り紙](https://github.com/nevertoday/xxd-panel-150)
+- [XXD Panel 151 · 素朴なフラット手描き](https://github.com/nevertoday/xxd-panel-151)
+- [XXD Panel 152 · 色面ベースのペーパーアート](https://github.com/nevertoday/xxd-panel-152)
+- [XXD Panel 153 · 単色手帳ドゥードル](https://github.com/nevertoday/xxd-panel-153)
+- [XXD Panel 154 · レトロピクセルと余白](https://github.com/nevertoday/xxd-panel-154)
+- [XXD Panel 155 · 一点透視の淡彩](https://github.com/nevertoday/xxd-panel-155)
 
 ## 広告情報｜XXD 有料サービスと会員制度
 
@@ -172,7 +179,7 @@ xxd-panel-all/
 ```
 
 - `SKILL.md`：対話、推薦、閲覧、バッチルーティングの規則
-- `panel-catalog.md`：Panel 148 まで更新された検索用カタログ。画像生成プロンプトではありません
+- `panel-catalog.md`：Panel 155 まで更新された検索用カタログ。画像生成プロンプトではありません
 - `runtime-preferences.md`：引き継ぎ、変更、新規設定、プライバシー境界
 - `panel_preferences.py`：安全な納品設定だけを読み書きするローカル補助スクリプト
 - `openai.yaml`：Skill のインターフェースメタデータ

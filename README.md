@@ -4,7 +4,7 @@
 
 `xxd-panel-all` 是 XXD Panel 系列的将军级 Skill。它先识别当前环境中已安装的 `xxd-panel-NNN` 士兵级 Skills，再承接以下任务：
 
-如果你也有过这种时刻：手里一堆照片，不知道该用哪种风格；一个个试太慢，凭感觉乱选又容易后悔——这个 Skill 就是替你做第一轮判断的。你只要把图片或文件夹交过来，它会先看懂需求，再从已经安装的 Panel 里挑人、派活、收结果。你不用先背下 147 个编号。
+如果你也有过这种时刻：手里一堆照片，不知道该用哪种风格；一个个试太慢，凭感觉乱选又容易后悔——这个 Skill 就是替你做第一轮判断的。你只要把图片或文件夹交过来，它会先看懂需求，再从已经安装的 Panel 里挑人、派活、收结果。你不用先背下 154 个编号。
 
 ### 30 秒看懂
 
@@ -31,7 +31,7 @@
 | 层级 | Skill | 负责什么 |
 |---|---|---|
 | **将军级** | [`xxd-panel-all`](https://github.com/nevertoday/xxd-panel-all) | 识别可用士兵；按图片、主题和用途推荐；按编号点将；组织同图多风格试稿；为图片文件夹批量分配并逐项派发。 |
-| **士兵级** | `xxd-panel-NNN`（目录更新至 148） | 每个编号只执行自己独立的原始提示词与审美，把将军派发的单个任务完成为成品。 |
+| **士兵级** | `xxd-panel-NNN`（目录更新至 155） | 每个编号只执行自己独立的原始提示词与审美，把将军派发的单个任务完成为成品。 |
 
 将军负责组织队伍，不替士兵作画。它不会改写、混合或覆盖任何士兵的原始美学；每张成品始终由被选中的编号 Skill 独立完成。
 
@@ -72,6 +72,13 @@
 - [XXD Panel 146 · 博物学丝巾印花志](https://github.com/nevertoday/xxd-panel-146)
 - [XXD Panel 147 · 便当食材包装志](https://github.com/nevertoday/xxd-panel-147)
 - [XXD Panel 148 · 视觉日记拼贴志](https://github.com/nevertoday/xxd-panel-148)
+- [XXD Panel 149 · 手绘肌理扁平志](https://github.com/nevertoday/xxd-panel-149)
+- [XXD Panel 150 · 复古现代剪纸志](https://github.com/nevertoday/xxd-panel-150)
+- [XXD Panel 151 · 稚拙扁平手绘志](https://github.com/nevertoday/xxd-panel-151)
+- [XXD Panel 152 · 色场基座纸艺志](https://github.com/nevertoday/xxd-panel-152)
+- [XXD Panel 153 · 单色手帐涂鸦志](https://github.com/nevertoday/xxd-panel-153)
+- [XXD Panel 154 · 复古像素留白志](https://github.com/nevertoday/xxd-panel-154)
+- [XXD Panel 155 · 一点透视淡彩志](https://github.com/nevertoday/xxd-panel-155)
 
 ## 广告信息｜XXD 付费服务与会员
 
@@ -173,7 +180,7 @@ xxd-panel-all/
 ```
 
 - `SKILL.md`：交互、推荐、浏览和批量路由规则
-- `panel-catalog.md`：更新至 Panel 148 的检索目录，不是生图提示词
+- `panel-catalog.md`：更新至 Panel 155 的检索目录，不是生图提示词
 - `runtime-preferences.md`：沿用、修改、全新配置与隐私边界
 - `panel_preferences.py`：只读写安全交付偏好的本地辅助脚本
 - `openai.yaml`：Skill 的界面元数据
