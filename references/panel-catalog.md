@@ -149,6 +149,8 @@ Use this index only to search, compare, and route. These summaries are not gener
 | 144 | 几何反白破框志 | 纤细矢量式线描、单个几何色块、白色反白与越界穿插、邮票式小核心、默认左右7:6 |
 | 145 | 复古限色版画志 | 复古限色版画、雕刻排线点刻、网点、丝网或Riso颗粒、微小插图与巨大留白 |
 | 146 | 博物学丝巾印花志 | 装饰性博物学与丝巾印花、精细雕刻线、3–5源图平涂色、邮票式小主体、巨大留白 |
+| 147 | 便当食材包装志 | Bento-fication、食材语义映射、单个透明熟食盒、俯拍食品摄影、新鲜食材色、克制商品标签 |
+| 148 | 视觉日记拼贴志 | Visual Journal、摄影碎片与纸张胶带、私人叙事、自由非对称编辑、2–4源图色、大量主动留白 |
 
 ## Latest repositories
 
@@ -213,5 +215,7 @@ For Panels 117–121, consider 117–121 for quiet whitespace-led work; 117 and 
 - **Conceptual/metaphorical:** consider 003, 011, 016, 025, 031, 040, 041, 054, 056, 057, 058, 059, 060, 061, 062, 063, 064, 065, 066, 067, 068, 069, 070, 071, 072, 073, 074, 075, 076, 080, 081, 082, 083, 085, 087, 088, 089, 090, 095, 099, 100, 101, 103, 104, 105, 106, 107, 108, 109, 114, 115, 116.
 
 These are candidate sets, not hard rules. The actual image/theme and the user's desired feeling decide the ranking. Never expose this routing guidance as if it were a guarantee of the child's generated result.
+
+For Panels 147–148, choose 147 for semantic food substitution: reinterpret the source’s defining relationships as fresh ingredients inside one transparent konbini deli container, photographed mainly from above with restrained retail labels. Choose 148 for a personal visual-journal collage of selected photo fragments, paper, tape, notes and small narrative keepsakes, edited into a free-form asymmetric composition with abundant whitespace. Distinguish 147’s edible material and container-based product reconstruction from 148’s selective photographic mixed-media storytelling. Neither calls for literal object-by-object copying; 147 does not prescribe a fixed palette count or miniature subject, while 148 explicitly uses 2–4 source-derived colours.
 
 For Panels 139–146, choose 139 for text-encoded abstract line fields and plotter grids; 140 for a tiny dry-media visual island; 141 for sparse searching hand-drawn outlines; 142 for extended glyphs masking and interacting with photographic fragments; 143 for words constructing the subject as a calligram; 144 for delicate linework crossing one geometric colour anchor through white knockout; 145 for vintage spot-colour engraving and print grain; and 146 for decorative natural-history scarf illustration. Distinguish 139’s encoded abstraction from 141’s recognisable outlines, 142’s photographic glyph masks from 143’s word-built image, and 145’s vintage print texture from 146’s ornamental natural-history language. Core letters are indispensable in 142 and 143: clarify a text-free request instead of silently changing style. Panel 144 defaults to left–right 7:6 under its final source amendment; explicit runtime modes and ratios override that layout.
