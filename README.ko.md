@@ -4,7 +4,7 @@
 
 `xxd-panel-all`은 XXD Panel 시리즈의 장군급 Skill입니다. 먼저 현재 환경에 설치된 `xxd-panel-NNN` 병사 Skills를 확인한 뒤 다음 작업을 맡습니다.
 
-사진은 많은데 어떤 스타일을 써야 할지 모르겠고, 하나씩 시험하기에는 너무 느리며 감으로 고르자니 후회하기 쉬운 순간이 있습니다. 이 Skill은 그 첫 판단을 대신합니다. 이미지나 폴더를 건네면 요구를 이해하고 설치된 Panel 중 적임자를 고른 뒤 작업을 배분하고 결과를 모읍니다. 126개 번호를 먼저 외울 필요가 없습니다.
+사진은 많은데 어떤 스타일을 써야 할지 모르겠고, 하나씩 시험하기에는 너무 느리며 감으로 고르자니 후회하기 쉬운 순간이 있습니다. 이 Skill은 그 첫 판단을 대신합니다. 이미지나 폴더를 건네면 요구를 이해하고 설치된 Panel 중 적임자를 고른 뒤 작업을 배분하고 결과를 모읍니다. 133개 번호를 먼저 외울 필요가 없습니다.
 
 ### 30초 안에 이해하기
 
@@ -31,7 +31,7 @@
 | 계층 | Skill | 담당 업무 |
 |---|---|---|
 | **장군급** | [`xxd-panel-all`](https://github.com/nevertoday/xxd-panel-all) | 사용 가능한 병사 확인, 이미지·주제·용도에 따른 추천, 번호로 지명, 같은 이미지의 다중 스타일 시안 구성, 이미지 폴더를 항목별로 배정하고 전달. |
-| **병사급** | `xxd-panel-NNN`(카탈로그 127까지 갱신) | 각 번호는 독립된 자신의 원본 프롬프트와 미감만 실행하며, 장군이 전달한 개별 작업을 완성품으로 제작. |
+| **병사급** | `xxd-panel-NNN`(카탈로그 134까지 갱신) | 각 번호는 독립된 자신의 원본 프롬프트와 미감만 실행하며, 장군이 전달한 개별 작업을 완성품으로 제작. |
 
 장군은 부대를 조직할 뿐 병사를 대신해 그리지 않습니다. 병사의 원본 미감을 고쳐 쓰거나 섞거나 덮어쓰지 않으며, 모든 완성 이미지는 선택된 번호 Skill이 독립적으로 제작합니다.
 
@@ -51,6 +51,13 @@
 - [XXD Panel 125 · 소박한 크레용의 여백](https://github.com/nevertoday/xxd-panel-125)
 - [XXD Panel 126 · 시적인 미니어처 콜라주](https://github.com/nevertoday/xxd-panel-126)
 - [XXD Panel 127 · 혼합 매체 건축 콜라주](https://github.com/nevertoday/xxd-panel-127)
+- [XXD Panel 128 · 에나멜 메달 여행](https://github.com/nevertoday/xxd-panel-128)
+- [XXD Panel 129 · 동양 확산 여백](https://github.com/nevertoday/xxd-panel-129)
+- [XXD Panel 130 · 하드에지 기하 콜라주](https://github.com/nevertoday/xxd-panel-130)
+- [XXD Panel 131 · 사진 낙서 콜라주](https://github.com/nevertoday/xxd-panel-131)
+- [XXD Panel 132 · 펜 담채 여행](https://github.com/nevertoday/xxd-panel-132)
+- [XXD Panel 133 · 점각 투명 겹침 인쇄](https://github.com/nevertoday/xxd-panel-133)
+- [XXD Panel 134 · 그림책 색역 이야기](https://github.com/nevertoday/xxd-panel-134)
 
 ## 광고 정보｜XXD 유료 서비스 및 멤버십
 
@@ -151,7 +158,7 @@ xxd-panel-all/
 ```
 
 - `SKILL.md`: 상호작용, 추천, 탐색, 일괄 라우팅 규칙
-- `panel-catalog.md`: Panel 127까지 갱신된 검색용 카탈로그이며 이미지 생성 프롬프트가 아님
+- `panel-catalog.md`: Panel 134까지 갱신된 검색용 카탈로그이며 이미지 생성 프롬프트가 아님
 - `runtime-preferences.md`: 이어 쓰기, 수정, 새 설정, 개인정보 경계
 - `panel_preferences.py`: 안전한 납품 환경설정만 읽고 쓰는 로컬 보조 스크립트
 - `openai.yaml`: Skill 인터페이스 메타데이터

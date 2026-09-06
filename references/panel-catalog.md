@@ -130,6 +130,13 @@ Use this index only to search, compare, and route. These summaries are not gener
 | 125 | 蜡笔童趣留白志 | 数字蜡笔与油画棒、纸隙颗粒、粗糙断线、稚拙章印、自然低饱和加单一亮色、绘本留白 |
 | 126 | 诗意微缩拼贴志 | 邮戳级微缩主体、广阔非对称空场、水彩薄色与撕纸、手工纸纤维、远距离诗意书籍排字 |
 | 127 | 建筑混媒拼贴志 | 微缩建筑混媒拼贴、照片剪片与材料样本、半透明纸、少量结构线与研究注释、低饱和空场 |
+| 128 | 珐琅徽章旅行志 | 圆形珐琅徽章、七宝掐丝浅浮雕、金属边缘、微缩场景、优雅旅行排字 |
+| 129 | 东方弥散留白志 | 东方极简符号、大尺度弥散几何色场、柔边羽化微光晕、纸纹、小主体大留白 |
+| 130 | 硬边几何切面志 | 硬边几何切面、矩形梯形多边形、黑白灰加1–2强调色面、次级网点复印纹理 |
+| 131 | 摄影涂鸦拼贴志 | 小簇真实照片剪片、不规则网格、粗黑手绘框、少量涂鸦、白底私人杂志笔记 |
+| 132 | 钢笔淡彩旅行志 | 邮戳级主体、钢笔抖线、暖色淡彩、城市速写、纸纹、远距离诗意书籍字 |
+| 133 | 点刻透明套印志 | 植物学点刻版画、同色透明套印、穿透非遮挡、重叠越多越深、瑞士极简排字 |
+| 134 | 绘本色域叙事志 | 稚拙混媒绘本、断线粉蜡笔、留白—小叙事主体—底部混色色域、图文整合 |
 
 ## Latest repositories
 
@@ -150,11 +157,21 @@ Use this index only to search, compare, and route. These summaries are not gener
 - [Panel 126 · 诗意微缩拼贴志](https://github.com/nevertoday/xxd-panel-126)
 - [Panel 127 · 建筑混媒拼贴志](https://github.com/nevertoday/xxd-panel-127)
 
-This catalog contains 126 entries through number 127. Number 113 is not catalogued; do not assume sequential availability.
+- [Panel 128 · 珐琅徽章旅行志](https://github.com/nevertoday/xxd-panel-128)
+- [Panel 129 · 东方弥散留白志](https://github.com/nevertoday/xxd-panel-129)
+- [Panel 130 · 硬边几何切面志](https://github.com/nevertoday/xxd-panel-130)
+- [Panel 131 · 摄影涂鸦拼贴志](https://github.com/nevertoday/xxd-panel-131)
+- [Panel 132 · 钢笔淡彩旅行志](https://github.com/nevertoday/xxd-panel-132)
+- [Panel 133 · 点刻透明套印志](https://github.com/nevertoday/xxd-panel-133)
+- [Panel 134 · 绘本色域叙事志](https://github.com/nevertoday/xxd-panel-134)
+
+This catalog contains 133 entries through number 134. Number 113 is not catalogued; do not assume sequential availability.
 
 ## Matching guidance
 
 Use several dimensions together rather than one keyword:
+
+For Panels 128–134, choose 128 for enamel bas-relief medallions; 129 for Eastern symbols and large softly diffused colour geometry; 130 for hard-edge faceted planes with secondary print texture; 131 for tiny photographic doodle-collage clusters; 132 for warm pen-and-wash urban sketches; 133 for stipple engraving with transparent same-colour overprint that darkens at intersections; and 134 for naive picture-book narration above a broad mixed-colour base. Distinguish 130’s hard edges from 129’s feathered fields, and 133’s interpenetrating ink from ordinary opaque collage.
 
 For Panels 122–127, choose 122 for monochrome halftone with optional red annotations; 123 for angular red–blue pencil expression; 124 for fabric applique; 125 for naive crayon with a natural palette and one bright accent; 126 for poetic postmark-scale collage and distant book typography; and 127 for conceptual architectural photomontage, material swatches and research notes. Do not confuse 126’s illustration-led poetry with 127’s architectural mixed-media language.
 
