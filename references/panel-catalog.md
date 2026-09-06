@@ -137,6 +137,10 @@ Use this index only to search, compare, and route. These summaries are not gener
 | 132 | 钢笔淡彩旅行志 | 邮戳级主体、钢笔抖线、暖色淡彩、城市速写、纸纹、远距离诗意书籍字 |
 | 133 | 点刻透明套印志 | 植物学点刻版画、同色透明套印、穿透非遮挡、重叠越多越深、瑞士极简排字 |
 | 134 | 绘本色域叙事志 | 稚拙混媒绘本、断线粉蜡笔、留白—小叙事主体—底部混色色域、图文整合 |
+| 135 | 街头专色手绘志 | 粗粝手绘线描、2–4照片专色、Riso丝网颗粒、Y2K街头拼贴排版、小主体大空场 |
+| 136 | 诗意超现实留白志 | 稚拙诗意超现实、尺度错置与物象替换、布面薄涂丙烯、荒诞关系、微小主体巨大负空间 |
+| 137 | 蚀刻肌理拼贴志 | 纤细蚀刻线描、少量排线点刻、1–2粗粝印刷色块、极小焦点、连续干净留白 |
+| 138 | 东方纸艺浮雕志 | 手工棉纸浅浮雕、折叠压凸压凹切层、微缩叙事、极少点色、东方极简装帧留白 |
 
 ## Latest repositories
 
@@ -165,11 +169,18 @@ Use this index only to search, compare, and route. These summaries are not gener
 - [Panel 133 · 点刻透明套印志](https://github.com/nevertoday/xxd-panel-133)
 - [Panel 134 · 绘本色域叙事志](https://github.com/nevertoday/xxd-panel-134)
 
-This catalog contains 133 entries through number 134. Number 113 is not catalogued; do not assume sequential availability.
+- [Panel 135 · 街头专色手绘志](https://github.com/nevertoday/xxd-panel-135)
+- [Panel 136 · 诗意超现实留白志](https://github.com/nevertoday/xxd-panel-136)
+- [Panel 137 · 蚀刻肌理拼贴志](https://github.com/nevertoday/xxd-panel-137)
+- [Panel 138 · 东方纸艺浮雕志](https://github.com/nevertoday/xxd-panel-138)
+
+This catalog contains 137 entries through number 138. Number 113 is not catalogued; do not assume sequential availability.
 
 ## Matching guidance
 
 Use several dimensions together rather than one keyword:
+
+For Panels 135–138, choose 135 for rough street-zine linework with 2–4 spot colours, Riso/screen-print grain and youthful collage typography; 136 for naive poetic surrealism, absurd source-grounded relationships and thin acrylic-on-canvas texture; 137 for fine vintage etching plus one or two rough modern colour blocks; and 138 for miniature Oriental paper relief with folds, embossing, fibres and book-design whitespace. Distinguish 135’s assertive street-print energy from 137’s delicate linework, and 136’s narrative surrealism from 138’s physical paper construction. All four actively redirect the source and reserve substantial whitespace.
 
 For Panels 128–134, choose 128 for enamel bas-relief medallions; 129 for Eastern symbols and large softly diffused colour geometry; 130 for hard-edge faceted planes with secondary print texture; 131 for tiny photographic doodle-collage clusters; 132 for warm pen-and-wash urban sketches; 133 for stipple engraving with transparent same-colour overprint that darkens at intersections; and 134 for naive picture-book narration above a broad mixed-colour base. Distinguish 130’s hard edges from 129’s feathered fields, and 133’s interpenetrating ink from ordinary opaque collage.
 
