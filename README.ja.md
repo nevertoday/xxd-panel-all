@@ -4,7 +4,7 @@
 
 `xxd-panel-all` は XXD Panel シリーズの将軍レベル Skill です。まず現在の環境にインストール済みの `xxd-panel-NNN` 兵士 Skills を確認し、次の仕事を引き受けます。
 
-写真がたくさんあるのに、どのスタイルを使えばよいか分からない。一つずつ試すには時間がかかり、勘だけで選ぶと後悔しやすい——そんなとき、この Skill が最初の判断を代行します。画像やフォルダーを渡すだけで、要望を理解し、インストール済みの Panel から適任を選び、仕事を割り振って結果をまとめます。115 個の番号を先に暗記する必要はありません。
+写真がたくさんあるのに、どのスタイルを使えばよいか分からない。一つずつ試すには時間がかかり、勘だけで選ぶと後悔しやすい——そんなとき、この Skill が最初の判断を代行します。画像やフォルダーを渡すだけで、要望を理解し、インストール済みの Panel から適任を選び、仕事を割り振って結果をまとめます。120 個の番号を先に暗記する必要はありません。
 
 ### 30 秒で分かること
 
@@ -31,7 +31,7 @@
 | 階層 | Skill | 担当 |
 |---|---|---|
 | **将軍レベル** | [`xxd-panel-all`](https://github.com/nevertoday/xxd-panel-all) | 利用可能な兵士を検出。画像・テーマ・用途から推薦。番号指定で指揮。同一画像の複数スタイル試作を編成。画像フォルダーを項目ごとに割り当てて派遣。 |
-| **兵士レベル** | `xxd-panel-NNN`（カタログは 116 まで更新） | 各番号は独立した自分の原始プロンプトと美学だけを実行し、将軍から渡された個別タスクを完成品にする。 |
+| **兵士レベル** | `xxd-panel-NNN`（カタログは 121 まで更新） | 各番号は独立した自分の原始プロンプトと美学だけを実行し、将軍から渡された個別タスクを完成品にする。 |
 
 将軍は部隊を組織し、兵士の代わりに描きません。兵士の原始美学を書き換えたり、混ぜたり、上書きしたりせず、すべての完成画像は選ばれた番号の Skill が独立して制作します。
 
@@ -40,6 +40,11 @@
 - [XXD Panel 114 · レトロなパステル手帳ドゥードル](https://github.com/nevertoday/xxd-panel-114)
 - [XXD Panel 115 · パステルスタンプ・コラージュ](https://github.com/nevertoday/xxd-panel-115)
 - [XXD Panel 116 · 淡い紙のパステルドゥードル](https://github.com/nevertoday/xxd-panel-116)
+- [XXD Panel 117 · 細線パステルの余白帖](https://github.com/nevertoday/xxd-panel-117)
+- [XXD Panel 118 · グラファイト余白スケッチ](https://github.com/nevertoday/xxd-panel-118)
+- [XXD Panel 119 · 手縫い布の余白帖](https://github.com/nevertoday/xxd-panel-119)
+- [XXD Panel 120 · 建築コンセプト手描き帖](https://github.com/nevertoday/xxd-panel-120)
+- [XXD Panel 121 · 暮らしのドゥードル編集帖](https://github.com/nevertoday/xxd-panel-121)
 
 ## 広告情報｜XXD 有料サービスと会員制度
 
@@ -140,7 +145,7 @@ xxd-panel-all/
 ```
 
 - `SKILL.md`：対話、推薦、閲覧、バッチルーティングの規則
-- `panel-catalog.md`：Panel 116 まで更新された検索用カタログ。画像生成プロンプトではありません
+- `panel-catalog.md`：Panel 121 まで更新された検索用カタログ。画像生成プロンプトではありません
 - `runtime-preferences.md`：引き継ぎ、変更、新規設定、プライバシー境界
 - `panel_preferences.py`：安全な納品設定だけを読み書きするローカル補助スクリプト
 - `openai.yaml`：Skill のインターフェースメタデータ

@@ -4,7 +4,7 @@
 
 `xxd-panel-all` 是 XXD Panel 系列的将军级 Skill。它先识别当前环境中已安装的 `xxd-panel-NNN` 士兵级 Skills，再承接以下任务：
 
-如果你也有过这种时刻：手里一堆照片，不知道该用哪种风格；一个个试太慢，凭感觉乱选又容易后悔——这个 Skill 就是替你做第一轮判断的。你只要把图片或文件夹交过来，它会先看懂需求，再从已经安装的 Panel 里挑人、派活、收结果。你不用先背下 115 个编号。
+如果你也有过这种时刻：手里一堆照片，不知道该用哪种风格；一个个试太慢，凭感觉乱选又容易后悔——这个 Skill 就是替你做第一轮判断的。你只要把图片或文件夹交过来，它会先看懂需求，再从已经安装的 Panel 里挑人、派活、收结果。你不用先背下 120 个编号。
 
 ### 30 秒看懂
 
@@ -31,7 +31,7 @@
 | 层级 | Skill | 负责什么 |
 |---|---|---|
 | **将军级** | [`xxd-panel-all`](https://github.com/nevertoday/xxd-panel-all) | 识别可用士兵；按图片、主题和用途推荐；按编号点将；组织同图多风格试稿；为图片文件夹批量分配并逐项派发。 |
-| **士兵级** | `xxd-panel-NNN`（目录更新至 116） | 每个编号只执行自己独立的原始提示词与审美，把将军派发的单个任务完成为成品。 |
+| **士兵级** | `xxd-panel-NNN`（目录更新至 121） | 每个编号只执行自己独立的原始提示词与审美，把将军派发的单个任务完成为成品。 |
 
 将军负责组织队伍，不替士兵作画。它不会改写、混合或覆盖任何士兵的原始美学；每张成品始终由被选中的编号 Skill 独立完成。
 
@@ -40,6 +40,11 @@
 - [XXD Panel 114 · 复古粉彩手账涂鸦](https://github.com/nevertoday/xxd-panel-114)
 - [XXD Panel 115 · 粉彩章印拼贴志](https://github.com/nevertoday/xxd-panel-115)
 - [XXD Panel 116 · 浅纸粉彩涂鸦志](https://github.com/nevertoday/xxd-panel-116)
+- [XXD Panel 117 · 细线淡彩留白志](https://github.com/nevertoday/xxd-panel-117)
+- [XXD Panel 118 · 石墨留白素描志](https://github.com/nevertoday/xxd-panel-118)
+- [XXD Panel 119 · 手缝布艺留白志](https://github.com/nevertoday/xxd-panel-119)
+- [XXD Panel 120 · 建筑概念手绘志](https://github.com/nevertoday/xxd-panel-120)
+- [XXD Panel 121 · 生活涂鸦编排志](https://github.com/nevertoday/xxd-panel-121)
 
 ## 广告信息｜XXD 付费服务与会员
 
@@ -141,7 +146,7 @@ xxd-panel-all/
 ```
 
 - `SKILL.md`：交互、推荐、浏览和批量路由规则
-- `panel-catalog.md`：更新至 Panel 116 的检索目录，不是生图提示词
+- `panel-catalog.md`：更新至 Panel 121 的检索目录，不是生图提示词
 - `runtime-preferences.md`：沿用、修改、全新配置与隐私边界
 - `panel_preferences.py`：只读写安全交付偏好的本地辅助脚本
 - `openai.yaml`：Skill 的界面元数据

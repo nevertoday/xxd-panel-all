@@ -119,6 +119,11 @@ Use this index only to search, compare, and route. These summaries are not gener
 | 114 | 复古粉彩手账涂鸦 | 复古纸张、粉彩手绘、材料拼贴、手账涂鸦、轻盈留白、编辑注释 |
 | 115 | 粉彩章印拼贴志 | 粉彩章印、纸张拼贴、手绘线条、少量金线、复古纸本、私人记录 |
 | 116 | 浅纸粉彩涂鸦志 | 极浅纸面、粗颗粒彩线、极简涂鸦、柔和粉彩、手工纸感、安静留白 |
+| 117 | 细线淡彩留白志 | 细线手绘、淡彩平涂、轻纸拼贴、2–4照片取色、小尺度视觉锚点、主动留白 |
+| 118 | 石墨留白素描志 | 石墨轮廓、排线与轻灰调、松弛稚拙素描、灰色主导、可选少量源图色、超大留白 |
+| 119 | 手缝布艺留白志 | 大块布片、贴布绣、毛边针脚、棉麻触感、2–4鲜暖照片取色、小主体留白 |
+| 120 | 建筑概念手绘志 | 建筑透视手绘、松散复线、结构延长线、几何引导、选择性着色、极小主体留白 |
+| 121 | 生活涂鸦编排志 | 稚拙马克笔与蜡笔、抖动断线、隐形网格、图文整合、成熟编辑构图、活泼柔色留白 |
 
 ## Latest repositories
 
@@ -126,11 +131,19 @@ Use this index only to search, compare, and route. These summaries are not gener
 - [Panel 115 · 粉彩章印拼贴志](https://github.com/nevertoday/xxd-panel-115)
 - [Panel 116 · 浅纸粉彩涂鸦志](https://github.com/nevertoday/xxd-panel-116)
 
-This catalog contains 115 entries through number 116. Number 113 is not catalogued; do not assume sequential availability.
+- [Panel 117 · 细线淡彩留白志](https://github.com/nevertoday/xxd-panel-117)
+- [Panel 118 · 石墨留白素描志](https://github.com/nevertoday/xxd-panel-118)
+- [Panel 119 · 手缝布艺留白志](https://github.com/nevertoday/xxd-panel-119)
+- [Panel 120 · 建筑概念手绘志](https://github.com/nevertoday/xxd-panel-120)
+- [Panel 121 · 生活涂鸦编排志](https://github.com/nevertoday/xxd-panel-121)
+
+This catalog contains 120 entries through number 121. Number 113 is not catalogued; do not assume sequential availability.
 
 ## Matching guidance
 
 Use several dimensions together rather than one keyword:
+
+For the latest additions, consider 117–121 for quiet whitespace-led work; 117 and 119 for soft colour and handmade materials; 118 for graphite sketches; 120 for architectural concept drawings; and 121 for integrated lifestyle doodles and editorial lettering. These styles extract a theme rather than reproduce every photographic detail.
 
 - **Recognisability first:** favour 019, 026, 042, 048, 057, 058, 059, 060, 062, 063, 065, 066, 067, 068, 069, 070, 071, 072, 073, 074, 075, 076, 077, 078, 079, 080, 081, 082, 083, 084, 085, 086, 087, 089, 091, 092, 093, 094, 095, 096, 097, 098, 099, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 114, 115, 116 when structural recognition or explanation matters.
 - **Quiet/minimal:** consider 006, 009, 011, 016, 018, 027, 036, 056, 057, 058, 060, 062, 064, 065, 067, 068, 070, 071, 072, 073, 075, 076, 080, 081, 084, 085, 087, 088, 089, 090, 091, 092, 094, 095, 102, 104, 105, 106, 107, 108, 109, 111, 112, 114, 115, 116.
