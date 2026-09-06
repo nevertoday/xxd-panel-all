@@ -124,6 +124,12 @@ Use this index only to search, compare, and route. These summaries are not gener
 | 119 | 手缝布艺留白志 | 大块布片、贴布绣、毛边针脚、棉麻触感、2–4鲜暖照片取色、小主体留白 |
 | 120 | 建筑概念手绘志 | 建筑透视手绘、松散复线、结构延长线、几何引导、选择性着色、极小主体留白 |
 | 121 | 生活涂鸦编排志 | 稚拙马克笔与蜡笔、抖动断线、隐形网格、图文整合、成熟编辑构图、活泼柔色留白 |
+| 122 | 单色网点手写志 | 黑灰单色网点、dithering与点描、低对比、唯一红色细线或手写、旧印刷颗粒、超大留白 |
+| 123 | 红蓝角线彩铅志 | 红蓝限定彩铅、角线转折、表现性排线、红色主块与蓝色结构、纸面摩擦、小主体留白 |
+| 124 | 布艺拼贴留白志 | 大块布片拼贴、贴布绣、棉麻织纹、毛边针脚、2–4暖柔照片取色、主动留白 |
+| 125 | 蜡笔童趣留白志 | 数字蜡笔与油画棒、纸隙颗粒、粗糙断线、稚拙章印、自然低饱和加单一亮色、绘本留白 |
+| 126 | 诗意微缩拼贴志 | 邮戳级微缩主体、广阔非对称空场、水彩薄色与撕纸、手工纸纤维、远距离诗意书籍排字 |
+| 127 | 建筑混媒拼贴志 | 微缩建筑混媒拼贴、照片剪片与材料样本、半透明纸、少量结构线与研究注释、低饱和空场 |
 
 ## Latest repositories
 
@@ -137,13 +143,22 @@ Use this index only to search, compare, and route. These summaries are not gener
 - [Panel 120 · 建筑概念手绘志](https://github.com/nevertoday/xxd-panel-120)
 - [Panel 121 · 生活涂鸦编排志](https://github.com/nevertoday/xxd-panel-121)
 
-This catalog contains 120 entries through number 121. Number 113 is not catalogued; do not assume sequential availability.
+- [Panel 122 · 单色网点手写志](https://github.com/nevertoday/xxd-panel-122)
+- [Panel 123 · 红蓝角线彩铅志](https://github.com/nevertoday/xxd-panel-123)
+- [Panel 124 · 布艺拼贴留白志](https://github.com/nevertoday/xxd-panel-124)
+- [Panel 125 · 蜡笔童趣留白志](https://github.com/nevertoday/xxd-panel-125)
+- [Panel 126 · 诗意微缩拼贴志](https://github.com/nevertoday/xxd-panel-126)
+- [Panel 127 · 建筑混媒拼贴志](https://github.com/nevertoday/xxd-panel-127)
+
+This catalog contains 126 entries through number 127. Number 113 is not catalogued; do not assume sequential availability.
 
 ## Matching guidance
 
 Use several dimensions together rather than one keyword:
 
-For the latest additions, consider 117–121 for quiet whitespace-led work; 117 and 119 for soft colour and handmade materials; 118 for graphite sketches; 120 for architectural concept drawings; and 121 for integrated lifestyle doodles and editorial lettering. These styles extract a theme rather than reproduce every photographic detail.
+For Panels 122–127, choose 122 for monochrome halftone with optional red annotations; 123 for angular red–blue pencil expression; 124 for fabric applique; 125 for naive crayon with a natural palette and one bright accent; 126 for poetic postmark-scale collage and distant book typography; and 127 for conceptual architectural photomontage, material swatches and research notes. Do not confuse 126’s illustration-led poetry with 127’s architectural mixed-media language.
+
+For Panels 117–121, consider 117–121 for quiet whitespace-led work; 117 and 119 for soft colour and handmade materials; 118 for graphite sketches; 120 for architectural concept drawings; and 121 for integrated lifestyle doodles and editorial lettering. These styles extract a theme rather than reproduce every photographic detail.
 
 - **Recognisability first:** favour 019, 026, 042, 048, 057, 058, 059, 060, 062, 063, 065, 066, 067, 068, 069, 070, 071, 072, 073, 074, 075, 076, 077, 078, 079, 080, 081, 082, 083, 084, 085, 086, 087, 089, 091, 092, 093, 094, 095, 096, 097, 098, 099, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 114, 115, 116 when structural recognition or explanation matters.
 - **Quiet/minimal:** consider 006, 009, 011, 016, 018, 027, 036, 056, 057, 058, 060, 062, 064, 065, 067, 068, 070, 071, 072, 073, 075, 076, 080, 081, 084, 085, 087, 088, 089, 090, 091, 092, 094, 095, 102, 104, 105, 106, 107, 108, 109, 111, 112, 114, 115, 116.

@@ -4,7 +4,7 @@
 
 `xxd-panel-all` is the General-level Skill for the XXD Panel family. It first detects the installed `xxd-panel-NNN` Soldier Skills in the current environment, then handles these tasks:
 
-If you have ever had a folder full of photographs but did not know which style to use—trying them one by one is too slow, while choosing by instinct can be unreliable—this Skill makes the first-round judgment for you. Give it an image or folder; it understands the request, selects suitable installed Panels, dispatches the work, and gathers the results. You do not need to memorise all 120 numbers first.
+If you have ever had a folder full of photographs but did not know which style to use—trying them one by one is too slow, while choosing by instinct can be unreliable—this Skill makes the first-round judgment for you. Give it an image or folder; it understands the request, selects suitable installed Panels, dispatches the work, and gathers the results. You do not need to memorise all 126 numbers first.
 
 ### Understand it in 30 seconds
 
@@ -31,7 +31,7 @@ It handles questions, selection, and dispatch only. It does not become a new vis
 | Level | Skill | Responsibility |
 |---|---|---|
 | **General** | [`xxd-panel-all`](https://github.com/nevertoday/xxd-panel-all) | Detect available Soldiers; recommend by image, theme, and use; dispatch by number; organise same-image multi-style trials; assign and route image folders item by item. |
-| **Soldier** | `xxd-panel-NNN` (catalog updated through 121) | Each number executes only its own independent original prompt and aesthetic, completing the individual task dispatched by the General. |
+| **Soldier** | `xxd-panel-NNN` (catalog updated through 127) | Each number executes only its own independent original prompt and aesthetic, completing the individual task dispatched by the General. |
 
 The General organises the company; it does not draw in place of a Soldier. It never rewrites, blends, or overrides a Soldier's original aesthetic. Every finished image is independently produced by the selected numbered Skill.
 
@@ -45,6 +45,12 @@ The General organises the company; it does not draw in place of a Soldier. It ne
 - [XXD Panel 119 · Hand-Stitched Fabric Journal](https://github.com/nevertoday/xxd-panel-119)
 - [XXD Panel 120 · Architectural Concept Sketchbook](https://github.com/nevertoday/xxd-panel-120)
 - [XXD Panel 121 · Lifestyle Doodle Editorial](https://github.com/nevertoday/xxd-panel-121)
+- [XXD Panel 122 · Monochrome Halftone Journal](https://github.com/nevertoday/xxd-panel-122)
+- [XXD Panel 123 · Red–Blue Angular Pencil](https://github.com/nevertoday/xxd-panel-123)
+- [XXD Panel 124 · Fabric Collage Whitespace](https://github.com/nevertoday/xxd-panel-124)
+- [XXD Panel 125 · Naïve Crayon Whitespace](https://github.com/nevertoday/xxd-panel-125)
+- [XXD Panel 126 · Poetic Miniature Collage](https://github.com/nevertoday/xxd-panel-126)
+- [XXD Panel 127 · Mixed-media Architectural Collage](https://github.com/nevertoday/xxd-panel-127)
 
 ## Advertisement | Paid XXD services and membership
 
@@ -145,7 +151,7 @@ xxd-panel-all/
 ```
 
 - `SKILL.md`: interaction, recommendation, browsing, and batch-routing rules
-- `panel-catalog.md`: searchable catalog updated through Panel 121; it is not an image-generation prompt
+- `panel-catalog.md`: searchable catalog updated through Panel 127; it is not an image-generation prompt
 - `runtime-preferences.md`: reuse, edit, fresh-configuration, and privacy boundaries
 - `panel_preferences.py`: local helper that reads and writes safe delivery preferences only
 - `openai.yaml`: Skill interface metadata
