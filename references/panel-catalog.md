@@ -141,6 +141,14 @@ Use this index only to search, compare, and route. These summaries are not gener
 | 136 | 诗意超现实留白志 | 稚拙诗意超现实、尺度错置与物象替换、布面薄涂丙烯、荒诞关系、微小主体巨大负空间 |
 | 137 | 蚀刻肌理拼贴志 | 纤细蚀刻线描、少量排线点刻、1–2粗粝印刷色块、极小焦点、连续干净留白 |
 | 138 | 东方纸艺浮雕志 | 手工棉纸浅浮雕、折叠压凸压凹切层、微缩叙事、极少点色、东方极简装帧留白 |
+| 139 | 文字编码线场志 | 文字编码生成式线性抽象、极细正交网格、绘图仪线律、照片取色、主动大留白 |
+| 140 | 干性手绘视觉岛 | 居中微小视觉岛、不透明水粉与油画棒粉彩、干笔颗粒、不规则边缘、2–4活泼源图色 |
+| 141 | 极简手绘线描志 | 极简手绘细线、试探断续笔触、微小可识别主体、稀疏点色、超大留白 |
+| 142 | 字形蒙版融合志 | 扩展字形、摄影蒙版、主体穿插字形边界、正负形、字图融合与编辑留白 |
+| 143 | 文字造型视觉诗 | 文字造型诗、源图语义词构成主体轮廓、字距与文字密度、文字即图形 |
+| 144 | 几何反白破框志 | 纤细矢量式线描、单个几何色块、白色反白与越界穿插、邮票式小核心、默认左右7:6 |
+| 145 | 复古限色版画志 | 复古限色版画、雕刻排线点刻、网点、丝网或Riso颗粒、微小插图与巨大留白 |
+| 146 | 博物学丝巾印花志 | 装饰性博物学与丝巾印花、精细雕刻线、3–5源图平涂色、邮票式小主体、巨大留白 |
 
 ## Latest repositories
 
@@ -173,8 +181,16 @@ Use this index only to search, compare, and route. These summaries are not gener
 - [Panel 136 · 诗意超现实留白志](https://github.com/nevertoday/xxd-panel-136)
 - [Panel 137 · 蚀刻肌理拼贴志](https://github.com/nevertoday/xxd-panel-137)
 - [Panel 138 · 东方纸艺浮雕志](https://github.com/nevertoday/xxd-panel-138)
+- [Panel 139 · 文字编码线场志](https://github.com/nevertoday/xxd-panel-139)
+- [Panel 140 · 干性手绘视觉岛](https://github.com/nevertoday/xxd-panel-140)
+- [Panel 141 · 极简手绘线描志](https://github.com/nevertoday/xxd-panel-141)
+- [Panel 142 · 字形蒙版融合志](https://github.com/nevertoday/xxd-panel-142)
+- [Panel 143 · 文字造型视觉诗](https://github.com/nevertoday/xxd-panel-143)
+- [Panel 144 · 几何反白破框志](https://github.com/nevertoday/xxd-panel-144)
+- [Panel 145 · 复古限色版画志](https://github.com/nevertoday/xxd-panel-145)
+- [Panel 146 · 博物学丝巾印花志](https://github.com/nevertoday/xxd-panel-146)
 
-This catalog contains 137 entries through number 138. Number 113 is not catalogued; do not assume sequential availability.
+This catalog contains 145 entries through number 146. Number 113 is not catalogued; do not assume sequential availability.
 
 ## Matching guidance
 
@@ -197,3 +213,5 @@ For Panels 117–121, consider 117–121 for quiet whitespace-led work; 117 and 
 - **Conceptual/metaphorical:** consider 003, 011, 016, 025, 031, 040, 041, 054, 056, 057, 058, 059, 060, 061, 062, 063, 064, 065, 066, 067, 068, 069, 070, 071, 072, 073, 074, 075, 076, 080, 081, 082, 083, 085, 087, 088, 089, 090, 095, 099, 100, 101, 103, 104, 105, 106, 107, 108, 109, 114, 115, 116.
 
 These are candidate sets, not hard rules. The actual image/theme and the user's desired feeling decide the ranking. Never expose this routing guidance as if it were a guarantee of the child's generated result.
+
+For Panels 139–146, choose 139 for text-encoded abstract line fields and plotter grids; 140 for a tiny dry-media visual island; 141 for sparse searching hand-drawn outlines; 142 for extended glyphs masking and interacting with photographic fragments; 143 for words constructing the subject as a calligram; 144 for delicate linework crossing one geometric colour anchor through white knockout; 145 for vintage spot-colour engraving and print grain; and 146 for decorative natural-history scarf illustration. Distinguish 139’s encoded abstraction from 141’s recognisable outlines, 142’s photographic glyph masks from 143’s word-built image, and 145’s vintage print texture from 146’s ornamental natural-history language. Core letters are indispensable in 142 and 143: clarify a text-free request instead of silently changing style. Panel 144 defaults to left–right 7:6 under its final source amendment; explicit runtime modes and ratios override that layout.
