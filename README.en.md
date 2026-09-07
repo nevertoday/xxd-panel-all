@@ -84,9 +84,8 @@ The General organises the company; it does not draw in place of a Soldier. It ne
 
 > **Advertising and commercial-information notice:** The QR code, membership, and paid-service links below are advertisements from Xiaoxiaodong. Scanning or purchasing is entirely optional and does not affect access to or use of this open-source project.
 
-### Xiaoxiaodong master control · General commander Skill · CNY 100
 
-A one-time payment of CNY 100 provides this General commander Skill (`xxd-panel-all`) for central control, recommendation, selection, and batch dispatch of all Soldier Skills, together with help for installation, updates, company configuration, and dispatch methods. Contact [Xiaoxiaodong on WeChat](https://xiaoxiaodong.pages.dev/assets/wechat-qr.png) and include the note “General Commander Skill”.
+All General Skills are included in the CNY 699/year membership; no separate purchase is required. [WeChat](https://xiaoxiaodong.pages.dev/assets/wechat-qr.png)
 
 ## ZSXQ + member prompt library + all General Skills membership · CNY 699/year
 

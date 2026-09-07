@@ -15,7 +15,7 @@ NAMES = ('README.md', 'README.en.md', 'README.ja.md', 'README.ko.md', 'README.ar
 HEADINGS = ('许可证', 'License', 'ライセンス', '라이선스', 'الترخيص')
 START, END = '<!-- xxd-readme-ads:start -->', '<!-- xxd-readme-ads:end -->'
 TEMPLATES = Path(__file__).resolve().parents[1] / 'references/readme-ads'
-REQUIRED = ('xxd-panel-all', '100', '699', 'wx.zsxq.com/group/15554814142882',
+REQUIRED = ('xxd-panel-all', '699', 'wx.zsxq.com/group/15554814142882',
             'vip.xiaoxiaodong.ai', 'xiaoxiaodong.pages.dev/assets/wechat-qr.png',
             'xxd-panel-command-system:start')
 
@@ -38,6 +38,8 @@ def main():
             if not path.is_file():
                 failures.append(f'{path}: missing README'); continue
             old = path.read_text(); count += 1
+            if re.search(r'100\s*元|CNY\s*100|100\s*يوان', old):
+                failures.append(f'{path}: obsolete separate General price; only 699/year membership is permitted'); continue
             template = (TEMPLATES / name).read_text().strip()
             rewards = ('wechat-reward-qr.png', 'alipay-reward-qr.png') if name == 'README.md' else ('buy-me-a-coffee-qr.png',)
             if START in old or END in old:
@@ -46,9 +48,6 @@ def main():
                 first, last = old.index(START), old.index(END) + len(END)
                 new = old[:first] + template + old[last:]
             elif all(token in old for token in REQUIRED + rewards):
-                offer = next((line for line in old.splitlines() if line.startswith('### ') and 'Skill' in line and '699' not in line), '')
-                if offer and not re.search(r'\b100\b', offer):
-                    failures.append(f'{path}: legacy General offer price differs from 100; review manually')
                 continue  # Preserve legacy blocks; do not rewrite unrelated old documents.
             elif 'wx.zsxq.com/' in old or 'wechat-qr.png' in old:
                 failures.append(f'{path}: partial legacy advertisement needs manual review'); continue

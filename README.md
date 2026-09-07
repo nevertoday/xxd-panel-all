@@ -85,9 +85,7 @@
 > **广告与商业信息声明：** 以下二维码、会员与付费服务链接属于小小东的广告信息。是否扫码或购买完全自愿，不影响本开源项目的访问与使用。
 
 
-### 小小东总控 · 将军总指挥 Skill · 100 元
-
-一次支付 100 元获得本套将军总指挥 Skill（`xxd-panel-all`），用于主控、推荐、点将和批量调度全部士兵 Skills，并获得安装、版本更新、队伍配置和调度方式的答疑。请通过[小小东微信](https://xiaoxiaodong.pages.dev/assets/wechat-qr.png)联系并备注“将军总指挥 Skill”。
+将军 Skills 已包含在 699 元/年的统一会员权益中，无需单独购买。 [WeChat](https://xiaoxiaodong.pages.dev/assets/wechat-qr.png)
 
 ## 知识星球＋成员提示词库＋Skills 所有将军会员 · 699 元/年
 
