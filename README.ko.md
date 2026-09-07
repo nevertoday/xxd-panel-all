@@ -4,7 +4,7 @@
 
 `xxd-panel-all`은 XXD Panel 시리즈의 장군급 Skill입니다. 먼저 현재 환경에 설치된 `xxd-panel-NNN` 병사 Skills를 확인한 뒤 다음 작업을 맡습니다.
 
-사진은 많은데 어떤 스타일을 써야 할지 모르겠고, 하나씩 시험하기에는 너무 느리며 감으로 고르자니 후회하기 쉬운 순간이 있습니다. 이 Skill은 그 첫 판단을 대신합니다. 이미지나 폴더를 건네면 요구를 이해하고 설치된 Panel 중 적임자를 고른 뒤 작업을 배분하고 결과를 모읍니다. 175개 번호를 먼저 외울 필요가 없습니다.
+사진은 많은데 어떤 스타일을 써야 할지 모르겠고, 하나씩 시험하기에는 너무 느리며 감으로 고르자니 후회하기 쉬운 순간이 있습니다. 이 Skill은 그 첫 판단을 대신합니다. 이미지나 폴더를 건네면 요구를 이해하고 설치된 Panel 중 적임자를 고른 뒤 작업을 배분하고 결과를 모읍니다. 179개 번호를 먼저 외울 필요가 없습니다.
 
 ### 30초 안에 이해하기
 
@@ -83,6 +83,10 @@
 - [XXD Panel 157 · 유물 먹 탁본과 여백](https://github.com/nevertoday/xxd-panel-157)
 - [XXD Panel 158 · 종이 혼합 재료 콜라주](https://github.com/nevertoday/xxd-panel-158)
 - [XXD Panel 113 · 조개껍데기 픽셀 콜라주](https://github.com/nevertoday/xxd-panel-113)
+- [XXD Panel 176 · 정교한 손그림 의식 도형 부조](https://github.com/nevertoday/xxd-panel-176)
+- [XXD Panel 177 · 이형 실루엣 판화 미니 섬](https://github.com/nevertoday/xxd-panel-177)
+- [XXD Panel 178 · 이형 실루엣 판화 미니 섬 (동일 원문)](https://github.com/nevertoday/xxd-panel-178)
+- [XXD Panel 179 · 리본형 미니어처 전시 풍경](https://github.com/nevertoday/xxd-panel-179)
 - [XXD Panel 159 · 문자 망점 실험 포스터](https://github.com/nevertoday/xxd-panel-159)
 - [XXD Panel 160 · 느슨한 펜선과 담채 여백](https://github.com/nevertoday/xxd-panel-160)
 - [XXD Panel 161 · 회화적 색면과 경계 넘기](https://github.com/nevertoday/xxd-panel-161)

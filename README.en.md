@@ -4,7 +4,7 @@
 
 `xxd-panel-all` is the General-level Skill for the XXD Panel family. It first detects the installed `xxd-panel-NNN` Soldier Skills in the current environment, then handles these tasks:
 
-If you have ever had a folder full of photographs but did not know which style to use—trying them one by one is too slow, while choosing by instinct can be unreliable—this Skill makes the first-round judgment for you. Give it an image or folder; it understands the request, selects suitable installed Panels, dispatches the work, and gathers the results. You do not need to memorise all 175 numbers first.
+If you have ever had a folder full of photographs but did not know which style to use—trying them one by one is too slow, while choosing by instinct can be unreliable—this Skill makes the first-round judgment for you. Give it an image or folder; it understands the request, selects suitable installed Panels, dispatches the work, and gathers the results. You do not need to memorise all 179 numbers first.
 
 ### Understand it in 30 seconds
 
@@ -83,6 +83,10 @@ The General organises the company; it does not draw in place of a Soldier. It ne
 - [XXD Panel 157 · Archaeological Ink Rubbing](https://github.com/nevertoday/xxd-panel-157)
 - [XXD Panel 158 · Mixed-media Collage on Paper](https://github.com/nevertoday/xxd-panel-158)
 - [XXD Panel 113 · Shell-fragment Pixel Collage](https://github.com/nevertoday/xxd-panel-113)
+- [XXD Panel 176 · Hand-drawn Ritual Diagram in Shallow Relief](https://github.com/nevertoday/xxd-panel-176)
+- [XXD Panel 177 · Irregular Silhouette Woodcut Micro-island](https://github.com/nevertoday/xxd-panel-177)
+- [XXD Panel 178 · Irregular Silhouette Woodcut Micro-island](https://github.com/nevertoday/xxd-panel-178)
+- [XXD Panel 179 · Ribbon-like Miniature Vignette Display](https://github.com/nevertoday/xxd-panel-179)
 - [XXD Panel 159 · Post-digital Bitmap Typography](https://github.com/nevertoday/xxd-panel-159)
 - [XXD Panel 160 · Expressive Pen-and-wash Illustration](https://github.com/nevertoday/xxd-panel-160)
 - [XXD Panel 161 · Frame-breaking Painted Colour Field](https://github.com/nevertoday/xxd-panel-161)
