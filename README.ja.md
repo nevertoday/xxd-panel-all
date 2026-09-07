@@ -4,7 +4,7 @@
 
 `xxd-panel-all` は XXD Panel シリーズの将軍レベル Skill です。まず現在の環境にインストール済みの `xxd-panel-NNN` 兵士 Skills を確認し、次の仕事を引き受けます。
 
-写真がたくさんあるのに、どのスタイルを使えばよいか分からない。一つずつ試すには時間がかかり、勘だけで選ぶと後悔しやすい——そんなとき、この Skill が最初の判断を代行します。画像やフォルダーを渡すだけで、要望を理解し、インストール済みの Panel から適任を選び、仕事を割り振って結果をまとめます。179 個の番号を先に暗記する必要はありません。
+写真がたくさんあるのに、どのスタイルを使えばよいか分からない。一つずつ試すには時間がかかり、勘だけで選ぶと後悔しやすい——そんなとき、この Skill が最初の判断を代行します。画像やフォルダーを渡すだけで、要望を理解し、インストール済みの Panel から適任を選び、仕事を割り振って結果をまとめます。180 個の番号を先に暗記する必要はありません。
 
 ### 30 秒で分かること
 
@@ -87,6 +87,7 @@
 - [XXD Panel 177 · 異形シルエットの版画ミクロ島](https://github.com/nevertoday/xxd-panel-177)
 - [XXD Panel 178 · 異形シルエットの版画ミクロ島（同源）](https://github.com/nevertoday/xxd-panel-178)
 - [XXD Panel 179 · リボン状の微小展示風景](https://github.com/nevertoday/xxd-panel-179)
+- [XXD Panel 180 · 旅の記憶を刻むレトロ円形スタンプ](https://github.com/nevertoday/xxd-panel-180)
 - [XXD Panel 159 · 文字網点の実験ポスター](https://github.com/nevertoday/xxd-panel-159)
 - [XXD Panel 160 · 自由な線と淡彩の余白](https://github.com/nevertoday/xxd-panel-160)
 - [XXD Panel 161 · 色面フレームと越境構図](https://github.com/nevertoday/xxd-panel-161)

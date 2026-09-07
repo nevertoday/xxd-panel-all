@@ -183,8 +183,11 @@ Use this index only to search, compare, and route. These summaries are not gener
 | 177 | 异形微岛版画志 | 15–25%异形视觉岛屿，嵌套同构与克制破框；象牙白留白、墨藏青和灰橄榄绿、极少朱砂橙红。与178原稿完全相同。 |
 | 178 | 异形微岛版画志（同源） | 15–25%异形视觉岛屿，嵌套同构与克制破框；象牙白留白、墨藏青和灰橄榄绿、极少朱砂橙红。与177原稿完全相同。 |
 | 179 | 丝带微缩陈列志 | 70–85%留白，近无彩色轻盈丝形台面与疏朗微缩展品；群青、朱红、赭金仅集中于主体，文字可作微细灰纹理。 |
+| 180 | 复古圆章旅行手账志 | 核心主体与1–2个环境线索组成小尺度圆形纪念章，木刻橡皮章与蚀刻质感、旧纸纤维、漏印错版；源图2–3色转为旧印泥色，极少金箔，大留白与章下英文标题、关键词。 |
 
 ## Latest repositories
+
+- [Panel 180 · 复古圆章旅行手账志](https://github.com/nevertoday/xxd-panel-180)
 
 - [Panel 176 · 工笔阵盘微立体志](https://github.com/nevertoday/xxd-panel-176)
 - [Panel 177 · 异形微岛版画志](https://github.com/nevertoday/xxd-panel-177)
@@ -261,7 +264,7 @@ Use this index only to search, compare, and route. These summaries are not gener
 - [Panel 157 · 文物墨拓留白志](https://github.com/nevertoday/xxd-panel-157)
 - [Panel 158 · 纸本综合拼贴志](https://github.com/nevertoday/xxd-panel-158)
 
-This catalog contains 179 entries covering numbers 001–179. Panels 159–175 are packaged without generated sample artwork; actual runtime availability still depends on installed Skills.
+This catalog contains 180 entries covering numbers 001–180. Panels 159–175 are packaged without generated sample artwork; actual runtime availability still depends on installed Skills.
 
 ## Matching guidance
 
@@ -298,3 +301,5 @@ For Panel 113, choose a natural-material pixel collage: at most 200 similarly si
 For Panels 159–175, distinguish 161’s hand-painted framed field from 168’s reserved-white negative-shape painting; 160’s expressive source-colour pen wash from 169’s 75–85% paper and fixed ochre palette, and 170’s strict black/rust-red dry marks. Keep 163’s centred solid-colour stamp separate from 172’s centred subject with subordinate translucent geometry, and 171’s dispersed islands with vertical rhythm. 173 uses a 10–20% paper-text miniature and roughly 95% ivory/beige/brown, whereas 175 uses 20–25% layered paper sculpture, amber backlight and less than 1% red/ink accents. 162 requires one irregular white backing, while 174 aggregates multiple sticker-like units. 164 combines ink and architectural drawing; 166 requires sculptural isometric bas-relief; 167 uses a centred abstract wave with raised ink, not literal seawater. 165 centres a vertical paper tear. 159 makes bitmap typography integral rather than a caption. These summaries are routing aids, never replacement generation prompts.
 
 Panels 176–179 are packaged without generated samples. Panel 176 requires a complex ordered hand-drawn ritual diagram with shallow relief and bright source-derived colours. Panels 177 and 178 have byte-identical canonical sources: retain both requested numbers, treat them as equivalent, and never invent stylistic distinctions. Their fixed navy/olive/vermilion micro-island differs from Panel 179’s sparse ribbon display with ultramarine/vermilion/ochre-gold exhibits.
+
+Panel 180 uses a circular vintage souvenir stamp, woodcut/rubber-stamp and etched textures, 2–3 faded source-derived ink colours and optional tiny gold foil. Keep the English headline and smaller keywords below the stamp by default. Its canonical source prohibits left-right layouts and Chinese captions; only an explicit current delivery request overrides those variables. Packaged without generated samples.
