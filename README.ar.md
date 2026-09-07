@@ -4,7 +4,7 @@
 
 `xxd-panel-all` هي المهارة القيادية ضمن عائلة XXD Panel. تبدأ بالتعرّف إلى مهارات الجنود `xxd-panel-NNN` المثبّتة في البيئة الحالية، ثم تتولى المهام التالية.
 
-إذا وجدت نفسك أمام مجموعة من الصور من دون أن تعرف أي أسلوب يناسبها، وكانت تجربة كل أسلوب على حدة بطيئة والاختيار بالحدس وحده محفوفاً بالندم، فهذه المهارة تتولى عنك التقييم الأول. ما عليك سوى تقديم صورة أو مجلد؛ تفهم الطلب، وتختار الأنسب من لوحات Panel المثبّتة، وتوزّع العمل، ثم تجمع النتائج. لا تحتاج إلى حفظ الأرقام الـ158 مسبقاً.
+إذا وجدت نفسك أمام مجموعة من الصور من دون أن تعرف أي أسلوب يناسبها، وكانت تجربة كل أسلوب على حدة بطيئة والاختيار بالحدس وحده محفوفاً بالندم، فهذه المهارة تتولى عنك التقييم الأول. ما عليك سوى تقديم صورة أو مجلد؛ تفهم الطلب، وتختار الأنسب من لوحات Panel المثبّتة، وتوزّع العمل، ثم تجمع النتائج. لا تحتاج إلى حفظ الأرقام الـ175 مسبقاً.
 
 ### افهمها خلال 30 ثانية
 
@@ -83,6 +83,23 @@
 - [XXD Panel 157 · طبعات أثرية بالحبر والفراغ](https://github.com/nevertoday/xxd-panel-157)
 - [XXD Panel 158 · كولاج بخامات مختلطة على الورق](https://github.com/nevertoday/xxd-panel-158)
 - [XXD Panel 113 · كولاج بكسلي من شظايا الصدف](https://github.com/nevertoday/xxd-panel-113)
+- [XXD Panel 159 · ملصق تجريبي بالحروف والنقاط](https://github.com/nevertoday/xxd-panel-159)
+- [XXD Panel 160 · خطوط حبر حرة وألوان مائية خفيفة](https://github.com/nevertoday/xxd-panel-160)
+- [XXD Panel 161 · حقل لوني مرسوم يتجاوز الإطار](https://github.com/nevertoday/xxd-panel-161)
+- [XXD Panel 162 · رسم قصصي على قصاصة ورق بيضاء](https://github.com/nevertoday/xxd-panel-162)
+- [XXD Panel 163 · تكوين ختم مركزي بمساحات لونية](https://github.com/nevertoday/xxd-panel-163)
+- [XXD Panel 164 · مشهد مصغر بالحبر والخطوط المعمارية](https://github.com/nevertoday/xxd-panel-164)
+- [XXD Panel 165 · كولاج يكشف المشهد عبر شق ورقي مركزي](https://github.com/nevertoday/xxd-panel-165)
+- [XXD Panel 166 · ديوراما متساوية القياس بنحت بارز ضحل](https://github.com/nevertoday/xxd-panel-166)
+- [XXD Panel 167 · موجة مركزية بملمس حبر بارز](https://github.com/nevertoday/xxd-panel-167)
+- [XXD Panel 168 · حقل مرسوم بطبقات مع حفظ بياض الورق](https://github.com/nevertoday/xxd-panel-168)
+- [XXD Panel 169 · رسم صغير بالحبر والمغرة الدافئة](https://github.com/nevertoday/xxd-panel-169)
+- [XXD Panel 170 · رسم صغير بخامات جافة بالأسود والأحمر الصدئ](https://github.com/nevertoday/xxd-panel-170)
+- [XXD Panel 171 · هيكل رأسي ومشاهد متناثرة دقيقة](https://github.com/nevertoday/xxd-panel-171)
+- [XXD Panel 172 · موضوع مركزي وطبقات هندسية شفافة](https://github.com/nevertoday/xxd-panel-172)
+- [XXD Panel 173 · مشهد مصغر من الورق والنص بلون العاج](https://github.com/nevertoday/xxd-panel-173)
+- [XXD Panel 174 · تجمع ملصقات مرسومة بخطوط عفوية](https://github.com/nevertoday/xxd-panel-174)
+- [XXD Panel 175 · مشهد ورقي عاجي بإضاءة كهرمانية خلفية](https://github.com/nevertoday/xxd-panel-175)
 
 ## إعلان | خدمات XXD المدفوعة والعضوية
 

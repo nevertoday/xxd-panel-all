@@ -162,8 +162,43 @@ Use this index only to search, compare, and route. These summaries are not gener
 | 156 | 双色错版插画志 | 严格双色专色、面线分离、开放轮廓、轻微套印错位、小章印与超级留白 |
 | 157 | 文物墨拓留白志 | 中国古代文物墨拓、残缺墨迹、风化浅浮雕痕迹、天然纸色、小主体与超级留白 |
 | 158 | 纸本综合拼贴志 | 纸本综合材料、撕贴印刷纸、松动手绘线、2–4清爽源图色、小焦点与艺术留白 |
+| 159 | 字符网点实验志 | 字符与网点构成图像，位图实验标题与图像咬合，黑白灰加1–3个源图点睛色，小主体大留白。 |
+| 160 | 松线淡彩留白志 | 松散墨线、寻找线与少量透明淡彩，源图2–4色，小尺度单一焦点，不画满背景。 |
+| 161 | 框景色场越界志 | 不规则手工矩形色场如第二画布，四周大白边，少量主体越界，2–4色概括手绘。 |
+| 162 | 白衬剪纸绘本志 | 童趣扁平肌理插画，整块不规则白色剪纸底衬而非等宽描边，2–4暖色，小章印大留白。 |
+| 163 | 居中纯色章印志 | 居中小尺度图章焦点，干净纯色色块、正负形、2–4色，无颗粒排线或复杂纹理。 |
+| 164 | 水墨建筑微景志 | 淡墨山水融合建筑制图线、网格与等高线，微缩叙事景观，灰蓝墨色和少量暖橙点睛。 |
+| 165 | 中央撕纸揭景志 | 中央纵向毛边裂缝为核心，内部几何色块分层重构，纸纤维与厚度，浅色2–4色和超大留白。 |
+| 166 | 等距浮雕微缩志 | 等距微缩模型、压扁体块、层叠地形与低浮雕层级，限制2–4色，不做写实CG或游戏资产。 |
+| 167 | 波形厚墨浮雕志 | 居中抽象波形承托主体，不必真实海水；厚油墨压印颗粒与轻侧光，2–4鲜活色和超大留白。 |
+| 168 | 留纸白叠刷色场志 | 主体通过留纸白负形从矩形底场让出，浅铺、碎层叠刷与半干擦刷，局部越界，非后贴主体。 |
+| 169 | 暖赭小幅墨线志 | 75–85%空纸，15–25%孤立小插图；细炭黑松线，赭黄卡其主体和极少烧橙，不加竞争冷色。 |
+| 170 | 黑锈红干笔小景志 | 极小图形、大笔触、少细节；暖灰白纸上炭黑主导与少量锈红，严禁多色与背景底板。 |
+| 171 | 竖线微型散点志 | 75–85%暖白主导，细长低对比纵向骨架与少量孤岛图形，灰青土金轻柔、极小跳色。 |
+| 172 | 居中透明几何志 | 居中小主体与大留白，低对比半透明几何层退居背景，可选细竖线，不能形成第二中心。 |
+| 173 | 象牙纸本文字微景志 | 主体10–20%、暖白留白80–90%，纸本文字装置与轻纸影；95%象牙白米灰纸褐，禁红金青蓝。 |
+| 174 | 稚拙贴纸聚合志 | 多个独立粗笔贴纸单元中心聚合成主体，错位重叠与清晰轮廓，非整齐网格或随机贴纸包。 |
+| 175 | 琥珀透光纸雕小景志 | 20–25%微缩层叠纸雕、75–80%留白；暖象牙色与琥珀背光，暖褐纸影，红墨点睛不足1%。 |
 
 ## Latest repositories
+
+- [Panel 159 · 字符网点实验志](https://github.com/nevertoday/xxd-panel-159)
+- [Panel 160 · 松线淡彩留白志](https://github.com/nevertoday/xxd-panel-160)
+- [Panel 161 · 框景色场越界志](https://github.com/nevertoday/xxd-panel-161)
+- [Panel 162 · 白衬剪纸绘本志](https://github.com/nevertoday/xxd-panel-162)
+- [Panel 163 · 居中纯色章印志](https://github.com/nevertoday/xxd-panel-163)
+- [Panel 164 · 水墨建筑微景志](https://github.com/nevertoday/xxd-panel-164)
+- [Panel 165 · 中央撕纸揭景志](https://github.com/nevertoday/xxd-panel-165)
+- [Panel 166 · 等距浮雕微缩志](https://github.com/nevertoday/xxd-panel-166)
+- [Panel 167 · 波形厚墨浮雕志](https://github.com/nevertoday/xxd-panel-167)
+- [Panel 168 · 留纸白叠刷色场志](https://github.com/nevertoday/xxd-panel-168)
+- [Panel 169 · 暖赭小幅墨线志](https://github.com/nevertoday/xxd-panel-169)
+- [Panel 170 · 黑锈红干笔小景志](https://github.com/nevertoday/xxd-panel-170)
+- [Panel 171 · 竖线微型散点志](https://github.com/nevertoday/xxd-panel-171)
+- [Panel 172 · 居中透明几何志](https://github.com/nevertoday/xxd-panel-172)
+- [Panel 173 · 象牙纸本文字微景志](https://github.com/nevertoday/xxd-panel-173)
+- [Panel 174 · 稚拙贴纸聚合志](https://github.com/nevertoday/xxd-panel-174)
+- [Panel 175 · 琥珀透光纸雕小景志](https://github.com/nevertoday/xxd-panel-175)
 
 - [Panel 113 · 贝壳像素留白志](https://github.com/nevertoday/xxd-panel-113)
 
@@ -217,7 +252,7 @@ Use this index only to search, compare, and route. These summaries are not gener
 - [Panel 157 · 文物墨拓留白志](https://github.com/nevertoday/xxd-panel-157)
 - [Panel 158 · 纸本综合拼贴志](https://github.com/nevertoday/xxd-panel-158)
 
-This catalog contains 158 entries covering numbers 001–158. Panel 113 has been added; actual runtime availability still depends on installed Skills.
+This catalog contains 175 entries covering numbers 001–175. Panels 159–175 are packaged without generated sample artwork; actual runtime availability still depends on installed Skills.
 
 ## Matching guidance
 
@@ -250,3 +285,5 @@ For Panels 149–155, choose 149 for textured hand-drawn flat shapes; 150 for re
 For Panels 156–158, choose 156 for strict two-ink Risograph-like plane/line separation and slight registration offsets; 157 for archaeological ink transfer, broken relief-like traces and natural paper; and 158 for torn printed-paper collage that constructs the subject with loose hand-drawn lines and 2–4 fresh colours. All three favour a small reconstructed focus and vast whitespace. Do not confuse 156 with a duotone photo filter, 157 with ordinary monochrome outlines, or 158 with decorative scrapbook framing. These are routing summaries only; each Soldier’s verbatim original brief remains authoritative.
 
 For Panel 113, choose a natural-material pixel collage: at most 200 similarly sized shell or mineral-shell squares, clear grid order, chipped matte surfaces and progressive edge dissolution. Keep a small stamp-like focus and bright source-derived colour. Unlike 154’s retro digital pixel clusters, 113 depends on visibly natural shell-fragment material; ordinary mosaics and game pixels do not satisfy it.
+
+For Panels 159–175, distinguish 161’s hand-painted framed field from 168’s reserved-white negative-shape painting; 160’s expressive source-colour pen wash from 169’s 75–85% paper and fixed ochre palette, and 170’s strict black/rust-red dry marks. Keep 163’s centred solid-colour stamp separate from 172’s centred subject with subordinate translucent geometry, and 171’s dispersed islands with vertical rhythm. 173 uses a 10–20% paper-text miniature and roughly 95% ivory/beige/brown, whereas 175 uses 20–25% layered paper sculpture, amber backlight and less than 1% red/ink accents. 162 requires one irregular white backing, while 174 aggregates multiple sticker-like units. 164 combines ink and architectural drawing; 166 requires sculptural isometric bas-relief; 167 uses a centred abstract wave with raised ink, not literal seawater. 165 centres a vertical paper tear. 159 makes bitmap typography integral rather than a caption. These summaries are routing aids, never replacement generation prompts.

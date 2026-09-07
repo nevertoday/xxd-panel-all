@@ -4,7 +4,7 @@
 
 `xxd-panel-all`은 XXD Panel 시리즈의 장군급 Skill입니다. 먼저 현재 환경에 설치된 `xxd-panel-NNN` 병사 Skills를 확인한 뒤 다음 작업을 맡습니다.
 
-사진은 많은데 어떤 스타일을 써야 할지 모르겠고, 하나씩 시험하기에는 너무 느리며 감으로 고르자니 후회하기 쉬운 순간이 있습니다. 이 Skill은 그 첫 판단을 대신합니다. 이미지나 폴더를 건네면 요구를 이해하고 설치된 Panel 중 적임자를 고른 뒤 작업을 배분하고 결과를 모읍니다. 158개 번호를 먼저 외울 필요가 없습니다.
+사진은 많은데 어떤 스타일을 써야 할지 모르겠고, 하나씩 시험하기에는 너무 느리며 감으로 고르자니 후회하기 쉬운 순간이 있습니다. 이 Skill은 그 첫 판단을 대신합니다. 이미지나 폴더를 건네면 요구를 이해하고 설치된 Panel 중 적임자를 고른 뒤 작업을 배분하고 결과를 모읍니다. 175개 번호를 먼저 외울 필요가 없습니다.
 
 ### 30초 안에 이해하기
 
@@ -83,6 +83,23 @@
 - [XXD Panel 157 · 유물 먹 탁본과 여백](https://github.com/nevertoday/xxd-panel-157)
 - [XXD Panel 158 · 종이 혼합 재료 콜라주](https://github.com/nevertoday/xxd-panel-158)
 - [XXD Panel 113 · 조개껍데기 픽셀 콜라주](https://github.com/nevertoday/xxd-panel-113)
+- [XXD Panel 159 · 문자 망점 실험 포스터](https://github.com/nevertoday/xxd-panel-159)
+- [XXD Panel 160 · 느슨한 펜선과 담채 여백](https://github.com/nevertoday/xxd-panel-160)
+- [XXD Panel 161 · 회화적 색면과 경계 넘기](https://github.com/nevertoday/xxd-panel-161)
+- [XXD Panel 162 · 흰 오려낸 종이 받침의 그림책](https://github.com/nevertoday/xxd-panel-162)
+- [XXD Panel 163 · 중앙 단색 면 스탬프 구도](https://github.com/nevertoday/xxd-panel-163)
+- [XXD Panel 164 · 수묵 건축 선묘 미니어처](https://github.com/nevertoday/xxd-panel-164)
+- [XXD Panel 165 · 중앙 찢긴 틈의 종이 콜라주](https://github.com/nevertoday/xxd-panel-165)
+- [XXD Panel 166 · 등각 투영 조각적 부조 디오라마](https://github.com/nevertoday/xxd-panel-166)
+- [XXD Panel 167 · 중앙 파형과 두꺼운 잉크 부조](https://github.com/nevertoday/xxd-panel-167)
+- [XXD Panel 168 · 종이 흰색을 남긴 겹붓질 색면](https://github.com/nevertoday/xxd-panel-168)
+- [XXD Panel 169 · 따뜻한 황토색 작은 잉크 삽화](https://github.com/nevertoday/xxd-panel-169)
+- [XXD Panel 170 · 검정과 녹슨 빨강의 거친 작은 삽화](https://github.com/nevertoday/xxd-panel-170)
+- [XXD Panel 171 · 세로 골격과 작은 분산 장면](https://github.com/nevertoday/xxd-panel-171)
+- [XXD Panel 172 · 중앙 피사체와 반투명 기하 레이어](https://github.com/nevertoday/xxd-panel-172)
+- [XXD Panel 173 · 상아색 종이와 문자 미니 풍경](https://github.com/nevertoday/xxd-panel-173)
+- [XXD Panel 174 · 투박한 손그림 스티커 집합](https://github.com/nevertoday/xxd-panel-174)
+- [XXD Panel 175 · 호박빛 역광의 상아색 종이 조각](https://github.com/nevertoday/xxd-panel-175)
 
 ## 광고 정보｜XXD 유료 서비스 및 멤버십
 

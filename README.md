@@ -4,7 +4,7 @@
 
 `xxd-panel-all` 是 XXD Panel 系列的将军级 Skill。它先识别当前环境中已安装的 `xxd-panel-NNN` 士兵级 Skills，再承接以下任务：
 
-如果你也有过这种时刻：手里一堆照片，不知道该用哪种风格；一个个试太慢，凭感觉乱选又容易后悔——这个 Skill 就是替你做第一轮判断的。你只要把图片或文件夹交过来，它会先看懂需求，再从已经安装的 Panel 里挑人、派活、收结果。你不用先背下 158 个编号。
+如果你也有过这种时刻：手里一堆照片，不知道该用哪种风格；一个个试太慢，凭感觉乱选又容易后悔——这个 Skill 就是替你做第一轮判断的。你只要把图片或文件夹交过来，它会先看懂需求，再从已经安装的 Panel 里挑人、派活、收结果。你不用先背下 175 个编号。
 
 ### 30 秒看懂
 
@@ -83,6 +83,23 @@
 - [XXD Panel 157 · 文物墨拓留白志](https://github.com/nevertoday/xxd-panel-157)
 - [XXD Panel 158 · 纸本综合拼贴志](https://github.com/nevertoday/xxd-panel-158)
 - [XXD Panel 113 · 贝壳像素留白志](https://github.com/nevertoday/xxd-panel-113)
+- [XXD Panel 159 · 字符网点实验志](https://github.com/nevertoday/xxd-panel-159)
+- [XXD Panel 160 · 松线淡彩留白志](https://github.com/nevertoday/xxd-panel-160)
+- [XXD Panel 161 · 框景色场越界志](https://github.com/nevertoday/xxd-panel-161)
+- [XXD Panel 162 · 白衬剪纸绘本志](https://github.com/nevertoday/xxd-panel-162)
+- [XXD Panel 163 · 居中纯色章印志](https://github.com/nevertoday/xxd-panel-163)
+- [XXD Panel 164 · 水墨建筑微景志](https://github.com/nevertoday/xxd-panel-164)
+- [XXD Panel 165 · 中央撕纸揭景志](https://github.com/nevertoday/xxd-panel-165)
+- [XXD Panel 166 · 等距浮雕微缩志](https://github.com/nevertoday/xxd-panel-166)
+- [XXD Panel 167 · 波形厚墨浮雕志](https://github.com/nevertoday/xxd-panel-167)
+- [XXD Panel 168 · 留纸白叠刷色场志](https://github.com/nevertoday/xxd-panel-168)
+- [XXD Panel 169 · 暖赭小幅墨线志](https://github.com/nevertoday/xxd-panel-169)
+- [XXD Panel 170 · 黑锈红干笔小景志](https://github.com/nevertoday/xxd-panel-170)
+- [XXD Panel 171 · 竖线微型散点志](https://github.com/nevertoday/xxd-panel-171)
+- [XXD Panel 172 · 居中透明几何志](https://github.com/nevertoday/xxd-panel-172)
+- [XXD Panel 173 · 象牙纸本文字微景志](https://github.com/nevertoday/xxd-panel-173)
+- [XXD Panel 174 · 稚拙贴纸聚合志](https://github.com/nevertoday/xxd-panel-174)
+- [XXD Panel 175 · 琥珀透光纸雕小景志](https://github.com/nevertoday/xxd-panel-175)
 
 ## 广告信息｜XXD 付费服务与会员
 

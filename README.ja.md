@@ -4,7 +4,7 @@
 
 `xxd-panel-all` は XXD Panel シリーズの将軍レベル Skill です。まず現在の環境にインストール済みの `xxd-panel-NNN` 兵士 Skills を確認し、次の仕事を引き受けます。
 
-写真がたくさんあるのに、どのスタイルを使えばよいか分からない。一つずつ試すには時間がかかり、勘だけで選ぶと後悔しやすい——そんなとき、この Skill が最初の判断を代行します。画像やフォルダーを渡すだけで、要望を理解し、インストール済みの Panel から適任を選び、仕事を割り振って結果をまとめます。158 個の番号を先に暗記する必要はありません。
+写真がたくさんあるのに、どのスタイルを使えばよいか分からない。一つずつ試すには時間がかかり、勘だけで選ぶと後悔しやすい——そんなとき、この Skill が最初の判断を代行します。画像やフォルダーを渡すだけで、要望を理解し、インストール済みの Panel から適任を選び、仕事を割り振って結果をまとめます。175 個の番号を先に暗記する必要はありません。
 
 ### 30 秒で分かること
 
@@ -83,6 +83,23 @@
 - [XXD Panel 157 · 文物の墨拓と余白](https://github.com/nevertoday/xxd-panel-157)
 - [XXD Panel 158 · 紙のミクストメディア・コラージュ](https://github.com/nevertoday/xxd-panel-158)
 - [XXD Panel 113 · 貝殻ピクセル・コラージュ](https://github.com/nevertoday/xxd-panel-113)
+- [XXD Panel 159 · 文字網点の実験ポスター](https://github.com/nevertoday/xxd-panel-159)
+- [XXD Panel 160 · 自由な線と淡彩の余白](https://github.com/nevertoday/xxd-panel-160)
+- [XXD Panel 161 · 色面フレームと越境構図](https://github.com/nevertoday/xxd-panel-161)
+- [XXD Panel 162 · 白い切り紙台紙の絵本イラスト](https://github.com/nevertoday/xxd-panel-162)
+- [XXD Panel 163 · 中央の単色色面スタンプ](https://github.com/nevertoday/xxd-panel-163)
+- [XXD Panel 164 · 水墨と建築線描の小景](https://github.com/nevertoday/xxd-panel-164)
+- [XXD Panel 165 · 中央の裂け目から現れる紙コラージュ](https://github.com/nevertoday/xxd-panel-165)
+- [XXD Panel 166 · 等角投影の彫刻的浅浮彫ジオラマ](https://github.com/nevertoday/xxd-panel-166)
+- [XXD Panel 167 · 中央の波形と厚盛りインク](https://github.com/nevertoday/xxd-panel-167)
+- [XXD Panel 168 · 紙白を残す重ね刷毛の色面](https://github.com/nevertoday/xxd-panel-168)
+- [XXD Panel 169 · 暖かな黄土色の小さな線画](https://github.com/nevertoday/xxd-panel-169)
+- [XXD Panel 170 · 黒と錆赤のドライメディア小景](https://github.com/nevertoday/xxd-panel-170)
+- [XXD Panel 171 · 縦線の骨格と微小な散点](https://github.com/nevertoday/xxd-panel-171)
+- [XXD Panel 172 · 中央の主題と半透明幾何レイヤー](https://github.com/nevertoday/xxd-panel-172)
+- [XXD Panel 173 · 象牙色の紙と文字の微小景観](https://github.com/nevertoday/xxd-panel-173)
+- [XXD Panel 174 · 素朴な手描きステッカーの集合](https://github.com/nevertoday/xxd-panel-174)
+- [XXD Panel 175 · 琥珀の透過光と象牙色の紙彫小景](https://github.com/nevertoday/xxd-panel-175)
 
 ## 広告情報｜XXD 有料サービスと会員制度
 

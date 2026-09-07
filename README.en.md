@@ -4,7 +4,7 @@
 
 `xxd-panel-all` is the General-level Skill for the XXD Panel family. It first detects the installed `xxd-panel-NNN` Soldier Skills in the current environment, then handles these tasks:
 
-If you have ever had a folder full of photographs but did not know which style to use—trying them one by one is too slow, while choosing by instinct can be unreliable—this Skill makes the first-round judgment for you. Give it an image or folder; it understands the request, selects suitable installed Panels, dispatches the work, and gathers the results. You do not need to memorise all 158 numbers first.
+If you have ever had a folder full of photographs but did not know which style to use—trying them one by one is too slow, while choosing by instinct can be unreliable—this Skill makes the first-round judgment for you. Give it an image or folder; it understands the request, selects suitable installed Panels, dispatches the work, and gathers the results. You do not need to memorise all 175 numbers first.
 
 ### Understand it in 30 seconds
 
@@ -83,6 +83,23 @@ The General organises the company; it does not draw in place of a Soldier. It ne
 - [XXD Panel 157 · Archaeological Ink Rubbing](https://github.com/nevertoday/xxd-panel-157)
 - [XXD Panel 158 · Mixed-media Collage on Paper](https://github.com/nevertoday/xxd-panel-158)
 - [XXD Panel 113 · Shell-fragment Pixel Collage](https://github.com/nevertoday/xxd-panel-113)
+- [XXD Panel 159 · Post-digital Bitmap Typography](https://github.com/nevertoday/xxd-panel-159)
+- [XXD Panel 160 · Expressive Pen-and-wash Illustration](https://github.com/nevertoday/xxd-panel-160)
+- [XXD Panel 161 · Frame-breaking Painted Colour Field](https://github.com/nevertoday/xxd-panel-161)
+- [XXD Panel 162 · Storybook Illustration on White Cutout](https://github.com/nevertoday/xxd-panel-162)
+- [XXD Panel 163 · Centred Flat-colour Stamp Composition](https://github.com/nevertoday/xxd-panel-163)
+- [XXD Panel 164 · Ink-wash Architectural Miniature](https://github.com/nevertoday/xxd-panel-164)
+- [XXD Panel 165 · Central Torn-paper Reveal Collage](https://github.com/nevertoday/xxd-panel-165)
+- [XXD Panel 166 · Sculptural Isometric Bas-relief Diorama](https://github.com/nevertoday/xxd-panel-166)
+- [XXD Panel 167 · Centred Wave-form Raised-ink Relief](https://github.com/nevertoday/xxd-panel-167)
+- [XXD Panel 168 · Reserved-white Layered Painted Field](https://github.com/nevertoday/xxd-panel-168)
+- [XXD Panel 169 · Warm Ochre Ink-line Spot Illustration](https://github.com/nevertoday/xxd-panel-169)
+- [XXD Panel 170 · Black and Rust-red Dry-media Spot](https://github.com/nevertoday/xxd-panel-170)
+- [XXD Panel 171 · Vertical Skeleton and Tiny Vignettes](https://github.com/nevertoday/xxd-panel-171)
+- [XXD Panel 172 · Centred Subject with Translucent Geometry](https://github.com/nevertoday/xxd-panel-172)
+- [XXD Panel 173 · Ivory Paper-text Miniature Landscape](https://github.com/nevertoday/xxd-panel-173)
+- [XXD Panel 174 · Naive Hand-drawn Sticker Assemblage](https://github.com/nevertoday/xxd-panel-174)
+- [XXD Panel 175 · Amber-backlit Ivory Paper-cut Vignette](https://github.com/nevertoday/xxd-panel-175)
 
 ## Advertisement | Paid XXD services and membership
 
