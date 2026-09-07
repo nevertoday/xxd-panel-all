@@ -4,7 +4,7 @@
 
 `xxd-panel-all` 是 XXD Panel 系列的将军级 Skill。它先识别当前环境中已安装的 `xxd-panel-NNN` 士兵级 Skills，再承接以下任务：
 
-如果你也有过这种时刻：手里一堆照片，不知道该用哪种风格；一个个试太慢，凭感觉乱选又容易后悔——这个 Skill 就是替你做第一轮判断的。你只要把图片或文件夹交过来，它会先看懂需求，再从已经安装的 Panel 里挑人、派活、收结果。你不用先背下 157 个编号。
+如果你也有过这种时刻：手里一堆照片，不知道该用哪种风格；一个个试太慢，凭感觉乱选又容易后悔——这个 Skill 就是替你做第一轮判断的。你只要把图片或文件夹交过来，它会先看懂需求，再从已经安装的 Panel 里挑人、派活、收结果。你不用先背下 158 个编号。
 
 ### 30 秒看懂
 
@@ -82,6 +82,7 @@
 - [XXD Panel 156 · 双色错版插画志](https://github.com/nevertoday/xxd-panel-156)
 - [XXD Panel 157 · 文物墨拓留白志](https://github.com/nevertoday/xxd-panel-157)
 - [XXD Panel 158 · 纸本综合拼贴志](https://github.com/nevertoday/xxd-panel-158)
+- [XXD Panel 113 · 贝壳像素留白志](https://github.com/nevertoday/xxd-panel-113)
 
 ## 广告信息｜XXD 付费服务与会员
 

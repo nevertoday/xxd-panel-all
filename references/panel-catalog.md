@@ -116,6 +116,7 @@ Use this index only to search, compare, and route. These summaries are not gener
 | 110 | 日系生活场景图鉴 | 4–7个真实生活物件、Scene Map、透明亚克力收藏质感、动态路线、轻巧注释、日系治愈氛围 |
 | 111 | 纺织拼贴志 | 选择性记忆、贴布绣与布料拼贴、显性针迹、鲜活照片取色、小尺度章印、大面积艺术留白 |
 | 112 | 金线纸本志 | 双层手工纸、横向窄色块、深色哑光蜡粉笔、克制金线、自然越界、Risograph颗粒、安静留白 |
+| 113 | 贝壳像素留白志 | 最多200块近等大天然贝壳方片、几何网格、边缘渐散、明快取色、小尺度章印与大留白 |
 | 114 | 复古粉彩手账涂鸦 | 复古纸张、粉彩手绘、材料拼贴、手账涂鸦、轻盈留白、编辑注释 |
 | 115 | 粉彩章印拼贴志 | 粉彩章印、纸张拼贴、手绘线条、少量金线、复古纸本、私人记录 |
 | 116 | 浅纸粉彩涂鸦志 | 极浅纸面、粗颗粒彩线、极简涂鸦、柔和粉彩、手工纸感、安静留白 |
@@ -163,6 +164,8 @@ Use this index only to search, compare, and route. These summaries are not gener
 | 158 | 纸本综合拼贴志 | 纸本综合材料、撕贴印刷纸、松动手绘线、2–4清爽源图色、小焦点与艺术留白 |
 
 ## Latest repositories
+
+- [Panel 113 · 贝壳像素留白志](https://github.com/nevertoday/xxd-panel-113)
 
 - [Panel 114 · 复古粉彩手账涂鸦](https://github.com/nevertoday/xxd-panel-114)
 - [Panel 115 · 粉彩章印拼贴志](https://github.com/nevertoday/xxd-panel-115)
@@ -214,7 +217,7 @@ Use this index only to search, compare, and route. These summaries are not gener
 - [Panel 157 · 文物墨拓留白志](https://github.com/nevertoday/xxd-panel-157)
 - [Panel 158 · 纸本综合拼贴志](https://github.com/nevertoday/xxd-panel-158)
 
-This catalog contains 157 entries through number 158. Number 113 is not catalogued; do not assume sequential availability.
+This catalog contains 158 entries covering numbers 001–158. Panel 113 has been added; actual runtime availability still depends on installed Skills.
 
 ## Matching guidance
 
@@ -245,3 +248,5 @@ For Panels 139–146, choose 139 for text-encoded abstract line fields and plott
 For Panels 149–155, choose 149 for textured hand-drawn flat shapes; 150 for retro-modern cut-paper geometry; 151 for naive flat hand drawing; 152 for paper forms anchored by a stable bottom colour field; 153 for a few monochrome journal-doodle marks and a stamp-sized subject; 154 for hard-edged retro pixel clusters; and 155 for one-point-perspective architectural interior linework with pale wash. Distinguish 149’s drawn texture from 150’s cut-paper edges and 152’s structural base, and 151’s flat colour from 153’s sparse monochrome doodles. Never blur 154 into smooth illustration. For 155, pale architectural exteriors alone do not meet the source brief’s interior-perspective requirement. Documentation samples are not a substitute for the original prompt or its acceptance checks.
 
 For Panels 156–158, choose 156 for strict two-ink Risograph-like plane/line separation and slight registration offsets; 157 for archaeological ink transfer, broken relief-like traces and natural paper; and 158 for torn printed-paper collage that constructs the subject with loose hand-drawn lines and 2–4 fresh colours. All three favour a small reconstructed focus and vast whitespace. Do not confuse 156 with a duotone photo filter, 157 with ordinary monochrome outlines, or 158 with decorative scrapbook framing. These are routing summaries only; each Soldier’s verbatim original brief remains authoritative.
+
+For Panel 113, choose a natural-material pixel collage: at most 200 similarly sized shell or mineral-shell squares, clear grid order, chipped matte surfaces and progressive edge dissolution. Keep a small stamp-like focus and bright source-derived colour. Unlike 154’s retro digital pixel clusters, 113 depends on visibly natural shell-fragment material; ordinary mosaics and game pixels do not satisfy it.
