@@ -158,6 +158,9 @@ Use this index only to search, compare, and route. These summaries are not gener
 | 153 | 单色手帐涂鸦志 | 单色手帐涂鸦、少量稚拙线条、小邮票式主体、方格纸感与巨大留白 |
 | 154 | 复古像素留白志 | 复古像素艺术、清晰方形像素与阶梯轮廓、限色像素簇、小主体大留白 |
 | 155 | 一点透视淡彩志 | 一点透视室内设计手绘、建筑结构线与极淡水彩、小型核心、巨大编辑留白 |
+| 156 | 双色错版插画志 | 严格双色专色、面线分离、开放轮廓、轻微套印错位、小章印与超级留白 |
+| 157 | 文物墨拓留白志 | 中国古代文物墨拓、残缺墨迹、风化浅浮雕痕迹、天然纸色、小主体与超级留白 |
+| 158 | 纸本综合拼贴志 | 纸本综合材料、撕贴印刷纸、松动手绘线、2–4清爽源图色、小焦点与艺术留白 |
 
 ## Latest repositories
 
@@ -207,8 +210,11 @@ Use this index only to search, compare, and route. These summaries are not gener
 - [Panel 153 · 单色手帐涂鸦志](https://github.com/nevertoday/xxd-panel-153)
 - [Panel 154 · 复古像素留白志](https://github.com/nevertoday/xxd-panel-154)
 - [Panel 155 · 一点透视淡彩志](https://github.com/nevertoday/xxd-panel-155)
+- [Panel 156 · 双色错版插画志](https://github.com/nevertoday/xxd-panel-156)
+- [Panel 157 · 文物墨拓留白志](https://github.com/nevertoday/xxd-panel-157)
+- [Panel 158 · 纸本综合拼贴志](https://github.com/nevertoday/xxd-panel-158)
 
-This catalog contains 154 entries through number 155. Number 113 is not catalogued; do not assume sequential availability.
+This catalog contains 157 entries through number 158. Number 113 is not catalogued; do not assume sequential availability.
 
 ## Matching guidance
 
@@ -237,3 +243,5 @@ For Panels 147–148, choose 147 for semantic food substitution: reinterpret the
 For Panels 139–146, choose 139 for text-encoded abstract line fields and plotter grids; 140 for a tiny dry-media visual island; 141 for sparse searching hand-drawn outlines; 142 for extended glyphs masking and interacting with photographic fragments; 143 for words constructing the subject as a calligram; 144 for delicate linework crossing one geometric colour anchor through white knockout; 145 for vintage spot-colour engraving and print grain; and 146 for decorative natural-history scarf illustration. Distinguish 139’s encoded abstraction from 141’s recognisable outlines, 142’s photographic glyph masks from 143’s word-built image, and 145’s vintage print texture from 146’s ornamental natural-history language. Core letters are indispensable in 142 and 143: clarify a text-free request instead of silently changing style. Panel 144 defaults to left–right 7:6 under its final source amendment; explicit runtime modes and ratios override that layout.
 
 For Panels 149–155, choose 149 for textured hand-drawn flat shapes; 150 for retro-modern cut-paper geometry; 151 for naive flat hand drawing; 152 for paper forms anchored by a stable bottom colour field; 153 for a few monochrome journal-doodle marks and a stamp-sized subject; 154 for hard-edged retro pixel clusters; and 155 for one-point-perspective architectural interior linework with pale wash. Distinguish 149’s drawn texture from 150’s cut-paper edges and 152’s structural base, and 151’s flat colour from 153’s sparse monochrome doodles. Never blur 154 into smooth illustration. For 155, pale architectural exteriors alone do not meet the source brief’s interior-perspective requirement. Documentation samples are not a substitute for the original prompt or its acceptance checks.
+
+For Panels 156–158, choose 156 for strict two-ink Risograph-like plane/line separation and slight registration offsets; 157 for archaeological ink transfer, broken relief-like traces and natural paper; and 158 for torn printed-paper collage that constructs the subject with loose hand-drawn lines and 2–4 fresh colours. All three favour a small reconstructed focus and vast whitespace. Do not confuse 156 with a duotone photo filter, 157 with ordinary monochrome outlines, or 158 with decorative scrapbook framing. These are routing summaries only; each Soldier’s verbatim original brief remains authoritative.
