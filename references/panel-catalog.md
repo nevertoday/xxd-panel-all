@@ -184,8 +184,81 @@ Use this index only to search, compare, and route. These summaries are not gener
 | 178 | 异形微岛版画志（同源） | 15–25%异形视觉岛屿，嵌套同构与克制破框；象牙白留白、墨藏青和灰橄榄绿、极少朱砂橙红。与177原稿完全相同。 |
 | 179 | 丝带微缩陈列志 | 70–85%留白，近无彩色轻盈丝形台面与疏朗微缩展品；群青、朱红、赭金仅集中于主体，文字可作微细灰纹理。 |
 | 180 | 复古圆章旅行手账志 | 核心主体与1–2个环境线索组成小尺度圆形纪念章，木刻橡皮章与蚀刻质感、旧纸纤维、漏印错版；源图2–3色转为旧印泥色，极少金箔，大留白与章下英文标题、关键词。 |
+| 181 | 文人彩墨写意小品 | 整体呈现**彩墨写意、小品式构图、墨主色辅、大面积艺术留白与文人画式图文关系**共同形成的高级视觉效果。无论主体是人物、建筑、动物、植物、器物、交通工具或自然景观，都应重在“取其神而舍其繁”， |
+| 182 | 微缩像素图形小品 | 整体呈现**微型像素主体、模块化图形、低饱和中性色、少量功能性色、大面积留白与编辑式排版**共同构成的高级视觉效果。无论主体是人物、建筑、动物、植物、器物、交通工具或自然景观，都应保持清晰身份与高度概括。 |
+| 183 | 深绿角隅自然图形 | 整体呈现**大面积留白、小体量角隅图形、非对称平衡、自然有机形态、奶油中性色与深灰绿压角**共同构成的高级视觉效果，像文化品牌、艺术出版物、精品生活方式视觉与极简花艺编辑设计的结合。 |
+| 184 | 方形生活手绘盒景 | 整体呈现**复古稚拙手绘、正方形微场景、松动线稿、彩铅水彩肌理、大量艺术留白与编辑式排版**共同构成的高级视觉效果。 |
+| 185 | 黑白浅色贴纸小品 | 整体呈现**小图形、大片留白、黑白主导、单点浅色强调、手绘贴纸感与克制排版**共同构成的高级视觉效果。 |
+| 186 | 柔色九宫格几何记忆 | 整体呈现**九宫格矩阵、扁平色块、强几何分区、暖白纸面、大面积留白与诗性编辑排版**共同构成的高级视觉效果。无论主体是人物、建筑、动物、植物、器物、交通工具或自然景观，都应保持九个单元之间统一的视觉语言，并让人通过这些几何化片段重新感受到上方照片的核心主题，而不是看到一组机械复制的缩略图。 |
+| 187 | 巨型字体档案拼贴 | 整体呈现**摄影拼贴、档案纸张、制图线稿、技术标记、巨型字体、大面积留白与现代编辑排版**共同构成的高级视觉效果，参考 Architectural Archival Style / Photomontage / Blueprint Aesthetic / Oversized Typography。 |
+| 188 | 米金留白建筑档案 | 整体呈现**微主体构图、大面积负空间、旧纸底色、低饱和米白金灰褐配色、细线辅助图形与克制排版**共同构成的高级视觉效果，参考 Minimal Architectural Poster with Generous Negative Space / Archival Editorial Poster。 |
+| 189 | 双框侧栏火柴盒小景 | 整体呈现**复古标签式边框系统、侧栏分区、小幅 vignette 插图、留白主导、限定专色色块与旧印刷质感**共同构成的高级视觉效果。 |
+| 190 | 冷主暖辅朴拙粉彩 | 整体呈现“小图幅、大片留白、朴拙粉彩、冷主暖辅、粉质颗粒与诗性排版”共同构成的高级视觉效果，像独立出版的艺术小册、私人旅行笔记或诗歌插画。无论主体是人物、建筑、动物、植物、器物或自然景观，都以选择性记忆和情绪提炼为核心。 |
+| 191 | 毛边矩形粉彩色域 | 整体呈现毛边矩形色域、小尺度视觉小品、大面积负空间、连续横向色层、粉质擦染肌理、冷主暖辅配色与诗性排版共同构成的高级视觉效果，像独立出版的艺术小册、私人旅行笔记或诗歌插画。 |
+| 192 | 复古限色图形小品 | 整体呈现**小图形视觉锚点、大面积艺术留白、复古限色、纸感印刷与编辑式排版**共同构成的高级视觉效果，像一张安静、松弛、聪明而有余韵的独立艺术海报。 |
+| 193 | 基座承托灰调水彩 | 整体呈现**小尺度图形主体、基座式承托、图形化水彩、灰粉暖色与蓝紫冷灰、大面积艺术留白、受控随机笔触与编辑式排版**共同构成的高级视觉效果，像一本独立出版的旅行观察册或艺术水彩小品集。 |
+| 194 | 明快基座轴测体量 | 整体呈现 **Planar Base + 3D Axonometric + Massing Diagram + Large Negative Space + Editorial Layout** 的高级视觉语言，强调从平面秩序生长出三维体量，而不是写实效果图。 |
+| 195 | 一抹亮色历史蒙太奇 | 整体呈现**档案摄影拼贴、双重曝光、时空叠置、地图信息语言、非线性叙事、大面积艺术留白与一抹亮色点睛**共同构成的高级视觉效果。无论原图是人物、建筑、器物、交通工具、自然景观或日常场景，都应围绕其最核心的记忆与关系重新叙事，而不是机械堆叠老照片。 |
+| 196 | 俯视几何抽象人物 | 整体呈现**俯视视角、几何抽象人物、扁平色块、大面积负空间、柔和阴影、明快治愈配色与编辑式排版**共同构成的高级视觉效果，参考 Top-down Geometric Figurative Illustration / Minimalist Geometric Figurative Illustration / Bauhaus-inspired geometric composition。 |
+| 197 | 笼中世界新民艺 | 整体呈现**容器叙事、笼中世界、新民艺手绘、鲜活配色、大量艺术留白与编辑式排版**共同构成的高级视觉效果。重点是：**把原图主题装进笼子里，让笼子成为主题的世界。** |
+| 198 | 限色失重时装拼贴 | 整体呈现**超现实失重叙事、概念时装插画、数字拼贴、半调网点、做旧印刷肌理、限定色系统与编辑式排版**共同构成的高级视觉效果。 |
+| 199 | 明快留白时装拼贴 | 整体呈现**小尺度主体、大面积留白、超现实失重叙事、概念时装插画、数字拼贴、半调网点、鲜活治愈配色与编辑式排版**共同构成的高级视觉效果。 |
+| 200 | 蓝灰单色手绘线描 | 整体呈现**单色线描、小尺度图形、大面积留白、手绘草图痕迹与安静编辑排版**共同构成的视觉效果，像独立出版物、插画手账或艺术概念页中的 spot illustration：轻盈、克制、敏锐、诗意、有余韵。 |
+| 201 | 奶油手作微缩立体 | 整体呈现**小尺度微缩主体、暖中性色同色系、手作哑光材质、大面积艺术留白与克制文字排版**共同构成的高级视觉小品。 |
+| 202 | 结构主线几何线图 | 整体呈现**几何线图、结构主线、小尺度主体、大面积留白、少量彩色笔触与安静图文混排**共同构成的视觉效果，像独立出版物中的 spot illustration、概念页或图解式艺术插画：轻盈、理性、敏锐、克制而有余韵。 |
+| 203 | 留白厚涂明信片 | 整体呈现**留白式小景、厚涂绘画肌理、明信片版式、清透冷暖平衡与文艺治愈感**共同构成的高级视觉效果。 |
+| 204 | 柔焦光影记忆小品 | 整体呈现**小尺度光影焦点、大面积负空间、柔焦晕光、粉雾冷暖关系与极简编辑排版**共同构成的高级视觉效果，像艺术杂志、文化品牌或展览视觉中的情绪化极简海报。无论主体是人物、建筑、动物、植物、器物、交通工具或自然景观，都应保留其最核心的视觉灵魂，而不是完整复刻。 |
+| 205 | 暖调有机形摄影拼贴 | 整体呈现**小尺度视觉中心、有机形裁切、摄影与线稿叠加、轻量拼贴、大面积艺术留白、暖调低饱和配色与高级编辑排版**共同构成的生活方式视觉。无论主体是人物、建筑、动物、植物、器物、交通工具或自然场景，都应保持清晰身份与轻盈叙事。 |
+| 206 | 柔色纸雕微缩小景 | 整体呈现**微缩纸艺主景、柔和纸张配色、大面积艺术留白、浅浮雕层次与高级编辑排版**共同构成的视觉效果。 |
+| 207 | 浅蓝白混合媒介插页 | 整体呈现**小画幅主体、大面积艺术留白、浅蓝白主调、照片与线稿结合、纸感拼贴、轻盈松弛的编辑插页感**，参考 minimal mixed-media collage / whitespace scrapbook layout / centered editorial collage / airy zine-inspired layout。 |
+| 208 | 蓝粉现代主义抽象 | 整体呈现**小尺度抽象图形、大面积艺术留白、蓝粉主色、红色点睛、黑色结构纹理与编辑式排版**共同构成的实验性高级海报气质，兼具现代主义、独立出版物与当代艺术设计感。 |
+| 209 | 极简纸张影像档案 | 最终呈现**小图像、大留白、克制色彩、局部情绪亮点、档案文字与纸张物质感**共同构成的高级编辑视觉，像一页被认真保存的摄影书、私人档案或独立艺术出版物。 |
+| 210 | 冷调轻量概念拼贴 | 整体呈现**小体量主体、高负空间、限定色彩、轻量拼贴、手绘线性图形与编辑式排版**共同构成的视觉气质，像独立杂志中的概念插画或私人视觉笔记：克制、松弛、聪明、安静、具有余韵。 |
+| 211 | 语义配色几何小品 | 整体呈现小尺度图形、大面积艺术留白、语义驱动配色、几何符号化与精致编辑排版共同构成的高级视觉效果，像独立出版物、生活方式品牌或文化视觉系统中的 graphic vignette。 |
+| 212 | 近单色概念形体模型 | 整体呈现**小尺度概念模型、巨大负空间、近单色明度关系、雕塑式体量与极简编辑排版**共同构成的高级视觉效果。 |
+| 213 | 暖纸冷色观念线稿 | 整体呈现**小品式主体、大面积艺术留白、暖纸底、低饱和单色手绘、视觉隐喻与诗性排版**共同构成的高级观念插画气质，像一本独立出版的诗集、私人手稿或心理图像档案。 |
+| 214 | 真实固有色粗粝剪纸 | 整体呈现**极小视觉岛、大面积纯净留白、粗糙几何剪纸边、干性颗粒铺色、真实固有色与高级编辑排版**共同构成的视觉效果。远看首先感受到白纸、空间和节奏，靠近后才发现其中精巧的小图形与色彩。 |
+| 215 | 灰阶赭黄极简轴测 | 整体呈现**Vignette + Negative Space + Axonometric Diagram + Monochrome Grayscale + Single Ochre Accent**共同构成的高级建筑图解气质：小而精准、亮而克制、理性而具有艺术感。 |
+| 216 | 九成留白单色视觉岛 | 整体呈现 **Tiny focal element / Expansive negative space / Warm neutral field / Sparse color accents** 的视觉气质：极小主体、巨大留白、低密度图文、单色印刷块与纸张颗粒共同构成安静、文学、克制、诗意而高级的独立出版物视觉。 |
 
 ## Latest repositories
+
+- [Panel 181](https://github.com/nevertoday/xxd-panel-181)
+- [Panel 182](https://github.com/nevertoday/xxd-panel-182)
+- [Panel 183](https://github.com/nevertoday/xxd-panel-183)
+- [Panel 184](https://github.com/nevertoday/xxd-panel-184)
+- [Panel 185](https://github.com/nevertoday/xxd-panel-185)
+- [Panel 186](https://github.com/nevertoday/xxd-panel-186)
+- [Panel 187](https://github.com/nevertoday/xxd-panel-187)
+- [Panel 188](https://github.com/nevertoday/xxd-panel-188)
+- [Panel 189](https://github.com/nevertoday/xxd-panel-189)
+- [Panel 190](https://github.com/nevertoday/xxd-panel-190)
+- [Panel 191](https://github.com/nevertoday/xxd-panel-191)
+- [Panel 192](https://github.com/nevertoday/xxd-panel-192)
+- [Panel 193](https://github.com/nevertoday/xxd-panel-193)
+- [Panel 194](https://github.com/nevertoday/xxd-panel-194)
+- [Panel 195](https://github.com/nevertoday/xxd-panel-195)
+- [Panel 196](https://github.com/nevertoday/xxd-panel-196)
+- [Panel 197](https://github.com/nevertoday/xxd-panel-197)
+- [Panel 198](https://github.com/nevertoday/xxd-panel-198)
+- [Panel 199](https://github.com/nevertoday/xxd-panel-199)
+- [Panel 200](https://github.com/nevertoday/xxd-panel-200)
+- [Panel 201](https://github.com/nevertoday/xxd-panel-201)
+- [Panel 202](https://github.com/nevertoday/xxd-panel-202)
+- [Panel 203](https://github.com/nevertoday/xxd-panel-203)
+- [Panel 204](https://github.com/nevertoday/xxd-panel-204)
+- [Panel 205](https://github.com/nevertoday/xxd-panel-205)
+- [Panel 206](https://github.com/nevertoday/xxd-panel-206)
+- [Panel 207](https://github.com/nevertoday/xxd-panel-207)
+- [Panel 208](https://github.com/nevertoday/xxd-panel-208)
+- [Panel 209](https://github.com/nevertoday/xxd-panel-209)
+- [Panel 210](https://github.com/nevertoday/xxd-panel-210)
+- [Panel 211](https://github.com/nevertoday/xxd-panel-211)
+- [Panel 212](https://github.com/nevertoday/xxd-panel-212)
+- [Panel 213](https://github.com/nevertoday/xxd-panel-213)
+- [Panel 214](https://github.com/nevertoday/xxd-panel-214)
+- [Panel 215](https://github.com/nevertoday/xxd-panel-215)
+- [Panel 216](https://github.com/nevertoday/xxd-panel-216)
 
 - [Panel 180 · 复古圆章旅行手账志](https://github.com/nevertoday/xxd-panel-180)
 
@@ -264,7 +337,7 @@ Use this index only to search, compare, and route. These summaries are not gener
 - [Panel 157 · 文物墨拓留白志](https://github.com/nevertoday/xxd-panel-157)
 - [Panel 158 · 纸本综合拼贴志](https://github.com/nevertoday/xxd-panel-158)
 
-This catalog contains 180 entries covering numbers 001–180. Panels 159–175 are packaged without generated sample artwork; actual runtime availability still depends on installed Skills.
+This catalog contains 216 entries covering numbers 001–216. Panels 159–175 are packaged without generated sample artwork; actual runtime availability still depends on installed Skills.
 
 ## Matching guidance
 
@@ -303,3 +376,5 @@ For Panels 159–175, distinguish 161’s hand-painted framed field from 168’s
 Panels 176–179 are packaged without generated samples. Panel 176 requires a complex ordered hand-drawn ritual diagram with shallow relief and bright source-derived colours. Panels 177 and 178 have byte-identical canonical sources: retain both requested numbers, treat them as equivalent, and never invent stylistic distinctions. Their fixed navy/olive/vermilion micro-island differs from Panel 179’s sparse ribbon display with ultramarine/vermilion/ochre-gold exhibits.
 
 Panel 180 uses a circular vintage souvenir stamp, woodcut/rubber-stamp and etched textures, 2–3 faded source-derived ink colours and optional tiny gold foil. Keep the English headline and smaller keywords below the stamp by default. Its canonical source prohibits left-right layouts and Chinese captions; only an explicit current delivery request overrides those variables. Packaged without generated samples.
+
+Panels 181–216 have public source repositories and no generated samples. Repository publication does not imply installation in the active host. Preserve internal designed-region grids in 182 (optional 2×2) and 186 (required 3×3); preserve 189’s frame/sidebar system and 187’s oversized type. 190 uses loose pastel marks; 191 requires a continuous soft-edged rectangular colour field. 196 requires a person; 197 references an unbundled illustration and its written cage-world brief remains authoritative. 198 has a restrained 2–4-colour fashion collage; 199 is brighter and explicitly miniature. 208 fixes blue/pink/red/black, while 211 derives colour semantically from the source. 214 retains local colours and 15–25% graphic coverage; 216 requires over 90% whitespace and off-centre placement. These notes are discovery metadata, never substitute prompts.

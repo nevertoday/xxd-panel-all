@@ -4,7 +4,7 @@
 
 `xxd-panel-all` is the General-level Skill for the XXD Panel family. It first detects the installed `xxd-panel-NNN` Soldier Skills in the current environment, then handles these tasks:
 
-If you have ever had a folder full of photographs but did not know which style to use—trying them one by one is too slow, while choosing by instinct can be unreliable—this Skill makes the first-round judgment for you. Give it an image or folder; it understands the request, selects suitable installed Panels, dispatches the work, and gathers the results. You do not need to memorise all 180 numbers first.
+If you have ever had a folder full of photographs but did not know which style to use—trying them one by one is too slow, while choosing by instinct can be unreliable—this Skill makes the first-round judgment for you. Give it an image or folder; it understands the request, selects suitable installed Panels, dispatches the work, and gathers the results. You do not need to memorise all 216 numbers first.
 
 ### Understand it in 30 seconds
 
