@@ -2,7 +2,7 @@
 
 These five reusable blocks are documentation-only, not generation prompts. The owner-confirmed sole paid offer is CNY 699/year for Knowledge Planet, the member prompt library, and all General Skills membership together. There is no separate General Skill purchase. Change commercial terms only on explicit owner instruction. Never replace panel numbers across these blocks.
 
-Place the matching block before the README license, after examples and usage. Keep the disclosure above paid offers, the General/Soldier distinction, membership links, contact QR, and voluntary support. Chinese uses the existing WeChat/Alipay support destinations; other languages use the existing Buy Me a Coffee destination. No fixed roster count is embedded.
+Place the matching block before the README license, after examples and usage. Keep the disclosure above paid offers, the General/Soldier distinction, membership links, and contact QR. The owner removed voluntary donations and compute sponsorship in September 2026: do not restore reward QR codes or Buy Me a Coffee in any language. No fixed roster count is embedded.
 
 From the workspace containing the sibling repositories:
 

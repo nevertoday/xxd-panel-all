@@ -41,13 +41,14 @@ def main():
             if re.search(r'100\s*元|CNY\s*100|100\s*يوان', old):
                 failures.append(f'{path}: obsolete separate General price; only 699/year membership is permitted'); continue
             template = (TEMPLATES / name).read_text().strip()
-            rewards = ('wechat-reward-qr.png', 'alipay-reward-qr.png') if name == 'README.md' else ('buy-me-a-coffee-qr.png',)
+            if re.search(r'wechat-reward|alipay-reward|buy-me-a-coffee|Buy Me a Coffee|赞助算力|支持算力|赞赏码', old, re.I):
+                failures.append(f'{path}: donations and compute sponsorship are no longer permitted'); continue
             if START in old or END in old:
                 if old.count(START) != 1 or old.count(END) != 1 or old.index(START) > old.index(END):
                     failures.append(f'{path}: invalid advertisement markers'); continue
                 first, last = old.index(START), old.index(END) + len(END)
                 new = old[:first] + template + old[last:]
-            elif all(token in old for token in REQUIRED + rewards):
+            elif all(token in old for token in REQUIRED):
                 continue  # Preserve legacy blocks; do not rewrite unrelated old documents.
             elif 'wx.zsxq.com/' in old or 'wechat-qr.png' in old:
                 failures.append(f'{path}: partial legacy advertisement needs manual review'); continue
