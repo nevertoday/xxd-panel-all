@@ -220,10 +220,10 @@ Use this index only to search, compare, and route. These summaries are not gener
 | 214 | 真实固有色粗粝剪纸 | 整体呈现**极小视觉岛、大面积纯净留白、粗糙几何剪纸边、干性颗粒铺色、真实固有色与高级编辑排版**共同构成的视觉效果。远看首先感受到白纸、空间和节奏，靠近后才发现其中精巧的小图形与色彩。 |
 | 215 | 灰阶赭黄极简轴测 | 整体呈现**Vignette + Negative Space + Axonometric Diagram + Monochrome Grayscale + Single Ochre Accent**共同构成的高级建筑图解气质：小而精准、亮而克制、理性而具有艺术感。 |
 | 216 | 九成留白单色视觉岛 | 整体呈现 **Tiny focal element / Expansive negative space / Warm neutral field / Sparse color accents** 的视觉气质：极小主体、巨大留白、低密度图文、单色印刷块与纸张颗粒共同构成安静、文学、克制、诗意而高级的独立出版物视觉。 |
-| 217 | 摄影与数码混合媒介拼贴海报 | 独立照片海报、3:4、上下 1:1、真实摄影、数码混合媒介拼贴、手绘线稿、明快色彩、暖白留白 |
-| 218 | 摄影与数码混合媒介拼贴海报 | 独立照片海报、3:4、上下 1:1、真实摄影、数码混合媒介拼贴、手绘线稿、明快色彩、暖白留白 |
-| 219 | 摄影与数码混合媒介拼贴海报 | 独立照片海报、3:4、上下 1:1、真实摄影、数码混合媒介拼贴、手绘线稿、明快色彩、暖白留白 |
-| 220 | 摄影与数码混合媒介拼贴海报 | 独立照片海报、3:4、上下 1:1、真实摄影、数码混合媒介拼贴、手绘线稿、明快色彩、暖白留白 |
+| 217 | 明快数码混合媒介拼贴 | Bright Digital Mixed-Media Collage |
+| 218 | 极简绘本羊毛毡插画 | Minimal Needle-Felt Picture-Book Illustration |
+| 219 | 彩铅点染旅行手帐线稿 | Doodle Travel Sketch with Pencil Accents |
+| 220 | 圆润稚拙手绘涂鸦小品 | Rounded Naïve Doodle Vignette |
 
 ## Latest repositories
 
