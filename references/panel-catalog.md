@@ -224,6 +224,9 @@ Use this index only to search, compare, and route. These summaries are not gener
 | 218 | 极简绘本羊毛毡插画 | Minimal Needle-Felt Picture-Book Illustration |
 | 219 | 彩铅点染旅行手帐线稿 | Doodle Travel Sketch with Pencil Accents |
 | 220 | 圆润稚拙手绘涂鸦小品 | Rounded Naïve Doodle Vignette |
+| 221 | 新中式专色版画留白 | 小品主体、东方留白、木刻丝网孔版、2–4 专色、现代书刊细字 |
+| 222 | 建筑化字体图形装置 | Typography as Image、小体量中心主视觉、橙青黄品红功能分色、大量留白 |
+| 223 | 复古雕版微型图集 | 小型独立 motif、70–80% 留白、雕版线描、黑加一强调色、稀疏编辑文字 |
 
 ## Latest repositories
 
@@ -263,6 +266,13 @@ Use this index only to search, compare, and route. These summaries are not gener
 - [Panel 214](https://github.com/nevertoday/xxd-panel-214)
 - [Panel 215](https://github.com/nevertoday/xxd-panel-215)
 - [Panel 216](https://github.com/nevertoday/xxd-panel-216)
+- [Panel 217](https://github.com/nevertoday/xxd-panel-217)
+- [Panel 218](https://github.com/nevertoday/xxd-panel-218)
+- [Panel 219](https://github.com/nevertoday/xxd-panel-219)
+- [Panel 220](https://github.com/nevertoday/xxd-panel-220)
+- [Panel 221](https://github.com/nevertoday/xxd-panel-221)
+- [Panel 222](https://github.com/nevertoday/xxd-panel-222)
+- [Panel 223](https://github.com/nevertoday/xxd-panel-223)
 
 - [Panel 180 · 复古圆章旅行手账志](https://github.com/nevertoday/xxd-panel-180)
 

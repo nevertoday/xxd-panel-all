@@ -4,7 +4,7 @@
 
 `xxd-panel-all` は XXD Panel シリーズの将軍レベル Skill です。まず現在の環境にインストール済みの `xxd-panel-NNN` 兵士 Skills を確認し、次の仕事を引き受けます。
 
-写真がたくさんあるのに、どのスタイルを使えばよいか分からない。一つずつ試すには時間がかかり、勘だけで選ぶと後悔しやすい——そんなとき、この Skill が最初の判断を代行します。画像やフォルダーを渡すだけで、要望を理解し、インストール済みの Panel から適任を選び、仕事を割り振って結果をまとめます。216 個の番号を先に暗記する必要はありません。
+写真がたくさんあるのに、どのスタイルを使えばよいか分からない。一つずつ試すには時間がかかり、勘だけで選ぶと後悔しやすい——そんなとき、この Skill が最初の判断を代行します。画像やフォルダーを渡すだけで、要望を理解し、インストール済みの Panel から適任を選び、仕事を割り振って結果をまとめます。番号を先に暗記する必要はありません。
 
 ### 30 秒で分かること
 
@@ -31,7 +31,7 @@
 | 階層 | Skill | 担当 |
 |---|---|---|
 | **将軍レベル** | [`xxd-panel-all`](https://github.com/nevertoday/xxd-panel-all) | 利用可能な兵士を検出。画像・テーマ・用途から推薦。番号指定で指揮。同一画像の複数スタイル試作を編成。画像フォルダーを項目ごとに割り当てて派遣。 |
-| **兵士レベル** | `xxd-panel-NNN`（カタログは 158 まで更新） | 各番号は独立した自分の原始プロンプトと美学だけを実行し、将軍から渡された個別タスクを完成品にする。 |
+| **兵士レベル** | `xxd-panel-NNN` | 各番号は独立した自分の原始プロンプトと美学だけを実行し、将軍から渡された個別タスクを完成品にする。 |
 
 将軍は部隊を組織し、兵士の代わりに描きません。兵士の原始美学を書き換えたり、混ぜたり、上書きしたりせず、すべての完成画像は選ばれた番号の Skill が独立して制作します。
 
@@ -198,13 +198,20 @@ xxd-panel-all/
 │   └── openai.yaml
 ├── references/
 │   ├── panel-catalog.md
-│   └── runtime-preferences.md
+│   ├── runtime-preferences.md
+│   ├── soldier-runtime.md
+│   ├── soldier-adapter.zh-CN.md
+│   ├── soldier-adapter.en.md
+│   └── sample-workflow.md
 └── scripts/
-    └── panel_preferences.py
+    ├── panel_preferences.py
+    ├── soldier_runtime.py
+    └── canonical/
 ```
 
 - `SKILL.md`：対話、推薦、閲覧、バッチルーティングの規則
-- `panel-catalog.md`：Panel 158 まで更新された検索用カタログ。画像生成プロンプトではありません
+- `panel-catalog.md`：番号検索用カタログ。画像生成プロンプトではありません
+- `soldier-runtime.md`：家族共通の兵士ランタイム契約。各兵士リポジトリが逐語コピーを保持します
 - `runtime-preferences.md`：引き継ぎ、変更、新規設定、プライバシー境界
 - `panel_preferences.py`：安全な納品設定だけを読み書きするローカル補助スクリプト
 - `openai.yaml`：Skill のインターフェースメタデータ
