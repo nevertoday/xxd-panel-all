@@ -239,8 +239,7 @@ def apply_one(directory: Path, runtime: Path, zh_t: str, en_t: str, sample: Path
     if write_if_changed(refs / f'xxd-panel-{nnn:03d}-prompt.en.md', render_adapter(en_t, nnn)):
         changed.append(f'references/xxd-panel-{nnn:03d}-prompt.en.md')
     sample_dest = refs / SAMPLE_NAME
-    if not sample_dest.exists():
-        copy_if_changed(sample, sample_dest)
+    if copy_if_changed(sample, sample_dest):
         changed.append(f'references/{SAMPLE_NAME}')
     scripts = directory / 'scripts'
     if copy_if_changed(imagegen, scripts / IMAGEGEN_NAME):
