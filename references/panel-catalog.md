@@ -227,6 +227,7 @@ Use this index only to search, compare, and route. These summaries are not gener
 | 221 | 新中式专色版画留白 | 小品主体、东方留白、木刻丝网孔版、2–4 专色、现代书刊细字 |
 | 222 | 建筑化字体图形装置 | Typography as Image、小体量中心主视觉、橙青黄品红功能分色、大量留白 |
 | 223 | 复古雕版微型图集 | 小型独立 motif、70–80% 留白、雕版线描、黑加一强调色、稀疏编辑文字 |
+| 224 | 瓷器碎片拼合重构 | 瓷片拼合、釉面断口、破碎与聚合、小尺度章印、大面积留白、釉色转译 |
 
 ## Latest repositories
 
@@ -273,6 +274,7 @@ Use this index only to search, compare, and route. These summaries are not gener
 - [Panel 221](https://github.com/nevertoday/xxd-panel-221)
 - [Panel 222](https://github.com/nevertoday/xxd-panel-222)
 - [Panel 223](https://github.com/nevertoday/xxd-panel-223)
+- [Panel 224](https://github.com/nevertoday/xxd-panel-224)
 
 - [Panel 180 · 复古圆章旅行手账志](https://github.com/nevertoday/xxd-panel-180)
 
@@ -392,3 +394,5 @@ Panels 176–179 are packaged without generated samples. Panel 176 requires a co
 Panel 180 uses a circular vintage souvenir stamp, woodcut/rubber-stamp and etched textures, 2–3 faded source-derived ink colours and optional tiny gold foil. Keep the English headline and smaller keywords below the stamp by default. Its canonical source prohibits left-right layouts and Chinese captions; only an explicit current delivery request overrides those variables. Packaged without generated samples.
 
 Panels 181–220 have public source repositories and no generated samples. Repository publication does not imply installation in the active host. Preserve internal designed-region grids in 182 (optional 2×2) and 186 (required 3×3); preserve 189’s frame/sidebar system and 187’s oversized type. 190 uses loose pastel marks; 191 requires a continuous soft-edged rectangular colour field. 196 requires a person; 197 references an unbundled illustration and its written cage-world brief remains authoritative. 198 has a restrained 2–4-colour fashion collage; 199 is brighter and explicitly miniature. 208 fixes blue/pink/red/black, while 211 derives colour semantically from the source. 214 retains local colours and 15–25% graphic coverage; 216 requires over 90% whitespace and off-centre placement. These notes are discovery metadata, never substitute prompts.
+
+For Panels 221–224, choose 221 for a small New-Chinese spot-colour woodcut/silkscreen with Eastern whitespace; 222 for typography-as-image architecture with functional orange/cyan/yellow/magenta splits; 223 for a vintage engraving miniature-motif collection with 70–80% paper and black plus one accent; and 224 for reconstructing the memorable subject from irregular Chinese porcelain shards, glaze-derived colour, small-stamp composition and porcelain-white negative space. Distinguish 224’s ceramic breakage-and-reassembly from 223’s isolated engraved motifs and from 221’s printed colour planes. 224 is not a porcelain photo filter, antique display, cheap national-tide pattern stack or filled collage. These notes are discovery metadata, never substitute prompts.
