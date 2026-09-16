@@ -4,7 +4,10 @@
 Default sample scheme for the xxd-panel family. Rotates by Panel number so two
 Soldiers do not share the same eight photos. Never uses the shared 陈翔海报 queue.
 
-  python3 scripts/unsplash_sample_sources.py --root .. --panel 224
+Slots 05–08 are 16:9 left–right, so sources are native landscape photographs.
+Slots 09–12 are 3:4 top–bottom, so sources are native portrait photographs.
+
+  python3 scripts/unsplash_sample_sources.py --root .. --panel 226
 """
 from __future__ import annotations
 
@@ -18,92 +21,105 @@ from pathlib import Path
 USER_AGENT = "xxd-panel-sample-sources/1"
 FORBIDDEN_MARKERS = ("陈翔海报", "tmp/imagegen/170")
 
-# Eight subject slots. Each category has multiple verified Unsplash photo IDs.
-# Order is sample-05..08 (16:9 left-right) then sample-09..12 (3:4 top-bottom).
-CATEGORIES = (
-    "still-life",
-    "mammal",
-    "architecture",
-    "bird",
-    "plant",
-    "companion",
-    "food",
-    "landscape",
-)
+# 16:9 left-right uses wide scenes. 3:4 top-bottom uses tall subjects.
+LANDSCAPE_CATEGORIES = ("landscape", "architecture", "animal", "plant")
+PORTRAIT_CATEGORIES = ("still-life", "companion", "bird", "figure")
 
-POOL: dict[str, tuple[str, ...]] = {
-    "still-life": (
-        "photo-1544787219-7f47ccb76574",
-        "photo-1494976388531-d1058494cdd8",
-        "photo-1546069901-ba9599a7e63c",
-    ),
-    "mammal": (
-        "photo-1553284965-83fd3e82fa5a",
-        "photo-1456926631375-92c8ce872def",
-        "photo-1518837695005-2083093ee35b",
-    ),
-    "architecture": (
-        "photo-1528164344705-47542687000d",
-        "photo-1545569341-9eb8b30979d9",
-        "photo-1493976040374-85c8e12f0c0e",
-    ),
-    "bird": (
-        "photo-1444464666168-49d633b86797",
-        "photo-1552728089-57bdde30beb3",
-    ),
-    "plant": (
-        "photo-1490750967868-88aa4486c946",
-        "photo-1500382017468-9049fed747ef",
-        "photo-1441974231531-c6227db76b6e",
-    ),
-    "companion": (
-        "photo-1514888286974-6c03e2ca1dba",
-        "photo-1456926631375-92c8ce872def",
-    ),
-    "food": (
-        "photo-1569718212165-3a8278d5f624",
-        "photo-1504674900247-0877df9cc836",
-        "photo-1414235077428-338989a2e8c0",
-    ),
+LANDSCAPE_POOL: dict[str, tuple[str, ...]] = {
     "landscape": (
         "photo-1501785888041-af3ef285b470",
         "photo-1464822759023-fed622ff2c3b",
         "photo-1472214103451-9374bd1c798e",
         "photo-1426604966848-d7adac402bff",
-        "photo-1500530855697-b586d89ba3ee",
+        "photo-1507525428034-b723cf961d3e",
+        "photo-1506905925346-21bda4d32df4",
+        "photo-1470071459604-3b5ec3a7fe05",
         "photo-1439066615861-d1af74d74000",
-        "photo-1559827260-dc66d52bef19",
+        "photo-1519681393784-d120267933ba",
+        "photo-1476514525535-07fb3b4ae5f1",
+    ),
+    "architecture": (
+        "photo-1493976040374-85c8e12f0c0e",
+        "photo-1449824913935-59a10b8d2000",
+        "photo-1517248135467-4c7edcad34c4",
+    ),
+    "animal": (
+        "photo-1444464666168-49d633b86797",
+        "photo-1553284965-83fd3e82fa5a",
+        "photo-1456926631375-92c8ce872def",
+        "photo-1500595046743-cd271d694d30",
+        "photo-1514888286974-6c03e2ca1dba",
+    ),
+    "plant": (
+        "photo-1490750967868-88aa4486c946",
+        "photo-1500382017468-9049fed747ef",
+        "photo-1441974231531-c6227db76b6e",
+        "photo-1448375240586-882707db888b",
+        "photo-1511497584788-876760111969",
     ),
 }
 
-SLOTS = tuple(range(5, 13))
-SIZES = {n: ("1536x864" if n <= 8 else "1152x1536") for n in SLOTS}
+PORTRAIT_POOL: dict[str, tuple[str, ...]] = {
+    "still-life": (
+        "photo-1544787219-7f47ccb76574",
+        "photo-1516035069371-29a1b244cc32",
+    ),
+    "companion": (
+        "photo-1543852786-1cf6624b9987",
+    ),
+    "bird": (
+        "photo-1552728089-57bdde30beb3",
+    ),
+    "figure": (
+        "photo-1494790108377-be9c29b29330",
+        "photo-1506794778202-cad84cf45f1d",
+        "photo-1507003211169-0a1dd7228f2d",
+        "photo-1524504388940-b1c1722653e1",
+        "photo-1529626455594-4ff0802cfb7e",
+        "photo-1539571696357-5a69c17a67c6",
+        "photo-1488426862026-3ee34a7d66df",
+        "photo-1500648767791-00dcc994a43e",
+    ),
+}
+
+LANDSCAPE_SLOTS = (5, 6, 7, 8)
+PORTRAIT_SLOTS = (9, 10, 11, 12)
+SIZES = {n: ("1536x864" if n <= 8 else "1152x1536") for n in (*LANDSCAPE_SLOTS, *PORTRAIT_SLOTS)}
+CROP = {
+    "landscape": "auto=format&fit=crop&w=2000&h=1125&q=80",
+    "portrait": "auto=format&fit=crop&w=1500&h=2000&q=80",
+}
+
+
+def _pick(photos: tuple[str, ...], panel: int, salt: int, used: set[str]) -> str:
+    for offset in range(len(photos)):
+        photo_id = photos[(panel + salt + offset) % len(photos)]
+        if photo_id not in used:
+            return photo_id
+    raise RuntimeError(f"no unused Unsplash id in pool of {len(photos)}")
 
 
 def select(panel: int) -> list[dict]:
     rows = []
-    used = set()
-    for index, category in enumerate(CATEGORIES):
-        photos = POOL[category]
-        chosen = None
-        for offset in range(len(photos)):
-            photo_id = photos[(panel + index + offset) % len(photos)]
-            if photo_id not in used:
-                chosen = photo_id
-                break
-        if chosen is None:
-            raise RuntimeError(f"no unused Unsplash id for {category}")
-        used.add(chosen)
-        sample = SLOTS[index]
-        rows.append(
-            {
-                "sample": sample,
-                "category": category,
-                "id": chosen,
-                "size": SIZES[sample],
-                "url": f"https://images.unsplash.com/{chosen}?auto=format&fit=crop&w=2000&q=80",
-            }
-        )
+    used: set[str] = set()
+    groups = (
+        ("landscape", LANDSCAPE_SLOTS, LANDSCAPE_CATEGORIES, LANDSCAPE_POOL),
+        ("portrait", PORTRAIT_SLOTS, PORTRAIT_CATEGORIES, PORTRAIT_POOL),
+    )
+    for orientation, slots, categories, pool in groups:
+        for index, (sample, category) in enumerate(zip(slots, categories)):
+            chosen = _pick(pool[category], panel, index, used)
+            used.add(chosen)
+            rows.append(
+                {
+                    "sample": sample,
+                    "category": category,
+                    "orientation": orientation,
+                    "id": chosen,
+                    "size": SIZES[sample],
+                    "url": f"https://images.unsplash.com/{chosen}?{CROP[orientation]}",
+                }
+            )
     return rows
 
 
@@ -126,7 +142,7 @@ def fetch_panel(root: Path, panel: int) -> Path:
     out_dir.mkdir(parents=True, exist_ok=True)
     written = []
     for row in rows:
-        name = f"{row['sample']:02d}-{row['category']}.jpg"
+        name = f"{row['sample']:02d}-{row['orientation']}-{row['category']}.jpg"
         dest = out_dir / name
         path_text = str(dest)
         if any(marker in path_text for marker in FORBIDDEN_MARKERS):
@@ -135,7 +151,10 @@ def fetch_panel(root: Path, panel: int) -> Path:
         record = dict(row)
         record["file"] = str(dest)
         written.append(record)
-        print(f"{panel}/{row['sample']:02d} {row['category']} {row['id']} {dest.stat().st_size}")
+        print(
+            f"{panel}/{row['sample']:02d} {row['orientation']} {row['category']} "
+            f"{row['id']} {dest.stat().st_size}"
+        )
     index = out_dir.parent / "unsplash-sources.json"
     index.write_text(json.dumps(written, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     return index
