@@ -228,6 +228,7 @@ Use this index only to search, compare, and route. These summaries are not gener
 | 222 | 建筑化字体图形装置 | Typography as Image、小体量中心主视觉、橙青黄品红功能分色、大量留白 |
 | 223 | 复古雕版微型图集 | 小型独立 motif、70–80% 留白、雕版线描、黑加一强调色、稀疏编辑文字 |
 | 224 | 瓷器碎片拼合重构 | 瓷片拼合、釉面断口、破碎与聚合、小尺度章印、大面积留白、釉色转译 |
+| 225 | 办公物件手绘拼贴 | 便签回形针、物件转喻、手绘拼贴、混合媒介、大面积留白、视觉日记 |
 
 ## Latest repositories
 
@@ -275,6 +276,7 @@ Use this index only to search, compare, and route. These summaries are not gener
 - [Panel 222](https://github.com/nevertoday/xxd-panel-222)
 - [Panel 223](https://github.com/nevertoday/xxd-panel-223)
 - [Panel 224](https://github.com/nevertoday/xxd-panel-224)
+- [Panel 225](https://github.com/nevertoday/xxd-panel-225)
 
 - [Panel 180 · 复古圆章旅行手账志](https://github.com/nevertoday/xxd-panel-180)
 
@@ -396,3 +398,5 @@ Panel 180 uses a circular vintage souvenir stamp, woodcut/rubber-stamp and etche
 Panels 181–220 have public source repositories and no generated samples. Repository publication does not imply installation in the active host. Preserve internal designed-region grids in 182 (optional 2×2) and 186 (required 3×3); preserve 189’s frame/sidebar system and 187’s oversized type. 190 uses loose pastel marks; 191 requires a continuous soft-edged rectangular colour field. 196 requires a person; 197 references an unbundled illustration and its written cage-world brief remains authoritative. 198 has a restrained 2–4-colour fashion collage; 199 is brighter and explicitly miniature. 208 fixes blue/pink/red/black, while 211 derives colour semantically from the source. 214 retains local colours and 15–25% graphic coverage; 216 requires over 90% whitespace and off-centre placement. These notes are discovery metadata, never substitute prompts.
 
 For Panels 221–224, choose 221 for a small New-Chinese spot-colour woodcut/silkscreen with Eastern whitespace; 222 for typography-as-image architecture with functional orange/cyan/yellow/magenta splits; 223 for a vintage engraving miniature-motif collection with 70–80% paper and black plus one accent; and 224 for reconstructing the memorable subject from irregular Chinese porcelain shards, glaze-derived colour, small-stamp composition and porcelain-white negative space. Distinguish 224’s ceramic breakage-and-reassembly from 223’s isolated engraved motifs and from 221’s printed colour planes. 224 is not a porcelain photo filter, antique display, cheap national-tide pattern stack or filled collage. These notes are discovery metadata, never substitute prompts.
+
+Panel 225 is a hand-drawn mixed-media collage that retells the source through office objects—notes, clips, tape, envelopes, stamps, rulers, paper edges—as metaphors on abundant light paper. Distinguish it from 224’s porcelain-shard reconstruction and from 223’s engraved miniature motifs. It is not a sticker dump, commercial planner template, photographic filter, filled collage, cartoon or 3D. These notes are discovery metadata, never substitute prompts.

@@ -53,6 +53,7 @@ OVERLAYS = {
     196: """This source brief specifically requires human figures. If the source photograph has no person, resolve suitability before generation; do not invent a person or silently generalise the aesthetic to objects.""",
     197: """This source brief specifically requires human figures. If the source photograph has no person, resolve suitability before generation; do not invent a person or silently generalise the aesthetic to objects.""",
     224: """The transformed design reconstructs the memorable subject from irregular Chinese porcelain shards with real glaze, biscuit breaks, cracks, missing corners and gaps; fragmentation and reassembly are part of the narrative. It is not a photographic porcelain filter, a filled antique display, a complete scene, cheap national-tide pattern stacking, 3D plastic, or a templated collage. Keep small-stamp composition and abundant porcelain-white negative space. Extract glaze colours from the source rather than defaulting to a fixed blue-and-white palette.""",
+    225: """The transformed design is a hand-drawn mixed-media collage that narrates through ordinary office objects—notes, clips, tape, envelopes, stamps, rulers, paper edges—as metaphors, not a sticker dump, planner template, photographic filter, filled collage, cartoon or 3D. Keep abundant intentional whitespace, light paper colour and source-derived accents. Office objects must carry the source's theme; they are not decorative clutter.""",
 }
 
 SKILL_BODY = """\
