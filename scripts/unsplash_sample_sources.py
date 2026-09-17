@@ -4,8 +4,9 @@
 Default sample scheme for the xxd-panel family. Rotates by Panel number so two
 Soldiers do not share the same eight photos. Never uses the shared 陈翔海报 queue.
 
-Slots 05–08 are 16:9 left–right, so sources are native landscape photographs.
-Slots 09–12 are 3:4 top–bottom, so sources are native portrait photographs.
+Slots 05–08 are 16:9 left–right. The photograph occupies the left half (~8:9),
+so sources are native portrait photographs. Slots 09–12 are 3:4 top–bottom.
+The photograph occupies the top half (~3:2), so sources are native landscape photographs.
 
   python3 scripts/unsplash_sample_sources.py --root .. --panel 226
 """
@@ -21,7 +22,9 @@ from pathlib import Path
 USER_AGENT = "xxd-panel-sample-sources/1"
 FORBIDDEN_MARKERS = ("陈翔海报", "tmp/imagegen/170")
 
-# 16:9 left-right uses wide scenes. 3:4 top-bottom uses tall subjects.
+# Photo-half geometry, not full-canvas orientation:
+# 16:9 left-right → left half is ~8:9 → portrait sources.
+# 3:4 top-bottom → top half is ~3:2 → landscape sources.
 LANDSCAPE_CATEGORIES = ("landscape", "architecture", "animal", "plant")
 PORTRAIT_CATEGORIES = ("still-life", "companion", "bird", "figure")
 
@@ -82,12 +85,12 @@ PORTRAIT_POOL: dict[str, tuple[str, ...]] = {
     ),
 }
 
-LANDSCAPE_SLOTS = (5, 6, 7, 8)
-PORTRAIT_SLOTS = (9, 10, 11, 12)
-SIZES = {n: ("1536x864" if n <= 8 else "1152x1536") for n in (*LANDSCAPE_SLOTS, *PORTRAIT_SLOTS)}
+LR_SLOTS = (5, 6, 7, 8)
+TB_SLOTS = (9, 10, 11, 12)
+SIZES = {n: ("1536x864" if n <= 8 else "1152x1536") for n in (*LR_SLOTS, *TB_SLOTS)}
 CROP = {
-    "landscape": "auto=format&fit=crop&w=2000&h=1125&q=80",
-    "portrait": "auto=format&fit=crop&w=1500&h=2000&q=80",
+    "portrait": "auto=format&fit=crop&w=1500&h=1688&q=80",
+    "landscape": "auto=format&fit=crop&w=2000&h=1333&q=80",
 }
 
 
@@ -103,8 +106,8 @@ def select(panel: int) -> list[dict]:
     rows = []
     used: set[str] = set()
     groups = (
-        ("landscape", LANDSCAPE_SLOTS, LANDSCAPE_CATEGORIES, LANDSCAPE_POOL),
-        ("portrait", PORTRAIT_SLOTS, PORTRAIT_CATEGORIES, PORTRAIT_POOL),
+        ("portrait", LR_SLOTS, PORTRAIT_CATEGORIES, PORTRAIT_POOL),
+        ("landscape", TB_SLOTS, LANDSCAPE_CATEGORIES, LANDSCAPE_POOL),
     )
     for orientation, slots, categories, pool in groups:
         for index, (sample, category) in enumerate(zip(slots, categories)):

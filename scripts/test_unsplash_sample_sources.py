@@ -10,17 +10,17 @@ class SelectTests(unittest.TestCase):
         rows = unsplash.select(226)
         self.assertEqual([row["sample"] for row in rows], list(range(5, 13)))
         self.assertEqual(len({row["id"] for row in rows}), 8)
-        self.assertEqual([row["orientation"] for row in rows[:4]], ["landscape"] * 4)
-        self.assertEqual([row["orientation"] for row in rows[4:]], ["portrait"] * 4)
+        self.assertEqual([row["orientation"] for row in rows[:4]], ["portrait"] * 4)
+        self.assertEqual([row["orientation"] for row in rows[4:]], ["landscape"] * 4)
         self.assertEqual([row["size"] for row in rows[:4]], ["1536x864"] * 4)
         self.assertEqual([row["size"] for row in rows[4:]], ["1152x1536"] * 4)
         self.assertEqual(
             [row["category"] for row in rows[:4]],
-            list(unsplash.LANDSCAPE_CATEGORIES),
+            list(unsplash.PORTRAIT_CATEGORIES),
         )
         self.assertEqual(
             [row["category"] for row in rows[4:]],
-            list(unsplash.PORTRAIT_CATEGORIES),
+            list(unsplash.LANDSCAPE_CATEGORIES),
         )
 
     def test_rotation_differs_by_panel(self):
