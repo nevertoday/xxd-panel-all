@@ -1182,6 +1182,12 @@ Each tile is one 16:9 left–right sample from that Soldier (reality left, this 
 <p align="center"><a href="https://github.com/nevertoday/xxd-panel-228"><strong>228</strong> · 独立纸艺对象</a></p>
 </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+<a href="https://github.com/nevertoday/xxd-panel-229"><img src="./assets/roster/229.jpg" alt="XXD Panel 229 · 新民艺留白" width="100%"></a>
+<p align="center"><a href="https://github.com/nevertoday/xxd-panel-229"><strong>229</strong> · 新民艺留白</a></p>
+</td>
+  </tr>
 </table>
 
 <!-- xxd-soldier-roster:end -->

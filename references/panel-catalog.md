@@ -232,6 +232,7 @@ Use this index only to search, compare, and route. These summaries are not gener
 | 226 | 糖霜曲奇浅浮雕 | 糖霜曲奇、浅浮雕微缩、圆润倒角、小尺度章印、大面积留白、霜彩色系 |
 | 227 | 刺绣任务章 | 机绣布章、任务识别章、缎面绣、锁边包边、工业识别排版、明快治愈配色、中等偏小尺度、暖白留白 |
 | 228 | 独立纸艺对象 | 手作纸品、稚拙手绘、剪纸色块、粗简几何、Risograph、2–3专色、奶油白留白、可选托手 |
+| 229 | 新民艺留白 | 安静怀旧、folk-modern、圆润简化、粉质水粉、蜡笔颗粒、极大量留白、粉彩低饱和 |
 
 ## Latest repositories
 
@@ -283,6 +284,7 @@ Use this index only to search, compare, and route. These summaries are not gener
 - [Panel 226](https://github.com/nevertoday/xxd-panel-226)
 - [Panel 227](https://github.com/nevertoday/xxd-panel-227)
 - [Panel 228](https://github.com/nevertoday/xxd-panel-228)
+- [Panel 229](https://github.com/nevertoday/xxd-panel-229)
 
 - [Panel 180 · 复古圆章旅行手账志](https://github.com/nevertoday/xxd-panel-180)
 
@@ -361,7 +363,7 @@ Use this index only to search, compare, and route. These summaries are not gener
 - [Panel 157 · 文物墨拓留白志](https://github.com/nevertoday/xxd-panel-157)
 - [Panel 158 · 纸本综合拼贴志](https://github.com/nevertoday/xxd-panel-158)
 
-This catalog contains 228 entries covering numbers 001–228. Panels 159–175 are packaged without generated sample artwork; actual runtime availability still depends on installed Skills.
+This catalog contains 229 entries covering numbers 001–229. Panels 159–175 are packaged without generated sample artwork; actual runtime availability still depends on installed Skills.
 
 ## Matching guidance
 
@@ -412,3 +414,5 @@ Panel 226 rebuilds the subject and its necessary relations as one iced-cookie ba
 Panel 227 compresses the source into one embroidered mission patch / technical identification badge: twill fabric, satin-stitch lettering, fill embroidery, merrowed edge, institutional naming, medium-small scale and warm-white breathing space. Distinguish it from 037’s enamel travel badge, from 039’s Chinese silk embroidery, and from 226’s iced-cookie miniature. It is not a photographic embroidery filter, filled realistic scene, rubber stamp, smooth vector, plastic merch mockup or templated souvenir. These notes are discovery metadata, never substitute prompts.
 
 Panel 228 rebuilds the source as one artist-made paper object / independent design paper good: naive drawing, cut-paper colour planes, coarse geometry, sparse linework, matte paper, Risograph or silkscreen grain, optional presenting hand, medium-small scale and warm cream-white breathing space. Distinguish it from 014’s origami sculpture, from 018’s papercut layers, from 105’s poetic paper collage, from 225’s office-object mixed-media diary, and from 227’s embroidered mission patch. It is not a photographic filter, filled realistic scene, commercial package, children’s craft-class sheet, smooth vector or templated brand layout. These notes are discovery metadata, never substitute prompts.
+
+Panel 229 is a quiet nostalgic folk-modern illustration: rounded simplified forms, gouache and crayon grain, small-scale placement and abundant ivory whitespace, with two to four powdery pastels from the source. Distinguish it from 228’s handmade paper object, from 225’s office-object collage, and from 017’s brighter naive editorial. It is not a photographic filter, filled realistic scene, high-saturation candy palette, smooth vector or commercial title stack. These notes are discovery metadata, never substitute prompts.
