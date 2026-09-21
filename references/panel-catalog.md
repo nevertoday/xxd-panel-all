@@ -230,6 +230,8 @@ Use this index only to search, compare, and route. These summaries are not gener
 | 224 | 瓷器碎片拼合重构 | 瓷片拼合、釉面断口、破碎与聚合、小尺度章印、大面积留白、釉色转译 |
 | 225 | 办公物件手绘拼贴 | 便签回形针、物件转喻、手绘拼贴、混合媒介、大面积留白、视觉日记 |
 | 226 | 糖霜曲奇浅浮雕 | 糖霜曲奇、浅浮雕微缩、圆润倒角、小尺度章印、大面积留白、霜彩色系 |
+| 227 | 刺绣任务章 | 机绣布章、任务识别章、缎面绣、锁边包边、工业识别排版、明快治愈配色、中等偏小尺度、暖白留白 |
+| 228 | 独立纸艺对象 | 手作纸品、稚拙手绘、剪纸色块、粗简几何、Risograph、2–3专色、奶油白留白、可选托手 |
 
 ## Latest repositories
 
@@ -279,6 +281,8 @@ Use this index only to search, compare, and route. These summaries are not gener
 - [Panel 224](https://github.com/nevertoday/xxd-panel-224)
 - [Panel 225](https://github.com/nevertoday/xxd-panel-225)
 - [Panel 226](https://github.com/nevertoday/xxd-panel-226)
+- [Panel 227](https://github.com/nevertoday/xxd-panel-227)
+- [Panel 228](https://github.com/nevertoday/xxd-panel-228)
 
 - [Panel 180 · 复古圆章旅行手账志](https://github.com/nevertoday/xxd-panel-180)
 
@@ -357,7 +361,7 @@ Use this index only to search, compare, and route. These summaries are not gener
 - [Panel 157 · 文物墨拓留白志](https://github.com/nevertoday/xxd-panel-157)
 - [Panel 158 · 纸本综合拼贴志](https://github.com/nevertoday/xxd-panel-158)
 
-This catalog contains 216 entries covering numbers 001–216. Panels 159–175 are packaged without generated sample artwork; actual runtime availability still depends on installed Skills.
+This catalog contains 228 entries covering numbers 001–228. Panels 159–175 are packaged without generated sample artwork; actual runtime availability still depends on installed Skills.
 
 ## Matching guidance
 
@@ -404,3 +408,7 @@ For Panels 221–224, choose 221 for a small New-Chinese spot-colour woodcut/sil
 Panel 225 is a hand-drawn mixed-media collage that retells the source through office objects—notes, clips, tape, envelopes, stamps, rulers, paper edges—as metaphors on abundant light paper. Distinguish it from 224’s porcelain-shard reconstruction and from 223’s engraved miniature motifs. It is not a sticker dump, commercial planner template, photographic filter, filled collage, cartoon or 3D. These notes are discovery metadata, never substitute prompts.
 
 Panel 226 rebuilds the subject and its necessary relations as one iced-cookie bas-relief miniature with rounded contours, matte frosting, fondant and soft-clay, small-stamp scale and abundant whitespace. Distinguish it from 224’s porcelain shards and from 225’s office-object paper collage. It is not a photographic cookie filter, plastic 3D, filled scene, cheap cartoon or template icon. These notes are discovery metadata, never substitute prompts.
+
+Panel 227 compresses the source into one embroidered mission patch / technical identification badge: twill fabric, satin-stitch lettering, fill embroidery, merrowed edge, institutional naming, medium-small scale and warm-white breathing space. Distinguish it from 037’s enamel travel badge, from 039’s Chinese silk embroidery, and from 226’s iced-cookie miniature. It is not a photographic embroidery filter, filled realistic scene, rubber stamp, smooth vector, plastic merch mockup or templated souvenir. These notes are discovery metadata, never substitute prompts.
+
+Panel 228 rebuilds the source as one artist-made paper object / independent design paper good: naive drawing, cut-paper colour planes, coarse geometry, sparse linework, matte paper, Risograph or silkscreen grain, optional presenting hand, medium-small scale and warm cream-white breathing space. Distinguish it from 014’s origami sculpture, from 018’s papercut layers, from 105’s poetic paper collage, from 225’s office-object mixed-media diary, and from 227’s embroidered mission patch. It is not a photographic filter, filled realistic scene, commercial package, children’s craft-class sheet, smooth vector or templated brand layout. These notes are discovery metadata, never substitute prompts.
