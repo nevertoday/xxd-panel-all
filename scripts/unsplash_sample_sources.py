@@ -89,7 +89,22 @@ PORTRAIT_POOL: dict[str, tuple[str, ...]] = {
     ),
 }
 
-# Panels 230 and later use these pools so a run of 14 soldiers does not share a
+# Panel 244 uses its own eight photographs so it does not repeat 230–243.
+# Add another id to each tuple before creating panel 245.
+PORTRAIT_POOL_FROM_244: dict[str, tuple[str, ...]] = {
+    "still-life": ("photo-1524995997946-a1c2e315a42f",),
+    "companion": ("photo-1558788353-f76d92427f16",),
+    "bird": ("photo-1620694563886-c3a80ec55f41",),
+    "figure": ("photo-1513956589380-bad6acb9b9d4",),
+}
+LANDSCAPE_POOL_FROM_244: dict[str, tuple[str, ...]] = {
+    "landscape": ("photo-1532274402911-5a369e4c4bb5",),
+    "architecture": ("photo-1479839672679-a46483c0e7c8",),
+    "animal": ("photo-1450778869180-41d0601e046e",),
+    "plant": ("photo-1441974231531-c6227db76b6e",),
+}
+
+# Panels 230–243 use these pools so that run of 14 soldiers does not share a
 # documentation photograph. Each tuple is length 14 and the ids are disjoint.
 # Do not prepend or reorder them: select() rotates with (panel + slot) % len.
 PORTRAIT_POOL_FROM_230: dict[str, tuple[str, ...]] = {
@@ -414,7 +429,9 @@ def _pick(photos: tuple[str, ...], panel: int, salt: int, used: set[str]) -> str
 def select(panel: int) -> list[dict]:
     rows = []
     used: set[str] = set()
-    if panel >= 230:
+    if panel >= 244:
+        portrait_pool, landscape_pool = PORTRAIT_POOL_FROM_244, LANDSCAPE_POOL_FROM_244
+    elif panel >= 230:
         portrait_pool, landscape_pool = PORTRAIT_POOL_FROM_230, LANDSCAPE_POOL_FROM_230
     else:
         portrait_pool, landscape_pool = PORTRAIT_POOL, LANDSCAPE_POOL

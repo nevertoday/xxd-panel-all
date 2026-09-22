@@ -40,6 +40,16 @@ class SelectTests(unittest.TestCase):
         # One flower id remains in the historical docs pool. Every other new id is new.
         overlap = set(seen) & legacy
         self.assertEqual(overlap, {"photo-1490750967868-88aa4486c946"})
+        self.assertEqual(unsplash.select(230)[0]["id"], "photo-1482049016688-2d3e1b311543")
+
+    def test_panel_244_does_not_repeat_230_through_243(self):
+        earlier = {row["id"] for panel in range(230, 244) for row in unsplash.select(panel)}
+        rows = unsplash.select(244)
+        ids = [row["id"] for row in rows]
+        self.assertEqual(len(set(ids)), 8)
+        self.assertFalse(set(ids) & earlier)
+        self.assertEqual([row["orientation"] for row in rows[:4]], ["portrait"] * 4)
+        self.assertEqual([row["orientation"] for row in rows[4:]], ["landscape"] * 4)
 
     def test_rotation_differs_by_panel(self):
         a = tuple(row["id"] for row in unsplash.select(226))
