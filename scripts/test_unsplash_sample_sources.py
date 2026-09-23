@@ -50,6 +50,13 @@ class SelectTests(unittest.TestCase):
         self.assertFalse(set(ids) & earlier)
         self.assertEqual([row["orientation"] for row in rows[:4]], ["portrait"] * 4)
         self.assertEqual([row["orientation"] for row in rows[4:]], ["landscape"] * 4)
+        self.assertEqual(rows[2]["id"], "photo-1620694563886-c3a80ec55f41")
+
+    def test_panel_245_does_not_repeat_230_through_244(self):
+        earlier = {row["id"] for panel in range(230, 245) for row in unsplash.select(panel)}
+        ids = [row["id"] for row in unsplash.select(245)]
+        self.assertEqual(len(set(ids)), 8)
+        self.assertFalse(set(ids) & earlier)
 
     def test_rotation_differs_by_panel(self):
         a = tuple(row["id"] for row in unsplash.select(226))
