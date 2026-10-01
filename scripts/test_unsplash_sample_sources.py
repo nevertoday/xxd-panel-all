@@ -90,5 +90,21 @@ class SelectTests(unittest.TestCase):
         self.assertEqual(tuple(unsplash.TB20_POOL), unsplash.TB20_CATEGORIES)
 
 
+    def test_tb20_from_246_batch_is_disjoint(self):
+        self.assertEqual(tuple(unsplash.TB20_POOL_FROM_246), unsplash.TB20_CATEGORIES)
+        photos = [photo for photos in unsplash.TB20_POOL_FROM_246.values() for photo in photos]
+        self.assertEqual(len(photos), 440)
+        self.assertEqual(len(set(photos)), 440)
+        old = {photo for photos in unsplash.TB20_POOL.values() for photo in photos}
+        self.assertFalse(set(photos) & old)
+        chosen = []
+        for panel in range(246, 268):
+            rows = unsplash.select_tb20(panel)
+            self.assertEqual(len({row["id"] for row in rows}), 20)
+            chosen.extend(row["id"] for row in rows)
+        self.assertEqual(len(set(chosen)), 440)
+        self.assertNotEqual(unsplash.select_tb20(245)[0]["id"], unsplash.select_tb20(246)[0]["id"])
+
+
 if __name__ == "__main__":
     unittest.main()
