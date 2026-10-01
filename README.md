@@ -1144,18 +1144,18 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-<a href="https://github.com/nevertoday/xxd-panel-221"><img src="./assets/roster/221.jpg" alt="XXD Panel 221 · 摄影与数码混合媒介拼贴海报" width="100%"></a>
-<p align="center"><a href="https://github.com/nevertoday/xxd-panel-221"><strong>221</strong> · 摄影与数码混合媒介拼贴海报</a></p>
+<a href="https://github.com/nevertoday/xxd-panel-221"><img src="./assets/roster/221.jpg" alt="XXD Panel 221 · 新中式专色版画留白" width="100%"></a>
+<p align="center"><a href="https://github.com/nevertoday/xxd-panel-221"><strong>221</strong> · 新中式专色版画留白</a></p>
 </td>
     <td width="50%" valign="top">
-<a href="https://github.com/nevertoday/xxd-panel-222"><img src="./assets/roster/222.jpg" alt="XXD Panel 222 · 摄影与数码混合媒介拼贴海报" width="100%"></a>
-<p align="center"><a href="https://github.com/nevertoday/xxd-panel-222"><strong>222</strong> · 摄影与数码混合媒介拼贴海报</a></p>
+<a href="https://github.com/nevertoday/xxd-panel-222"><img src="./assets/roster/222.jpg" alt="XXD Panel 222 · 建筑化字体图形装置" width="100%"></a>
+<p align="center"><a href="https://github.com/nevertoday/xxd-panel-222"><strong>222</strong> · 建筑化字体图形装置</a></p>
 </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-<a href="https://github.com/nevertoday/xxd-panel-223"><img src="./assets/roster/223.jpg" alt="XXD Panel 223 · 摄影与数码混合媒介拼贴海报" width="100%"></a>
-<p align="center"><a href="https://github.com/nevertoday/xxd-panel-223"><strong>223</strong> · 摄影与数码混合媒介拼贴海报</a></p>
+<a href="https://github.com/nevertoday/xxd-panel-223"><img src="./assets/roster/223.jpg" alt="XXD Panel 223 · 复古雕版微型图集" width="100%"></a>
+<p align="center"><a href="https://github.com/nevertoday/xxd-panel-223"><strong>223</strong> · 复古雕版微型图集</a></p>
 </td>
     <td width="50%" valign="top">
 <a href="https://github.com/nevertoday/xxd-panel-224"><img src="./assets/roster/224.jpg" alt="XXD Panel 224 · 瓷器碎片拼合重构" width="100%"></a>
