@@ -45,7 +45,7 @@ class GalleryAuditTests(unittest.TestCase):
         queue = self.root / 'tmp/imagegen/159'
         queue.mkdir(parents=True)
         (queue / 'manifest.json').write_text(
-            '[{"sample":5,"image":"/Users/admin/Downloads/陈翔海报2026-08-26/a.jpg",'
+            '[{"sample":5,"image":"/tmp/陈翔海报/a.jpg",'
             '"size":"1536x864","prompt":"brief\\n\\noverlay"}]'
         )
         errors = audit(self.root, 159, 159)['errors']
