@@ -180,8 +180,8 @@ Use this index only to search, compare, and route. These summaries are not gener
 | 174 | 稚拙贴纸聚合志 | 多个独立粗笔贴纸单元中心聚合成主体，错位重叠与清晰轮廓，非整齐网格或随机贴纸包。 |
 | 175 | 琥珀透光纸雕小景志 | 20–25%微缩层叠纸雕、75–80%留白；暖象牙色与琥珀背光，暖褐纸影，红墨点睛不足1%。 |
 | 176 | 工笔阵盘微立体志 | 复杂有序阵盘、工笔细线与微立体层级，密集核心向外疏开，鲜活源图配色、近白背景和超大留白。 |
-| 177 | 异形微岛版画志 | 15–25%异形视觉岛屿，嵌套同构与克制破框；象牙白留白、墨藏青和灰橄榄绿、极少朱砂橙红。与178原稿完全相同。 |
-| 178 | 异形微岛版画志（同源） | 15–25%异形视觉岛屿，嵌套同构与克制破框；象牙白留白、墨藏青和灰橄榄绿、极少朱砂橙红。与177原稿完全相同。 |
+| 177 | 异形微岛版画志 | 15–25%异形视觉岛屿，嵌套同构与克制破框；象牙白留白、墨藏青和灰橄榄绿、极少朱砂橙红。 |
+| 178 | 手账墨记 | 极小手账记号、摇晃手绘线、橄榄墨单色、大片留白。 |
 | 179 | 丝带微缩陈列志 | 70–85%留白，近无彩色轻盈丝形台面与疏朗微缩展品；群青、朱红、赭金仅集中于主体，文字可作微细灰纹理。 |
 | 180 | 复古圆章旅行手账志 | 核心主体与1–2个环境线索组成小尺度圆形纪念章，木刻橡皮章与蚀刻质感、旧纸纤维、漏印错版；源图2–3色转为旧印泥色，极少金箔，大留白与章下英文标题、关键词。 |
 | 181 | 文人彩墨写意小品 | 整体呈现**彩墨写意、小品式构图、墨主色辅、大面积艺术留白与文人画式图文关系**共同形成的高级视觉效果。无论主体是人物、建筑、动物、植物、器物、交通工具或自然景观，都应重在“取其神而舍其繁”， |
@@ -233,6 +233,122 @@ Use this index only to search, compare, and route. These summaries are not gener
 | 227 | 刺绣任务章 | 机绣布章、任务识别章、缎面绣、锁边包边、工业识别排版、明快治愈配色、中等偏小尺度、暖白留白 |
 | 228 | 独立纸艺对象 | 手作纸品、稚拙手绘、剪纸色块、粗简几何、Risograph、2–3专色、奶油白留白、可选托手 |
 | 229 | 新民艺留白 | 安静怀旧、folk-modern、圆润简化、粉质水粉、蜡笔颗粒、极大量留白、粉彩低饱和 |
+| 230 | 负形纪念碑 | 负形剪影、密集手绘短线、白色纪念碑、极小稚拙人物、三色专色、平面印刷 |
+| 231 | 新稚拙手绘 | 新稚拙、松动彩色描边、马克笔彩铅、小尺度、奶油纸、大量留白 |
+| 232 | 横向层状民艺 | 横向分层、民艺现代、低密度、灰绿米色、孤立小人、旧书丝网 |
+| 233 | 簇绒纤维壁饰 | 簇绒、圈绒纱线、浅色纯底、明快取色、小尺度、大量留白 |
+| 234 | 数字编辑主视觉 | 扁平色块、圆角模块、编辑网格、明快取色、窄体无衬线、大留白 |
+| 235 | 薄荷像素料理 | 薄荷绿、块状像素、中心徽章、陶瓷盘、柔白光晕、料理游戏怀旧 |
+| 236 | 黑白几何符号 | 黑白灰、几何象形、极小居中、负形切割、博物馆导视、连续白场 |
+| 237 | Y2K贴纸拼贴 | neo-Y2K、白边贴纸、淡灰紫、酸柠钴蓝、散落拼贴、杂志小注 |
+| 238 | 哥特绘本微物 | 哥特绘本、微小孤立、水粉水彩、炭黑象牙白、暖色点、大量空白 |
+| 239 | 专色错版海报 | 孔版专色、半调网点、错版、大字图形、暖白纸、不对称编辑 |
+| 240 | 蜡笔视觉日记 | 油画棒蜡笔、未完成、小尺度留白、暖象牙土色、私人日记、匿名动作 |
+| 241 | 标本诗学图鉴 | 标本图鉴、局部黑白照片、手绘缺口轮廓、材质小样、瑞士小写粗黑、极端留白 |
+| 242 | 稚拙护符插画 | 稚拙护符、居中剪影、糖果色块、蜡笔涂痕、深色哑光底、少量符号 |
+| 243 | 蓝笔横线手稿 | 蓝色圆珠笔、横线笔记本、疏密排线、未完成空白、可见过程、私人观察 |
+| 244 | 停笔笔记 | 断续墨线、薄水彩、大量白纸、小尺度、俏皮克制、私人笔记 |
+| 245 | 记忆留白 | 选择性记忆、民艺现代、圆润简化、断续手绘线、粉质水粉、大量白纸 |
+| 246 | 新构成拼贴 | 新构成、几何色块、结构线、极端留白、编辑抽象 |
+| 247 | 柔性童书 | 柔性童书、彩铅水彩、诗性小品、小主体、大留白 |
+| 248 | 旧旅行手记 | 旧旅行手记、淡水彩、轻墨、纸张、不完整叙事 |
+| 249 | 氛围像素 | 氛围像素、低分辨率、柔和色块、剪影、高留白 |
+| 250 | 建筑几何诗 | 抽象建筑、几何拼贴、有机几何、编辑秩序、留白 |
+| 251 | 像素生命档 | 像素档案、生命符号、网格模块、极大留白、收藏感 |
+| 252 | 治愈贴纸 | 治愈贴纸、圆润角色、手帐、低刺激、极端留白 |
+| 253 | 扁平钥匙 | 扁平符号、主题钥匙、纯净色块、单一主体、留白 |
+| 254 | 东方几何档 | 东方几何、半透明色块、模块切片、极端留白、数字档案 |
+| 255 | 旅行纪念邮 | 旅行邮票、复古插画、小尺度收藏、彩铅蜡笔、超级留白 |
+| 256 | 稚拙民艺 | 稚拙民艺、艺术家手绘、圆润形体、居中焦点、大量空白 |
+| 257 | 寂静单线 | 寂静单线、侘寂、极细线、极端负空间、一个锚点 |
+| 258 | 奶油梦境 | 奶油梦境、柔软雕塑、极小主体、奶油色空间、触觉幻想 |
+| 259 | 古典诗稿 | 古典诗稿、稚拙墨线、诗意留白、私人手稿、不完美线 |
+| 260 | 几何记忆 | 几何记忆、稚拙叙事、几何符号、纸感、极端留白 |
+| 261 | 蜡笔记忆 | 蜡笔记忆、彩铅蜡笔、稚拙手绘、小尺度、负空间 |
+| 262 | 胶片残影 | 胶片残影、电影帧、轻微像素、低饱和、小主体留白 |
+| 263 | 纪念图章 | 纪念图章、中世纪现代、版画颗粒、小世界、极端留白 |
+| 264 | 手稿涂鸦 | 手稿涂鸦、低完成度、天真线稿、情绪密度、私人速写 |
+| 265 | 植物徽记 | 植物徽记、象征标志、植物围合、小符号、极端留白 |
+| 266 | 符号标识 | 符号标识、极简图标、当代工艺印记、小尺度、纯净留白 |
+| 267 | 织物徽章 | 织物徽章、布料浮雕、缝线毛边、小尺度收藏、极端留白 |
+| 268 | 安静符号 | 极简符号、稚拙图标、情绪标记、极端留白、私人收藏 |
+| 269 | 实验手记 | 实验符号、复古未来杂志、墨线网点、概念设计、留白 |
+| 270 | 东方图腾 | 东方印章、符号化图腾、朱砂墨色、极端留白、艺术档案 |
+| 271 | 私人徽记 | 极简符号、民艺印刷、私人徽记、极端留白、专色纸感 |
+| 272 | 单色灵魂 | 单色手绘、角色符号、墨线涂鸦、情绪留白、小灵魂 |
+| 273 | 新艺术纹章 | 新艺术线条、单一强调色、艺术徽章、极端留白、纸上线描 |
+| 274 | 夜色蜡笔 | 深色纸面、蜡笔彩线、童稚笔触、发光痕迹、小标志 |
+| 275 | 朴拙徽章 | 稚拙图标、水粉纸感、手工徽章、低刺激色、记忆符号 |
+| 276 | 空间档案 | 解构制图、建筑档案、细线叠层、米白纸面、极端留白 |
+| 277 | 几何标识 | 现代主义符号、几何剪影、编辑留白、有限色、品牌标记 |
+| 278 | 文化剪影 | 几何民艺、剪纸色块、丝网印刷、文化印章、暖白纸 |
+| 279 | 系统基因 | 后数字标识、瑞士解构、功能色点、印刷误差、抽象符号 |
+| 280 | 像素标本 | 低分辨率徽记、档案网格、信号色、暖白底、像素标本 |
+| 281 | 象形生命 | 新稚拙象形、轻微拟人、错版底色、极端留白、扁平符号 |
+| 282 | 柔焦有机 | 半透明叠层、柔焦扩散、乳白粉彩、有机轮廓、抽象标识 |
+| 283 | 时代徽章 | 太空时代徽章、硬边分色、机构档案、纪念构图、限定色 |
+| 284 | 文明徽记 | 微型纪念碑、轨道几何框、冷暖印刷、机构无衬线、徽章 |
+| 285 | 科学纪念章 | 邮票式纪念章、网点油墨、粗轮廓、博物馆档案、复古印刷 |
+| 286 | 粉彩图腾 | 粉彩超现实、稚拙波普、梦境徽章、手工印刷、小符号 |
+| 287 | 纸上小记 | 绘本笔触、小生命记号、纸张颗粒、低刺激色、大量留白 |
+| 288 | 典藏徽记 | 古典线描、知识徽章、羊皮纸色、博物馆标签、极端留白 |
+| 289 | 民艺记号 | 稚拙民艺、手工印章、旧绘本符号、粉质颗粒、温暖色盘 |
+| 290 | 旧绘本符 | 民间图腾、抖动轮廓、旧印刷、褪色色盘、小尺度符号 |
+| 291 | 温柔图腾 | 绘本图腾、柔软轮廓、蜡笔颗粒、微醺暖色、大量留白 |
+| 292 | 手账灵魂 | 情绪图标、手账标记、蜡笔水粉、亲切笨拙、极端留白 |
+| 293 | 诗意小章 | 高级稚拙、旧纸图章、轻微拟人、丝网颗粒、诗意留白 |
+| 294 | 极小私符 | 黑白手势线条、主体只占约一成、几乎无字、巨大留白。 |
+| 295 | 暖拙符号 | 圆润剪影、混合媒材、低饱和暖色、收藏标记、大面积留白 |
+| 296 | 手势痕迹 | 手势炭笔、半抽象、负空间、暖白纸面、单一焦点 |
+| 297 | 闭合暗号 | 断裂轮廓、格式塔、书法笔触、炭笔石墨、极端留白 |
+| 298 | 炭笔印记 | 炭笔墨迹、半抽象、痕迹经济、暖白纸、符号孤立 |
+| 299 | 复印残档 | 一比特复印、破损轮廓、网点侵蚀、档案残留、大量留白 |
+| 300 | 二值残印 | 纯黑纯白、误差扩散、负形挖空、档案印章、像素衰减 |
+| 301 | 数字遗物 | 低分辨率像素、数字木刻、网点锯齿、匿名图腾、旧系统标签 |
+| 302 | 民艺新章 | 新稚拙徽章、平涂色块、摇晃轮廓、丝网误差、编辑留白 |
+| 303 | 几何符号 | 几何抽象、强轮廓、负形、编辑品牌、有限色板 |
+| 304 | 构成图腾 | 新构成、有机对几何、手势细线、安静奢侈、单一图腾 |
+| 305 | 剪纸图腾 | 剪纸色块、丝网图标、民艺现代、鲜明暖色、单一符号 |
+| 306 | 民艺剪影 | 剪纸拼贴、平面色块、民艺印刷、小尺度图腾、巨大留白 |
+| 307 | 生活小记 | 温暖现代、圆润色块、干刷纸感、生活气息、小尺度留白 |
+| 308 | 纸剪徽章 | 纸剪徽章、套色误差、一主一辅一点、文化印记、干净留白 |
+| 309 | 概念小标 | 概念徽章、语义反差、少量改写、统一材质、极端留白 |
+| 310 | 精神场域 | 有机抽象、大形包小、负空间、丝网纸感、低密度 |
+| 311 | 旧书象形 | 手绘象形、旧书印章、色铅笔颗粒、单一符号、大留白 |
+| 312 | 童书记忆 | 中世纪童书、笨拙比例、一枚记忆章、蜡笔水粉、安静留白 |
+| 313 | 手帐私章 | 私人手帐、作者符号、犹豫线稿、色块、极端留白 |
+| 314 | 记忆童印 | 旧童书、记忆标记、粉笔颗粒、小尺度、极端留白 |
+| 315 | 民艺标识 | 民艺现代、剪纸丝网、形状优先、一主一辅、文化徽章 |
+| 316 | 触觉小雕 | 触觉雕塑、毛毡软陶、圆润块面、收藏徽章、干净留白 |
+| 317 | 圆拙图腾 | 稚拙现代、民艺工艺、手作误差、水粉蜡笔、单一图腾 |
+| 318 | 生活印记 | 生活气质、绘本标识、圆润手绘、水粉铅笔、小尺度留白 |
+| 319 | 诗性记号 | 诗性符号、安静超现实、第二叙事、铅笔蜡笔、极端留白 |
+| 320 | 人格剪影 | 角色标记、断裂轮廓、剪影优先、受控松散、收藏图标 |
+| 321 | 墨块旧章 | 手绘墨线、实心墨块、民俗图鉴、孤立标记、植物纹 |
+| 322 | 几何构成 | 中世纪现代、几何转译、形式先于语义、编辑符号、大留白 |
+| 323 | 白线徽记 | 植物徽记、白色单线、粉笔笔触、触觉底、品牌标记 |
+| 324 | 微物心象 | 安静魔幻、微小物件、巨大情绪、蜡笔干刷、极端留白 |
+| 325 | 神话私章 | 个人神话、图腾标志、版画线、丝网颗粒、收藏色 |
+| 326 | 粗拙图腾 | 克制粗拙、图腾象征、干刷粉笔、光环短线、悬置留白 |
+| 327 | 童刊遗符 | 旧儿童刊物的受控稚拙印刷记号、两到四种专色、微小注释。 |
+| 328 | 贴纸复徽 | 模切贴纸、复古小志、粗轮廓、专色印刷、收藏徽章 |
+| 329 | 余裕细线 | 余裕插画、摇晃单线、情绪图标、低刺激色、小主体留白 |
+| 330 | 私人珍藏 | 私人印记、手帐角落、非居中、柔软图腾、减法留白 |
+| 331 | 书页边饰 | 故事书边框、民间现代、中央留白、模块图形、剪影叙事 |
+| 332 | 故事遗徽 | 故事遗物、模块象形、民间几何、小印章、装饰留白 |
+| 333 | 圣技遗徽 | 技术考古、神圣电路、印章浮雕、仪式几何、微型圣物 |
+| 334 | 神话书票 | 新古典符号、迷幻装饰、中心印章、书籍藏书票、统一语法 |
+| 335 | 地下图章 | 地下文化、街头徽章、强剪影、手工印刷、小尺寸识别 |
+| 336 | 中轴神印 | 形而上极简、中轴嵌套、剪影、神圣留白、记忆印章 |
+| 337 | 像素残片 | 后网络低保真、像素模板、界面残片、标本框、沉默留白 |
+| 338 | 栅格残徽 | 强剪影、弱信息、单点异常、低保真栅格、空场陈列 |
+| 339 | 未来圣物 | 未来遗物、浅浮雕、金属蚀刻、古老未来、中心秩序 |
+| 340 | 视觉奇点 | 极小黑白符号、极端留白、剪影提取、中心引力 |
+| 341 | 第二世界 | 摄影越界、暖米白纸面、黑色线稿小人、英文手写旁白、微型超现实 |
+| 342 | 打孔余韵 | 单一模切模具、重复负形、随机落点、纯色留白、碎片语义重组、无文字 |
+| 343 | 悬浮像素画片 | 淡彩像素小画、阶梯轮廓、居中悬置、右下柔影、宽阔留白、轻细无衬线 |
+| 344 | 微缩地台 | 等距微缩模型、圆角方形地台、斜俯视、圆润软陶体块、粉调同类色、模型上的立体小字 |
+| 345 | 暗底剪影 | 无描边平涂剪影、前后叠压成一簇、深色底、低饱和粉灰色块、唯一一块亮面、干笔水粉颗粒、纤细衬线大写小字 |
 
 ## Latest repositories
 
@@ -285,6 +401,122 @@ Use this index only to search, compare, and route. These summaries are not gener
 - [Panel 227](https://github.com/nevertoday/xxd-panel-227)
 - [Panel 228](https://github.com/nevertoday/xxd-panel-228)
 - [Panel 229](https://github.com/nevertoday/xxd-panel-229)
+- [Panel 230](https://github.com/nevertoday/xxd-panel-230)
+- [Panel 231](https://github.com/nevertoday/xxd-panel-231)
+- [Panel 232](https://github.com/nevertoday/xxd-panel-232)
+- [Panel 233](https://github.com/nevertoday/xxd-panel-233)
+- [Panel 234](https://github.com/nevertoday/xxd-panel-234)
+- [Panel 235](https://github.com/nevertoday/xxd-panel-235)
+- [Panel 236](https://github.com/nevertoday/xxd-panel-236)
+- [Panel 237](https://github.com/nevertoday/xxd-panel-237)
+- [Panel 238](https://github.com/nevertoday/xxd-panel-238)
+- [Panel 239](https://github.com/nevertoday/xxd-panel-239)
+- [Panel 240](https://github.com/nevertoday/xxd-panel-240)
+- [Panel 241](https://github.com/nevertoday/xxd-panel-241)
+- [Panel 242](https://github.com/nevertoday/xxd-panel-242)
+- [Panel 243](https://github.com/nevertoday/xxd-panel-243)
+- [Panel 244](https://github.com/nevertoday/xxd-panel-244)
+- [Panel 245](https://github.com/xiaoxiaodong-ai/xxd-panel-245)
+- [Panel 246](https://github.com/xiaoxiaodong-ai/xxd-panel-246)
+- [Panel 247](https://github.com/xiaoxiaodong-ai/xxd-panel-247)
+- [Panel 248](https://github.com/xiaoxiaodong-ai/xxd-panel-248)
+- [Panel 249](https://github.com/xiaoxiaodong-ai/xxd-panel-249)
+- [Panel 250](https://github.com/xiaoxiaodong-ai/xxd-panel-250)
+- [Panel 251](https://github.com/xiaoxiaodong-ai/xxd-panel-251)
+- [Panel 252](https://github.com/xiaoxiaodong-ai/xxd-panel-252)
+- [Panel 253](https://github.com/xiaoxiaodong-ai/xxd-panel-253)
+- [Panel 254](https://github.com/xiaoxiaodong-ai/xxd-panel-254)
+- [Panel 255](https://github.com/xiaoxiaodong-ai/xxd-panel-255)
+- [Panel 256](https://github.com/xiaoxiaodong-ai/xxd-panel-256)
+- [Panel 257](https://github.com/xiaoxiaodong-ai/xxd-panel-257)
+- [Panel 258](https://github.com/xiaoxiaodong-ai/xxd-panel-258)
+- [Panel 259](https://github.com/xiaoxiaodong-ai/xxd-panel-259)
+- [Panel 260](https://github.com/xiaoxiaodong-ai/xxd-panel-260)
+- [Panel 261](https://github.com/xiaoxiaodong-ai/xxd-panel-261)
+- [Panel 262](https://github.com/xiaoxiaodong-ai/xxd-panel-262)
+- [Panel 263](https://github.com/xiaoxiaodong-ai/xxd-panel-263)
+- [Panel 264](https://github.com/xiaoxiaodong-ai/xxd-panel-264)
+- [Panel 265](https://github.com/xiaoxiaodong-ai/xxd-panel-265)
+- [Panel 266](https://github.com/xiaoxiaodong-ai/xxd-panel-266)
+- [Panel 267](https://github.com/xiaoxiaodong-ai/xxd-panel-267)
+- [Panel 268](https://github.com/xiaoxiaodong-ai/xxd-panel-268)
+- [Panel 269](https://github.com/xiaoxiaodong-ai/xxd-panel-269)
+- [Panel 270](https://github.com/xiaoxiaodong-ai/xxd-panel-270)
+- [Panel 271](https://github.com/xiaoxiaodong-ai/xxd-panel-271)
+- [Panel 272](https://github.com/xiaoxiaodong-ai/xxd-panel-272)
+- [Panel 273](https://github.com/xiaoxiaodong-ai/xxd-panel-273)
+- [Panel 274](https://github.com/xiaoxiaodong-ai/xxd-panel-274)
+- [Panel 275](https://github.com/xiaoxiaodong-ai/xxd-panel-275)
+- [Panel 276](https://github.com/xiaoxiaodong-ai/xxd-panel-276)
+- [Panel 277](https://github.com/xiaoxiaodong-ai/xxd-panel-277)
+- [Panel 278](https://github.com/xiaoxiaodong-ai/xxd-panel-278)
+- [Panel 279](https://github.com/xiaoxiaodong-ai/xxd-panel-279)
+- [Panel 280](https://github.com/xiaoxiaodong-ai/xxd-panel-280)
+- [Panel 281](https://github.com/xiaoxiaodong-ai/xxd-panel-281)
+- [Panel 282](https://github.com/xiaoxiaodong-ai/xxd-panel-282)
+- [Panel 283](https://github.com/xiaoxiaodong-ai/xxd-panel-283)
+- [Panel 284](https://github.com/xiaoxiaodong-ai/xxd-panel-284)
+- [Panel 285](https://github.com/xiaoxiaodong-ai/xxd-panel-285)
+- [Panel 286](https://github.com/xiaoxiaodong-ai/xxd-panel-286)
+- [Panel 287](https://github.com/xiaoxiaodong-ai/xxd-panel-287)
+- [Panel 288](https://github.com/xiaoxiaodong-ai/xxd-panel-288)
+- [Panel 289](https://github.com/xiaoxiaodong-ai/xxd-panel-289)
+- [Panel 290](https://github.com/xiaoxiaodong-ai/xxd-panel-290)
+- [Panel 291](https://github.com/xiaoxiaodong-ai/xxd-panel-291)
+- [Panel 292](https://github.com/xiaoxiaodong-ai/xxd-panel-292)
+- [Panel 293](https://github.com/xiaoxiaodong-ai/xxd-panel-293)
+- [Panel 294](https://github.com/xiaoxiaodong-ai/xxd-panel-294)
+- [Panel 295](https://github.com/xiaoxiaodong-ai/xxd-panel-295)
+- [Panel 296](https://github.com/xiaoxiaodong-ai/xxd-panel-296)
+- [Panel 297](https://github.com/xiaoxiaodong-ai/xxd-panel-297)
+- [Panel 298](https://github.com/xiaoxiaodong-ai/xxd-panel-298)
+- [Panel 299](https://github.com/xiaoxiaodong-ai/xxd-panel-299)
+- [Panel 300](https://github.com/xiaoxiaodong-ai/xxd-panel-300)
+- [Panel 301](https://github.com/xiaoxiaodong-ai/xxd-panel-301)
+- [Panel 302](https://github.com/xiaoxiaodong-ai/xxd-panel-302)
+- [Panel 303](https://github.com/xiaoxiaodong-ai/xxd-panel-303)
+- [Panel 304](https://github.com/xiaoxiaodong-ai/xxd-panel-304)
+- [Panel 305](https://github.com/xiaoxiaodong-ai/xxd-panel-305)
+- [Panel 306](https://github.com/xiaoxiaodong-ai/xxd-panel-306)
+- [Panel 307](https://github.com/xiaoxiaodong-ai/xxd-panel-307)
+- [Panel 308](https://github.com/xiaoxiaodong-ai/xxd-panel-308)
+- [Panel 309](https://github.com/xiaoxiaodong-ai/xxd-panel-309)
+- [Panel 310](https://github.com/xiaoxiaodong-ai/xxd-panel-310)
+- [Panel 311](https://github.com/xiaoxiaodong-ai/xxd-panel-311)
+- [Panel 312](https://github.com/xiaoxiaodong-ai/xxd-panel-312)
+- [Panel 313](https://github.com/xiaoxiaodong-ai/xxd-panel-313)
+- [Panel 314](https://github.com/xiaoxiaodong-ai/xxd-panel-314)
+- [Panel 315](https://github.com/xiaoxiaodong-ai/xxd-panel-315)
+- [Panel 316](https://github.com/xiaoxiaodong-ai/xxd-panel-316)
+- [Panel 317](https://github.com/xiaoxiaodong-ai/xxd-panel-317)
+- [Panel 318](https://github.com/xiaoxiaodong-ai/xxd-panel-318)
+- [Panel 319](https://github.com/xiaoxiaodong-ai/xxd-panel-319)
+- [Panel 320](https://github.com/xiaoxiaodong-ai/xxd-panel-320)
+- [Panel 321](https://github.com/xiaoxiaodong-ai/xxd-panel-321)
+- [Panel 322](https://github.com/xiaoxiaodong-ai/xxd-panel-322)
+- [Panel 323](https://github.com/xiaoxiaodong-ai/xxd-panel-323)
+- [Panel 324](https://github.com/xiaoxiaodong-ai/xxd-panel-324)
+- [Panel 325](https://github.com/xiaoxiaodong-ai/xxd-panel-325)
+- [Panel 326](https://github.com/xiaoxiaodong-ai/xxd-panel-326)
+- [Panel 327](https://github.com/xiaoxiaodong-ai/xxd-panel-327)
+- [Panel 328](https://github.com/xiaoxiaodong-ai/xxd-panel-328)
+- [Panel 329](https://github.com/xiaoxiaodong-ai/xxd-panel-329)
+- [Panel 330](https://github.com/xiaoxiaodong-ai/xxd-panel-330)
+- [Panel 331](https://github.com/xiaoxiaodong-ai/xxd-panel-331)
+- [Panel 332](https://github.com/xiaoxiaodong-ai/xxd-panel-332)
+- [Panel 333](https://github.com/xiaoxiaodong-ai/xxd-panel-333)
+- [Panel 334](https://github.com/xiaoxiaodong-ai/xxd-panel-334)
+- [Panel 335](https://github.com/xiaoxiaodong-ai/xxd-panel-335)
+- [Panel 336](https://github.com/xiaoxiaodong-ai/xxd-panel-336)
+- [Panel 337](https://github.com/xiaoxiaodong-ai/xxd-panel-337)
+- [Panel 338](https://github.com/xiaoxiaodong-ai/xxd-panel-338)
+- [Panel 339](https://github.com/xiaoxiaodong-ai/xxd-panel-339)
+- [Panel 340](https://github.com/xiaoxiaodong-ai/xxd-panel-340)
+- [Panel 341](https://github.com/nevertoday/xxd-panel-341)
+- [Panel 342](https://github.com/nevertoday/xxd-panel-342)
+- [Panel 343](https://github.com/nevertoday/xxd-panel-343)
+- [Panel 344](https://github.com/nevertoday/xxd-panel-344)
+- [Panel 345](https://github.com/nevertoday/xxd-panel-345)
 
 - [Panel 180 · 复古圆章旅行手账志](https://github.com/nevertoday/xxd-panel-180)
 
@@ -363,7 +595,7 @@ Use this index only to search, compare, and route. These summaries are not gener
 - [Panel 157 · 文物墨拓留白志](https://github.com/nevertoday/xxd-panel-157)
 - [Panel 158 · 纸本综合拼贴志](https://github.com/nevertoday/xxd-panel-158)
 
-This catalog contains 229 entries covering numbers 001–229. Panels 159–175 are packaged without generated sample artwork; actual runtime availability still depends on installed Skills.
+This catalog contains 345 entries covering numbers 001–345. Panels 159–175 are packaged without generated sample artwork; actual runtime availability still depends on installed Skills.
 
 ## Matching guidance
 
@@ -416,3 +648,35 @@ Panel 227 compresses the source into one embroidered mission patch / technical i
 Panel 228 rebuilds the source as one artist-made paper object / independent design paper good: naive drawing, cut-paper colour planes, coarse geometry, sparse linework, matte paper, Risograph or silkscreen grain, optional presenting hand, medium-small scale and warm cream-white breathing space. Distinguish it from 014’s origami sculpture, from 018’s papercut layers, from 105’s poetic paper collage, from 225’s office-object mixed-media diary, and from 227’s embroidered mission patch. It is not a photographic filter, filled realistic scene, commercial package, children’s craft-class sheet, smooth vector or templated brand layout. These notes are discovery metadata, never substitute prompts.
 
 Panel 229 is a quiet nostalgic folk-modern illustration: rounded simplified forms, gouache and crayon grain, small-scale placement and abundant ivory whitespace, with two to four powdery pastels from the source. Distinguish it from 228’s handmade paper object, from 225’s office-object collage, and from 017’s brighter naive editorial. It is not a photographic filter, filled realistic scene, high-saturation candy palette, smooth vector or commercial title stack. These notes are discovery metadata, never substitute prompts.
+
+Panel 230 leaves the subject as one huge white monument inside a field of imperfect horizontal dashes, with one tiny naïve figure and at most three colours. Distinguish it from 236’s centred black-white-grey pictogram and from 168’s reserved-white painting. It is not realism, volume, gradient, or smooth digital rendering. These notes are discovery metadata, never substitute prompts.
+
+Panel 231 is a loose contemporary neo-naïve drawing: shaky coloured outlines, marker and pencil, a small vignette and cream paper. Distinguish it from 229’s quieter gouache folk-modern forms and from 220’s simpler rounded doodle. It is not a polished vector or a filled realistic scene. These notes are discovery metadata, never substitute prompts.
+
+Panel 232 is a quiet folk-modernist landscape of shallow horizontal bands, muted sage and beige, and a tiny isolated figure used only as punctuation. Distinguish it from 229’s centred rounded folk forms and from 231’s brighter shaky outlines. It is not a filled landscape or a high-saturation illustration. These notes are discovery metadata, never substitute prompts.
+
+Panel 233 rebuilds the source as a small tufted loop-yarn wall hanging on an extremely pale flat ground, with bright clear colour and vast whitespace. Distinguish it from 124’s fabric appliqué and from 218’s needle-felt picture book. It is not a greyed textile photo or a filled wall display. These notes are discovery metadata, never substitute prompts.
+
+Panel 234 is a youthful graphic key visual: flat colour planes, a few rounded editorial modules, fine lines and warm-white air. Distinguish it from 237’s sticker-zine scatter and from 239’s misregistered print poster. It is not a cyber UI, a game screen or a realistic illustration. These notes are discovery metadata, never substitute prompts.
+
+Panel 235 is a mint culinary pixel badge: one chunky warm pixel subject on a pale plate, with dreamy bloom and near-white air. Distinguish it from 154’s retro pixel clusters and from 113’s shell-pixel collage. It is not a dark game interface or a sharp icon set. These notes are discovery metadata, never substitute prompts.
+
+Panel 236 compresses the source into one tiny centred black-grey-white pictogram in a continuous white field. Distinguish it from 230’s white monument inside dashed ink and from 090’s text-node diagram. It is not a large colourful icon or a textured drawing. These notes are discovery metadata, never substitute prompts.
+
+Panel 237 scatters several white-bordered sticker fragments of the same subject on pale gray-lavender, with acid lime and cobalt. Distinguish it from 234’s orderly flat key visual and from 148’s personal paper journal. It is not a cheap template or a tidy grid. These notes are discovery metadata, never substitute prompts.
+
+Panel 238 isolates a tiny gothic picture-book figure in charcoal, ivory and one warm touch on vast paper. Distinguish it from 229’s warmer folk pastels and from 240’s unfinished crayon diary. It is not horror, glossy cuteness or a filled scene. These notes are discovery metadata, never substitute prompts.
+
+Panel 239 is a spot-colour editorial poster: halftone, slight misregistration, oversized grotesk and warm uncoated paper. Distinguish it from 156’s strict two-ink separation and from 234’s flat digital modules. It is not a tidy brand template or a digital gradient. These notes are discovery metadata, never substitute prompts.
+
+Panel 240 is an unfinished crayon and oil-pastel diary: a small vignette, broken contours and warm earth colour. Distinguish it from 231’s clearer coloured outlines and from 238’s tiny gothic gouache figure. It is not a finished illustration or a brown vintage filter. These notes are discovery metadata, never substitute prompts.
+
+Panel 241 is a poetic specimen study: partial monochrome photography, a fragile contour for what is missing, isolated texture squares and small Swiss grotesk. The user brief is English and is stored verbatim. Distinguish it from 127’s architectural research board and from 236’s pure geometric pictogram. It is not a full-colour plate or a filled catalogue grid. These notes are discovery metadata, never substitute prompts.
+
+Panel 242 centres one faux-naïf talisman: candy-coloured flats, crayon scribble and a deep matte ground. Distinguish it from 231’s cream-paper neo-naïve vignette and from 240’s unfinished ivory diary. It is not a polished character illustration. These notes are discovery metadata, never substitute prompts.
+
+Panel 243 is a blue-ballpoint study on cheap lined paper: lines run through the drawing, hatching is uneven, and much of the page stays untouched. Distinguish it from 240’s crayon diary and from 118’s graphite sketch. It is not a cleaned technical drawing or a photo trace. These notes are discovery metadata, never substitute prompts.
+
+Panel 244 is a private notebook sketch: broken ink, thin watercolor, a small subject and a great deal of untouched paper. Distinguish it from 243’s blue ballpoint on lined paper and from 240’s unfinished crayon diary. It is not a filled illustration, smooth digital finish or commercial title stack. These notes are discovery metadata, never substitute prompts.
+
+Panel 245 is a quiet nostalgic folk-modern memory: rounded simplified forms, a loose imperfect line, powdery gouache and a large field of untouched paper. Distinguish it from 244’s broken-ink notebook character and from 229’s powder-pastel folk miniature. It is not a filled scene, smooth vector or commercial illustration. These notes are discovery metadata, never substitute prompts.
