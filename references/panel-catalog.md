@@ -349,6 +349,15 @@ Use this index only to search, compare, and route. These summaries are not gener
 | 343 | 悬浮像素画片 | 淡彩像素小画、阶梯轮廓、居中悬置、右下柔影、宽阔留白、轻细无衬线 |
 | 344 | 微缩地台 | 等距微缩模型、圆角方形地台、斜俯视、圆润软陶体块、粉调同类色、模型上的立体小字 |
 | 345 | 暗底剪影 | 无描边平涂剪影、前后叠压成一簇、深色底、低饱和粉灰色块、唯一一块亮面、干笔水粉颗粒、纤细衬线大写小字 |
+| 346 | 棱纹玻璃 | 满版近景、极细极密的竖向棱纹玻璃、轮廓碎成竖向小锯齿、棱边细亮线、通透午后暖光、背景虚成色斑、杂志封面式细线衬线刊名 |
+| 347 | 戏服小立像 | 正面端正站立、单色斗篷兜帽或尖帽、手边小道具、透明水彩平涂与水痕、两点小黑眼、暖白空底、一行淡铅笔小注 |
+| 348 | 图鉴墨点 | 单色墨点点描、无连续实线、密点成暗面单行点勾亮边、侧面标本姿态、浅色平涂底、断续点线、图鉴条目编号与俗名、斜体伪拉丁学名 |
+| 349 | 碎方小岛 | 圆角长方形平涂色块、错开叠压、边缘飘散碎方块、深色块里留白细线、深色底座上轻下重、白底浮岛、马克笔式水痕、右下手写小字 |
+| 350 | 霓虹精灵 | 浅淡细墨写实线稿、主体变成软胖发光精灵、一圈套一圈的彩虹光晕、小圆眼短横线嘴、几只小精灵与彩色光弧、右下角铅笔小字题目 |
+| 351 | 马克笔大字 | 黑色粗马克笔稚拙手写大字横跨中部、短词组说出照片隐喻、笨拙小涂鸦靠在字上、歪斜细线框、小号手写注脚、暖白留白、几块亮色 |
+| 352 | 黑线小景 | 正面平视黑色细线、不上色、方正略歪的玩具感小景、断续短横线地面、身后一朵大云、中央极小视觉岛与大片留白、下方手写短诗 |
+| 353 | 点描光锥 | 近墨深暗底、细密亮点聚成的巨大三角光锥、下宽上窄越往上越淡、光锥脚下一小块平行刻线剪影、低矮刻线地面、横躺的长刻线、一暗一亮双色、底边古典衬线图号加图注 |
+| 354 | 粗墨涂鸦 | 粗而微抖的黑色墨线圈住平涂色块、圆胖稚拙正面简笔形、横贯画面的粗黑地面线、奶油色空底、哑色加一处亮色点睛、圆胖手写小话 |
 
 ## Latest repositories
 
@@ -517,6 +526,15 @@ Use this index only to search, compare, and route. These summaries are not gener
 - [Panel 343](https://github.com/nevertoday/xxd-panel-343)
 - [Panel 344](https://github.com/nevertoday/xxd-panel-344)
 - [Panel 345](https://github.com/nevertoday/xxd-panel-345)
+- [Panel 346](https://github.com/nevertoday/xxd-panel-346)
+- [Panel 347](https://github.com/nevertoday/xxd-panel-347)
+- [Panel 348](https://github.com/nevertoday/xxd-panel-348)
+- [Panel 349](https://github.com/nevertoday/xxd-panel-349)
+- [Panel 350](https://github.com/nevertoday/xxd-panel-350)
+- [Panel 351](https://github.com/nevertoday/xxd-panel-351)
+- [Panel 352](https://github.com/nevertoday/xxd-panel-352)
+- [Panel 353](https://github.com/nevertoday/xxd-panel-353)
+- [Panel 354](https://github.com/nevertoday/xxd-panel-354)
 
 - [Panel 180 · 复古圆章旅行手账志](https://github.com/nevertoday/xxd-panel-180)
 
@@ -595,7 +613,7 @@ Use this index only to search, compare, and route. These summaries are not gener
 - [Panel 157 · 文物墨拓留白志](https://github.com/nevertoday/xxd-panel-157)
 - [Panel 158 · 纸本综合拼贴志](https://github.com/nevertoday/xxd-panel-158)
 
-This catalog contains 345 entries covering numbers 001–345. Panels 159–175 are packaged without generated sample artwork; actual runtime availability still depends on installed Skills.
+This catalog contains 354 entries covering numbers 001–354. Panels 159–175 are packaged without generated sample artwork; actual runtime availability still depends on installed Skills.
 
 ## Matching guidance
 
