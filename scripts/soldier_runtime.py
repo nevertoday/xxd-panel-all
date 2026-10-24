@@ -14,6 +14,7 @@ import hashlib
 import json
 import re
 import shutil
+import subprocess
 import sys
 from pathlib import Path
 
@@ -63,7 +64,7 @@ OVERLAYS = {
 SKILL_BODY = """\
 # XXD Panel {nnn}
 
-Create finished PNG artwork from the current user-supplied photograph or image directory. Read `references/original-prompt/zh-CN.md` completely immediately before every generation. That Chinese source brief is the sole creative and aesthetic authority; never summarise, translate, blend, or replace it with this file, a README, a sample, or another Panel.
+Create finished PNG artwork from the current user-supplied photograph or image directory. Read `references/original-prompt/zh-CN.md` completely immediately before every generation. {brief_sentence} the sole creative and aesthetic authority; never summarise, translate, blend, or replace it with this file, a README, a sample, or another Panel.
 
 Read `references/soldier-runtime.md` completely immediately before building every generation request. It is the sole family runtime contract for parameters, preference reuse, directory batches, preflight, prompt assembly, bitmap execution, output isolation, and acceptance. This Skill must not write a second art direction or a second runtime.
 {overlay}
@@ -193,10 +194,17 @@ def overlay_markdown(nnn: int, extracted: str) -> str:
     )
 
 
-def render_skill(nnn: int, description: str, extracted: str) -> str:
+def brief_sentence(brief: str) -> str:
+    """Name the brief's real language; the archive file is zh-CN.md even when the brief is English (241)."""
+    if brief and not re.search(r'[\u3400-\u9fff]', brief):
+        return 'That English source brief, stored verbatim in `references/original-prompt/zh-CN.md`, is'
+    return 'That Chinese source brief is'
+
+
+def render_skill(nnn: int, description: str, extracted: str, brief: str = '') -> str:
     quoted = json.dumps(description, ensure_ascii=False)
     overlay = overlay_markdown(nnn, extracted)
-    body = SKILL_BODY.format(nnn=f'{nnn:03d}', overlay=overlay)
+    body = SKILL_BODY.format(nnn=f'{nnn:03d}', overlay=overlay, brief_sentence=brief_sentence(brief))
     return (
         f'---\nname: xxd-panel-{nnn:03d}\ndescription: {quoted}\n---\n\n{body}'
     )
@@ -204,6 +212,21 @@ def render_skill(nnn: int, description: str, extracted: str) -> str:
 
 def render_adapter(template: str, nnn: int) -> str:
     return template.replace('{nnn}', f'{nnn:03d}')
+
+
+def family_sample_hashes(sample: Path) -> set[str]:
+    """SHA-256 of every version of the family sample-workflow.md, current and committed."""
+    hashes = {sha(sample)}
+    try:
+        log = subprocess.run(['git', '-C', str(ALL), 'log', '--format=%H', '--', f'references/{SAMPLE_NAME}'],
+                             capture_output=True, text=True, check=True).stdout.split()
+        for commit in log:
+            blob = subprocess.run(['git', '-C', str(ALL), 'show', f'{commit}:references/{SAMPLE_NAME}'],
+                                  capture_output=True, check=True).stdout
+            hashes.add(hashlib.sha256(blob).hexdigest())
+    except (OSError, subprocess.CalledProcessError):
+        pass  # Without history, any differing copy is kept as panel-specific.
+    return hashes
 
 
 def copy_if_changed(src: Path, dest: Path) -> bool:
@@ -223,7 +246,7 @@ def write_if_changed(dest: Path, text: str) -> bool:
 
 
 def apply_one(directory: Path, runtime: Path, zh_t: str, en_t: str, sample: Path,
-              compose: Path, imagegen: Path) -> list[str]:
+              compose: Path, imagegen: Path, family_samples: set[str] | None = None) -> list[str]:
     nnn = panel_number(directory)
     changed = []
     skill_path = directory / 'SKILL.md'
@@ -234,7 +257,9 @@ def apply_one(directory: Path, runtime: Path, zh_t: str, en_t: str, sample: Path
         f'Use when the user invokes xxd-panel-{nnn:03d} or requests the exact Panel {nnn:03d} style.'
     )
     extracted = extract_style_overlay(old_skill) if old_skill else ''
-    if write_if_changed(skill_path, render_skill(nnn, description, extracted)):
+    brief_path = directory / 'references' / 'original-prompt' / 'zh-CN.md'
+    brief = brief_path.read_text() if brief_path.is_file() else ''
+    if write_if_changed(skill_path, render_skill(nnn, description, extracted, brief)):
         changed.append('SKILL.md')
     refs = directory / 'references'
     if copy_if_changed(runtime, refs / RUNTIME_NAME):
@@ -244,7 +269,12 @@ def apply_one(directory: Path, runtime: Path, zh_t: str, en_t: str, sample: Path
     if write_if_changed(refs / f'xxd-panel-{nnn:03d}-prompt.en.md', render_adapter(en_t, nnn)):
         changed.append(f'references/xxd-panel-{nnn:03d}-prompt.en.md')
     sample_dest = refs / SAMPLE_NAME
-    if copy_if_changed(sample, sample_dest):
+    # Replace only a missing file or a family copy; a Soldier's own sample record (217-220) stays.
+    if family_samples is None:
+        family_samples = family_sample_hashes(sample)
+    if sample_dest.is_file() and sha(sample_dest) not in family_samples:
+        changed.append(f'kept panel-specific references/{SAMPLE_NAME}')
+    elif copy_if_changed(sample, sample_dest):
         changed.append(f'references/{SAMPLE_NAME}')
     scripts = directory / 'scripts'
     if copy_if_changed(imagegen, scripts / IMAGEGEN_NAME):
@@ -265,14 +295,13 @@ def apply(root: Path, panels: list[int] | None) -> int:
     for required in (runtime, sample, compose, imagegen):
         if not required.is_file():
             raise SystemExit(f'missing canonical file: {required}')
+    family_samples = family_sample_hashes(sample)
     n_changed = 0
     for directory in soldier_dirs(root, panels):
-        changed = apply_one(directory, runtime, zh_t, en_t, sample, compose, imagegen)
-        if changed:
+        changed = apply_one(directory, runtime, zh_t, en_t, sample, compose, imagegen, family_samples)
+        if any(not c.startswith('kept ') for c in changed):
             n_changed += 1
-            print(f'{directory.name}: ' + ', '.join(changed))
-        else:
-            print(f'{directory.name}: unchanged')
+        print(f'{directory.name}: ' + (', '.join(changed) if changed else 'unchanged'))
     print(f'updated {n_changed} Soldier repositories')
     return 0
 

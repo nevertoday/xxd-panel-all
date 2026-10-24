@@ -58,5 +58,35 @@ class ContaminationTests(unittest.TestCase):
             self.assertTrue(any('contamination' in f or '100 MiB' in f for f in fails))
 
 
+class ApplyPreservationTests(unittest.TestCase):
+    def test_brief_language(self):
+        self.assertIn('English source brief', sr.brief_sentence('A conceptual editorial specimen study.'))
+        self.assertEqual(sr.brief_sentence('请将我上传的每一张照片'), 'That Chinese source brief is')
+        self.assertEqual(sr.brief_sentence(''), 'That Chinese source brief is')
+
+    def test_panel_specific_sample_workflow_kept(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            refs = Path(tmp) / 'xxd-panel-217' / 'references'
+            refs.mkdir(parents=True)
+            own = refs / sr.SAMPLE_NAME
+            own.write_text('# Sample artwork\n\nGenerated with API 3.\n')
+            family = {sr.sha(sr.REFS / sr.SAMPLE_NAME)}
+            changed = sr.apply_one(refs.parent, sr.REFS / sr.RUNTIME_NAME, '', '', sr.REFS / sr.SAMPLE_NAME,
+                                   sr.CANON / sr.COMPOSE_NAME, sr.CANON / sr.IMAGEGEN_NAME, family)
+            self.assertIn('Generated with API 3.', own.read_text())
+            self.assertIn(f'kept panel-specific references/{sr.SAMPLE_NAME}', changed)
+
+    def test_family_copy_sample_workflow_replaced(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            refs = Path(tmp) / 'xxd-panel-001' / 'references'
+            refs.mkdir(parents=True)
+            old = refs / sr.SAMPLE_NAME
+            old.write_text('old family text\n')
+            family = {sr.sha(sr.REFS / sr.SAMPLE_NAME), sr.sha(old)}
+            sr.apply_one(refs.parent, sr.REFS / sr.RUNTIME_NAME, '', '', sr.REFS / sr.SAMPLE_NAME,
+                         sr.CANON / sr.COMPOSE_NAME, sr.CANON / sr.IMAGEGEN_NAME, family)
+            self.assertEqual(old.read_bytes(), (sr.REFS / sr.SAMPLE_NAME).read_bytes())
+
+
 if __name__ == '__main__':
     unittest.main()

@@ -23,7 +23,7 @@ Use this index only to search, compare, and route. These summaries are not gener
 | 017 | 明快亲切的韩式稚拙编辑插画 | 圆润形体、粗糙断线、纯色平涂、明亮色场、不对称 |
 | 018 | 视觉锚点、纸层和精密微排版 | 前中后纸层、暖象牙、哑光纸、微排版、克制 |
 | 019 | 高辨识度现代主义插画 | 主体辨识、意图化简、现代主义、编辑文字、构成 |
-| 020 | 极简抽象记忆和完整编辑系统 | 解构筛选、少量形体、严格色彩、象牙留白、艺术书 |
+| 020 | 厚涂颜料里长出的立体微景观 | 厚涂颜料岛、油画刀刮痕、立体微缩、纸面留白、编辑排版 |
 | 021 | 从纯黑矩形中越界而出 | 黑色矩形、主体越界、抖动复印线、白色负形、张力 |
 | 022 | 流畅线稿与唯一彩点的黑框越界 | 黑色矩形、稳定线条、单点彩色、主体越界、克制 |
 | 023 | 东方柔光窗景 | 源图择窗、浅色背景、有色光影、喷绘颗粒、东方留白 |
@@ -118,7 +118,7 @@ Use this index only to search, compare, and route. These summaries are not gener
 | 112 | 金线纸本志 | 双层手工纸、横向窄色块、深色哑光蜡粉笔、克制金线、自然越界、Risograph颗粒、安静留白 |
 | 113 | 贝壳像素留白志 | 最多200块近等大天然贝壳方片、几何网格、边缘渐散、明快取色、小尺度章印与大留白 |
 | 114 | 复古粉彩手账涂鸦 | 复古纸张、粉彩手绘、材料拼贴、手账涂鸦、轻盈留白、编辑注释 |
-| 115 | 粉彩章印拼贴志 | 粉彩章印、纸张拼贴、手绘线条、少量金线、复古纸本、私人记录 |
+| 115 | 粉彩章印拼贴志 | 粉彩章印、纸张拼贴、手绘线条、奶油白线提亮、复古纸本、私人记录 |
 | 116 | 浅纸粉彩涂鸦志 | 极浅纸面、粗颗粒彩线、极简涂鸦、柔和粉彩、手工纸感、安静留白 |
 | 117 | 细线淡彩留白志 | 细线手绘、淡彩平涂、轻纸拼贴、2–4照片取色、小尺度视觉锚点、主动留白 |
 | 118 | 石墨留白素描志 | 石墨轮廓、排线与轻灰调、松弛稚拙素描、灰色主导、可选少量源图色、超大留白 |
@@ -540,7 +540,7 @@ Use this index only to search, compare, and route. These summaries are not gener
 
 - [Panel 176 · 工笔阵盘微立体志](https://github.com/nevertoday/xxd-panel-176)
 - [Panel 177 · 异形微岛版画志](https://github.com/nevertoday/xxd-panel-177)
-- [Panel 178 · 异形微岛版画志（同源）](https://github.com/nevertoday/xxd-panel-178)
+- [Panel 178 · 手账墨记](https://github.com/nevertoday/xxd-panel-178)
 - [Panel 179 · 丝带微缩陈列志](https://github.com/nevertoday/xxd-panel-179)
 
 - [Panel 159 · 字符网点实验志](https://github.com/nevertoday/xxd-panel-159)
@@ -649,7 +649,7 @@ For Panel 113, choose a natural-material pixel collage: at most 200 similarly si
 
 For Panels 159–175, distinguish 161’s hand-painted framed field from 168’s reserved-white negative-shape painting; 160’s expressive source-colour pen wash from 169’s 75–85% paper and fixed ochre palette, and 170’s strict black/rust-red dry marks. Keep 163’s centred solid-colour stamp separate from 172’s centred subject with subordinate translucent geometry, and 171’s dispersed islands with vertical rhythm. 173 uses a 10–20% paper-text miniature and roughly 95% ivory/beige/brown, whereas 175 uses 20–25% layered paper sculpture, amber backlight and less than 1% red/ink accents. 162 requires one irregular white backing, while 174 aggregates multiple sticker-like units. 164 combines ink and architectural drawing; 166 requires sculptural isometric bas-relief; 167 uses a centred abstract wave with raised ink, not literal seawater. 165 centres a vertical paper tear. 159 makes bitmap typography integral rather than a caption. These summaries are routing aids, never replacement generation prompts.
 
-Panels 176–179 are packaged without generated samples. Panel 176 requires a complex ordered hand-drawn ritual diagram with shallow relief and bright source-derived colours. Panels 177 and 178 have byte-identical canonical sources: retain both requested numbers, treat them as equivalent, and never invent stylistic distinctions. Their fixed navy/olive/vermilion micro-island differs from Panel 179’s sparse ribbon display with ultramarine/vermilion/ochre-gold exhibits.
+Panel 176 requires a complex ordered hand-drawn ritual diagram with shallow relief and bright source-derived colours. Panel 177's fixed navy/olive/vermilion micro-island differs from Panel 179’s sparse ribbon display with ultramarine/vermilion/ochre-gold exhibits. Panel 178 was later restyled with its own brief: a tiny olive-ink diary mark with wobbly hand-drawn lines, not a logo, emoji or icon; it no longer shares 177's source.
 
 Panel 180 uses a circular vintage souvenir stamp, woodcut/rubber-stamp and etched textures, 2–3 faded source-derived ink colours and optional tiny gold foil. Keep the English headline and smaller keywords below the stamp by default. Its canonical source prohibits left-right layouts and Chinese captions; only an explicit current delivery request overrides those variables. Packaged without generated samples.
 
