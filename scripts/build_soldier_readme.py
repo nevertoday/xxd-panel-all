@@ -514,6 +514,14 @@ def license_section(old: str, heading: str) -> str:
     return section.removesuffix('</div>').rstrip() + '\n'  # the Arabic RTL wrapper is added again by render
 
 
+def setup_section(t: dict, probe: str = 'scripts/configured_imagegen.py') -> str:
+    """The image-route setup steps; shared with the General README."""
+    return (f'## {t["setup"]}\n\n{t["setup_intro"]}\n\n```bash\nmkdir -p ~/.xxd-imagegen\ncat > ~/.xxd-imagegen/config.toml <<\'EOF\'\n'
+            f'model_provider = "image"\n\n[model_providers.image]\nbase_url = "https://api.openai.com/v1"   # {t["setup_url"]}\nenv_key = "XXD_IMAGE_API_KEY"\nEOF\n\n'
+            f'# {t["setup_env"]}\necho \'export XXD_IMAGEGEN_CODEX_DIR=~/.xxd-imagegen\' >> ~/.zshrc\necho \'export XXD_IMAGE_API_KEY={t["setup_key"]}\' >> ~/.zshrc\n```\n\n'
+            f'{t["setup_check"]}\n\n```bash\npython3 {probe} probe\n```\n\n{t["setup_ok"]}\n')
+
+
 def render(directory: Path, lang: str, profile: dict, old: str) -> str:
     t, p = T[lang], profile[lang]
     nnn = directory.name.removeprefix('xxd-panel-')
@@ -564,10 +572,7 @@ def render(directory: Path, lang: str, profile: dict, old: str) -> str:
         prompt += f'\n\n{t["prompt_trans"]}' + ' · '.join(f'[{label}](references/original-prompt/{code}.md)' for code, label in trans)
     out.append(prompt + '\n')
 
-    out.append(f'## {t["setup"]}\n\n{t["setup_intro"]}\n\n```bash\nmkdir -p ~/.xxd-imagegen\ncat > ~/.xxd-imagegen/config.toml <<\'EOF\'\n'
-               f'model_provider = "image"\n\n[model_providers.image]\nbase_url = "https://api.openai.com/v1"   # {t["setup_url"]}\nenv_key = "XXD_IMAGE_API_KEY"\nEOF\n\n'
-               f'# {t["setup_env"]}\necho \'export XXD_IMAGEGEN_CODEX_DIR=~/.xxd-imagegen\' >> ~/.zshrc\necho \'export XXD_IMAGE_API_KEY={t["setup_key"]}\' >> ~/.zshrc\n```\n\n'
-               f'{t["setup_check"]}\n\n```bash\npython3 scripts/configured_imagegen.py probe\n```\n\n{t["setup_ok"]}\n')
+    out.append(setup_section(t))
 
     rh = t['ref_head']
     out.append(f'## {t["ref"]}\n\n| {rh[0]} | {rh[1]} |\n|---|---|\n' +
